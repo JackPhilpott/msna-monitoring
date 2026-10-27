@@ -1,0 +1,79 @@
+list_name,name,label::English
+yes_no,yes,Yes
+yes_no,no,No
+partner,partner_a,Partner A
+partner,partner_b,Partner B
+partner,partner_c,Partner C
+partner,partner_d,Partner D
+partner,partner_e,Partner E
+partner,partner_f,Partner F
+partner,partner_g,Partner G
+partner,partner_h,Partner H
+partner,partner_i,Partner I
+partner,partner_j,Partner J
+partner,partner_k,Partner K
+partner,partner_l,Partner L
+partner,partner_m,Partner M
+partner,partner_n,Partner N
+partner,partner_o,Partner O
+partner,partner_p,Partner P
+partner,partner_q,Partner Q
+partner,partner_r,Partner R
+partner,partner_s,Partner S
+partner,partner_t,Partner T
+gender,male,Male
+gender,female,Female
+setting,camp_formal,Formal camp
+setting,camp_informal,Informal camp or settlement
+setting,urban,Urban
+setting,rural,Rural
+displacement,non_displaced,Not displaced
+displacement,idp,Internally displaced
+displacement,returnee,Returnee
+frequency,rarely,Rarely (1 to 2 times)
+frequency,sometimes,Sometimes (3 to 10 times)
+frequency,often,Often (more than 10 times)
+lcsi,yes,Yes
+lcsi,no_exhausted,"No, because the household already used up this strategy"
+lcsi,no_not_needed,"No, because it was not needed"
+lcsi,not_applicable,Not applicable
+water_source,piped,Piped into dwelling or yard
+water_source,public_tap,Public tap or standpipe
+water_source,borehole,Borehole or tubewell
+water_source,protected_well,Protected dug well
+water_source,unprotected_well,Unprotected dug well
+water_source,surface_water,"Surface water (river, pond, stream)"
+water_source,water_vendor,Water vendor or cart
+water_source,other,Other
+sanitation,flush_toilet,Flush or pour-flush toilet
+sanitation,pit_latrine_slab,Pit latrine with slab
+sanitation,pit_latrine_no_slab,Pit latrine without slab
+sanitation,open_defecation,"No facility (bush, field)"
+sanitation,other,Other
+shelter_type,solid_house,Solid house
+shelter_type,unfinished_house,Unfinished or damaged house
+shelter_type,makeshift,Makeshift shelter
+shelter_type,tent,Tent
+shelter_type,collective_centre,Collective centre
+health_barrier,cost,Could not afford it
+health_barrier,distance,Too far or no transport
+health_barrier,insecurity,Insecurity on the way
+health_barrier,no_staff_medicine,No staff or medicine at the facility
+health_barrier,other,Other
+income_source,crops,Crop farming
+income_source,livestock,Livestock
+income_source,daily_labour,Daily or casual labour
+income_source,petty_trade,Petty trade
+income_source,salaried,Salaried work
+income_source,remittances,Remittances
+income_source,assistance,Humanitarian assistance
+income_source,none,No income
+income_source,other,Other
+priority_needs,food,Food
+priority_needs,water,Water
+priority_needs,shelter,Shelter
+priority_needs,health,Health care
+priority_needs,education,Education
+priority_needs,livelihoods,Livelihoods
+priority_needs,protection,Protection
+priority_needs,nfis,Household items

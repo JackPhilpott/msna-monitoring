@@ -1,0 +1,187 @@
+adm1_pcode,adm1_name,adm2_pcode,adm2_name,org_id
+NG002,Adamawa,NG002001,Demsa,partner_a
+NG002,Adamawa,NG002002,Fufore,partner_b
+NG002,Adamawa,NG002003,Ganye,partner_a
+NG002,Adamawa,NG002005,Girei,partner_b
+NG002,Adamawa,NG002004,Gombi,partner_b
+NG002,Adamawa,NG002006,Guyuk,partner_a
+NG002,Adamawa,NG002007,Hong,partner_b
+NG002,Adamawa,NG002008,Jada,partner_b
+NG002,Adamawa,NG002009,Lamurde,partner_a
+NG002,Adamawa,NG002012,Mayo-Belwa,partner_a
+NG002,Adamawa,NG002014,Mubi North,partner_b
+NG002,Adamawa,NG002016,Numan,partner_a
+NG002,Adamawa,NG002017,Shelleng,partner_a
+NG002,Adamawa,NG002018,Song,partner_b
+NG002,Adamawa,NG002019,Toungo,partner_a
+NG002,Adamawa,NG002020,Yola North,partner_b
+NG002,Adamawa,NG002021,Yola South,partner_b
+NG007,Benue,NG007001,Ado,partner_c
+NG007,Benue,NG007002,Agatu,partner_c
+NG007,Benue,NG007003,Apa,partner_c
+NG007,Benue,NG007004,Buruku,partner_d
+NG007,Benue,NG007005,Gboko,partner_d
+NG007,Benue,NG007007,Gwer East,partner_d
+NG007,Benue,NG007008,Gwer West,partner_c
+NG007,Benue,NG007009,Katsina-Ala,partner_d
+NG007,Benue,NG007010,Konshisha,partner_d
+NG007,Benue,NG007011,Kwande,partner_d
+NG007,Benue,NG007012,Logo,partner_d
+NG007,Benue,NG007014,Obi,partner_c
+NG007,Benue,NG007015,Ogbadibo,partner_c
+NG007,Benue,NG007016,Ohimini,partner_c
+NG007,Benue,NG007017,Oju,partner_c
+NG007,Benue,NG007018,Okpokwu,partner_c
+NG007,Benue,NG007019,Oturkpo,partner_c
+NG007,Benue,NG007020,Tarka,partner_d
+NG007,Benue,NG007021,Ukum,partner_d
+NG007,Benue,NG007022,Ushongo,partner_d
+NG007,Benue,NG007023,Vandeikya,partner_d
+NG008,Borno,NG008002,Askira/Uba,partner_f
+NG008,Borno,NG008003,Bama,partner_f
+NG008,Borno,NG008004,Bayo,partner_e
+NG008,Borno,NG008006,Chibok,partner_e
+NG008,Borno,NG008007,Damboa,partner_e
+NG008,Borno,NG008008,Dikwa,partner_f
+NG008,Borno,NG008009,Gubio,partner_e
+NG008,Borno,NG008010,Guzamala,partner_f
+NG008,Borno,NG008012,Hawul,partner_e
+NG008,Borno,NG008016,Konduga,partner_f
+NG008,Borno,NG008017,Kukawa,partner_f
+NG008,Borno,NG008018,Kwaya Kusar,partner_e
+NG008,Borno,NG008019,Mafa,partner_f
+NG008,Borno,NG008020,Magumeri,partner_e
+NG008,Borno,NG008022,Marte,partner_f
+NG008,Borno,NG008023,Mobbar,partner_e
+NG008,Borno,NG008024,Monguno,partner_f
+NG008,Borno,NG008026,Nganzai,partner_f
+NG008,Borno,NG008027,Shani,partner_e
+NG019,Kaduna,NG019001,Birnin-Gwari,partner_g
+NG019,Kaduna,NG019002,Chikun,partner_g
+NG019,Kaduna,NG019003,Giwa,partner_g
+NG019,Kaduna,NG019004,Igabi,partner_g
+NG019,Kaduna,NG019005,Ikara,partner_i
+NG019,Kaduna,NG019006,Jaba,partner_h
+NG019,Kaduna,NG019007,Jema'a,partner_i
+NG019,Kaduna,NG019008,Kachia,partner_h
+NG019,Kaduna,NG019009,Kaduna North,partner_g
+NG019,Kaduna,NG019010,Kaduna South,partner_g
+NG019,Kaduna,NG019011,Kagarko,partner_g
+NG019,Kaduna,NG019012,Kajuru,partner_h
+NG019,Kaduna,NG019013,Kaura,partner_i
+NG019,Kaduna,NG019014,Kauru,partner_i
+NG019,Kaduna,NG019015,Kubau,partner_i
+NG019,Kaduna,NG019016,Kudan,partner_h
+NG019,Kaduna,NG019017,Lere,partner_i
+NG019,Kaduna,NG019018,Markafi,partner_h
+NG019,Kaduna,NG019019,Sabon-Gari,partner_h
+NG019,Kaduna,NG019020,Sanga,partner_i
+NG019,Kaduna,NG019021,Soba,partner_h
+NG019,Kaduna,NG019022,Zango-Kataf,partner_i
+NG019,Kaduna,NG019023,Zaria,partner_h
+NG021,Katsina,NG021001,Bakori,partner_j
+NG021,Katsina,NG021002,Batagarawa,partner_k
+NG021,Katsina,NG021003,Batsari,partner_j
+NG021,Katsina,NG021005,Bindawa,partner_l
+NG021,Katsina,NG021006,Charanchi,partner_k
+NG021,Katsina,NG021007,Dan Musa,partner_j
+NG021,Katsina,NG021008,Dandume,partner_j
+NG021,Katsina,NG021009,Danja,partner_k
+NG021,Katsina,NG021011,Dutsi,partner_l
+NG021,Katsina,NG021012,Dutsin-Ma,partner_k
+NG021,Katsina,NG021014,Funtua,partner_j
+NG021,Katsina,NG021015,Ingawa,partner_l
+NG021,Katsina,NG021017,Kafur,partner_k
+NG021,Katsina,NG021019,Kankara,partner_j
+NG021,Katsina,NG021020,Kankia,partner_l
+NG021,Katsina,NG021021,Katsina,partner_k
+NG021,Katsina,NG021022,Kurfi,partner_j
+NG021,Katsina,NG021023,Kusada,partner_l
+NG021,Katsina,NG021025,Malumfashi,partner_k
+NG021,Katsina,NG021026,Mani,partner_l
+NG021,Katsina,NG021027,Mashi,partner_l
+NG021,Katsina,NG021028,Matazu,partner_k
+NG021,Katsina,NG021029,Musawa,partner_k
+NG021,Katsina,NG021030,Rimi,partner_l
+NG021,Katsina,NG021031,Sabuwa,partner_j
+NG021,Katsina,NG021032,Safana,partner_j
+NG021,Katsina,NG021033,Sandamu,partner_l
+NG022,Kebbi,NG022001,Aleiro,partner_n
+NG022,Kebbi,NG022003,Argungu,partner_n
+NG022,Kebbi,NG022004,Augie,partner_n
+NG022,Kebbi,NG022005,Bagudo,partner_m
+NG022,Kebbi,NG022006,Birnin Kebbi,partner_m
+NG022,Kebbi,NG022007,Bunza,partner_m
+NG022,Kebbi,NG022009,Fakai,partner_n
+NG022,Kebbi,NG022010,Gwandu,partner_n
+NG022,Kebbi,NG022011,Jega,partner_m
+NG022,Kebbi,NG022012,Kalgo,partner_m
+NG022,Kebbi,NG022013,Koko/Besse,partner_m
+NG022,Kebbi,NG022014,Maiyama,partner_m
+NG022,Kebbi,NG022015,Ngaski,partner_n
+NG022,Kebbi,NG022017,Shanga,partner_n
+NG022,Kebbi,NG022018,Suru,partner_m
+NG022,Kebbi,NG022019,Wasagu/Danko,partner_n
+NG022,Kebbi,NG022021,Zuru,partner_n
+NG026,Nasarawa,NG026001,Akwanga,partner_o
+NG026,Nasarawa,NG026002,Awe,partner_o
+NG026,Nasarawa,NG026003,Doma,partner_o
+NG026,Nasarawa,NG026006,Keffi,partner_o
+NG026,Nasarawa,NG026007,Kokona,partner_o
+NG026,Nasarawa,NG026009,Nasarawa,partner_o
+NG026,Nasarawa,NG026010,Nasarawa-Eggon,partner_o
+NG026,Nasarawa,NG026012,Toto,partner_o
+NG026,Nasarawa,NG026013,Wamba,partner_o
+NG032,Plateau,NG032002,Bassa,partner_p
+NG032,Plateau,NG032004,Jos East,partner_p
+NG032,Plateau,NG032005,Jos North,partner_p
+NG032,Plateau,NG032006,Jos South,partner_p
+NG032,Plateau,NG032007,Kanam,partner_p
+NG032,Plateau,NG032008,Kanke,partner_p
+NG032,Plateau,NG032010,Langtang South,partner_p
+NG032,Plateau,NG032011,Mangu,partner_p
+NG032,Plateau,NG032013,Pankshin,partner_p
+NG032,Plateau,NG032014,Qua'an Pan,partner_p
+NG032,Plateau,NG032016,Shendam,partner_p
+NG032,Plateau,NG032017,Wase,partner_p
+NG034,Sokoto,NG034001,Binji,partner_q
+NG034,Sokoto,NG034006,Goronyo,partner_q
+NG034,Sokoto,NG034007,Gudu,partner_q
+NG034,Sokoto,NG034009,Isa,partner_q
+NG034,Sokoto,NG034010,Kebbe,partner_q
+NG034,Sokoto,NG034011,Kware,partner_q
+NG034,Sokoto,NG034012,Rabah,partner_q
+NG034,Sokoto,NG034015,Silame,partner_q
+NG034,Sokoto,NG034018,Tambuwal,partner_q
+NG034,Sokoto,NG034019,Tangaza,partner_q
+NG034,Sokoto,NG034020,Tureta,partner_q
+NG034,Sokoto,NG034022,Wurno,partner_q
+NG036,Yobe,NG036001,Bade,partner_r
+NG036,Yobe,NG036002,Bursari,partner_s
+NG036,Yobe,NG036003,Damaturu,partner_s
+NG036,Yobe,NG036004,Fika,partner_r
+NG036,Yobe,NG036005,Fune,partner_s
+NG036,Yobe,NG036006,Geidam,partner_s
+NG036,Yobe,NG036007,Gujba,partner_s
+NG036,Yobe,NG036008,Gulani,partner_s
+NG036,Yobe,NG036009,Jakusko,partner_r
+NG036,Yobe,NG036010,Karasuwa,partner_r
+NG036,Yobe,NG036012,Nangere,partner_r
+NG036,Yobe,NG036013,Nguru,partner_r
+NG036,Yobe,NG036014,Potiskum,partner_r
+NG036,Yobe,NG036015,Tarmua,partner_s
+NG036,Yobe,NG036016,Yunusari,partner_s
+NG036,Yobe,NG036017,Yusufari,partner_r
+NG037,Zamfara,NG037001,Anka,partner_t
+NG037,Zamfara,NG037002,Bakura,partner_t
+NG037,Zamfara,NG037003,Birnin Magaji,partner_t
+NG037,Zamfara,NG037004,Bukkuyum,partner_t
+NG037,Zamfara,NG037005,Bungudu,partner_t
+NG037,Zamfara,NG037006,Gummi,partner_t
+NG037,Zamfara,NG037007,Gusau,partner_t
+NG037,Zamfara,NG037008,Kaura Namoda,partner_t
+NG037,Zamfara,NG037009,Maradun,partner_t
+NG037,Zamfara,NG037010,Maru,partner_t
+NG037,Zamfara,NG037011,Shinkafi,partner_t
+NG037,Zamfara,NG037012,Talata Mafara,partner_t
+NG037,Zamfara,NG037014,Zurmi,partner_t

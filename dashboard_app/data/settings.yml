@@ -1,0 +1,22 @@
+collection_start: '2026-08-17'
+planned_end: '2026-09-27'
+regions:
+  NE:
+  - Adamawa
+  - Borno
+  - Yobe
+  NW:
+  - Kaduna
+  - Katsina
+  - Kebbi
+  - Sokoto
+  - Zamfara
+  NC:
+  - Benue
+  - Nasarawa
+  - Plateau
+off_hours:
+- 6
+- 19
+max_gps_distance_m: 300
+min_duration_min: 15

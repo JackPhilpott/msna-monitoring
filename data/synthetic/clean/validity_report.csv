@@ -1,0 +1,12 @@
+check_id,description,status,detail
+V01,Every raw submission is either in the clean data or in the deletion log,PASS,"27,087 raw = 25,245 clean + 1,842 deleted"
+V02,No submission or household appears twice in the clean data,PASS,"0 duplicate submissions, 0 duplicate households"
+V03,"Every clean interview is in an active cluster, with a household from that cluster's list",PASS,"0 interviews outside active clusters, 0 households not on their cluster's list"
+V04,No clean interview is in a cluster reported inaccessible,PASS,0 interviews
+V05,No cluster has more interviews than households on its list,PASS,largest cluster: 10 interviews; 89 clusters topped up past 6 to make up for inaccessible ones
+V06,Every interview was done by the partner assigned to its LGA,PASS,0 interviews by another partner
+V07,"Clean values are within the questionnaire's ranges (days 0 to 7, household size)",PASS,"0 food or coping values outside 0 to 7, 0 household sizes above 30"
+V08,Skip logic holds: follow-up questions are only answered when they apply,PASS,0 answers to questions that should have been skipped
+V09,Every change in the cleaning log is applied in the clean data,PASS,340 of 340 changes applied
+V10,The copy of the sample matches msna-sampling's current outputs,PASS,17 files identical
+V11,Every stratum reached at least 80% of its target,WARN,4 of 300 strata below 80% (lowest 50%)

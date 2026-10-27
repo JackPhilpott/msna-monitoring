@@ -1,0 +1,491 @@
+site_id,site_name,category,adm1_name,adm1_pcode,adm2_name,adm2_pcode,households,lon,lat
+S001,Site 001,host_community,Adamawa,NG002,Fufore,NG002002,267,12.3351,8.9836
+S002,Site 002,in_camp,Adamawa,NG002,Fufore,NG002002,94,12.6504,9.4871
+S003,Site 003,host_community,Adamawa,NG002,Fufore,NG002002,47,12.6593,9.3974
+S004,Site 004,host_community,Adamawa,NG002,Fufore,NG002002,34,12.7085,9.5674
+S005,Site 005,in_camp,Adamawa,NG002,Fufore,NG002002,129,12.7436,8.9962
+S006,Site 006,host_community,Adamawa,NG002,Fufore,NG002002,65,12.7904,9.3722
+S007,Site 007,host_community,Adamawa,NG002,Fufore,NG002002,180,12.8818,9.4714
+S008,Site 008,in_camp,Adamawa,NG002,Ganye,NG002003,145,12.0352,8.4521
+S009,Site 009,host_community,Adamawa,NG002,Gombi,NG002004,29,12.3175,10.1314
+S010,Site 010,host_community,Adamawa,NG002,Gombi,NG002004,196,12.5829,10.4303
+S011,Site 011,in_camp,Adamawa,NG002,Gombi,NG002004,450,12.6176,10.2813
+S012,Site 012,in_camp,Adamawa,NG002,Gombi,NG002004,149,12.7266,10.1637
+S013,Site 013,host_community,Adamawa,NG002,Girei,NG002005,15,12.4838,9.3355
+S014,Site 014,host_community,Adamawa,NG002,Girei,NG002005,464,12.543,9.3671
+S015,Site 015,host_community,Adamawa,NG002,Guyuk,NG002006,71,11.8417,9.6905
+S016,Site 016,in_camp,Adamawa,NG002,Guyuk,NG002006,639,11.9323,9.9258
+S017,Site 017,host_community,Adamawa,NG002,Guyuk,NG002006,15,11.9736,9.9005
+S018,Site 018,host_community,Adamawa,NG002,Guyuk,NG002006,519,11.9917,9.8211
+S019,Site 019,host_community,Adamawa,NG002,Hong,NG002007,49,12.8377,10.1715
+S020,Site 020,in_camp,Adamawa,NG002,Hong,NG002007,572,12.9673,10.3709
+S021,Site 021,in_camp,Adamawa,NG002,Jada,NG002008,195,12.0342,8.5641
+S022,Site 022,host_community,Adamawa,NG002,Jada,NG002008,15,12.139,8.7309
+S023,Site 023,in_camp,Adamawa,NG002,Jada,NG002008,198,12.4053,8.5398
+S024,Site 024,in_camp,Adamawa,NG002,Jada,NG002008,109,12.4063,8.61
+S025,Site 025,host_community,Adamawa,NG002,Jada,NG002008,126,12.4781,8.7173
+S026,Site 026,host_community,Adamawa,NG002,Maiha,NG002011,244,13.2216,9.6327
+S027,Site 027,host_community,Adamawa,NG002,Maiha,NG002011,118,13.2366,9.9163
+S028,Site 028,host_community,Adamawa,NG002,Maiha,NG002011,222,13.2587,9.732
+S029,Site 029,host_community,Adamawa,NG002,Mayo-Belwa,NG002012,62,11.8887,8.9883
+S030,Site 030,in_camp,Adamawa,NG002,Mayo-Belwa,NG002012,156,11.913,8.8587
+S031,Site 031,host_community,Adamawa,NG002,Mayo-Belwa,NG002012,15,11.9401,8.7186
+S032,Site 032,in_camp,Adamawa,NG002,Mayo-Belwa,NG002012,374,12.135,8.9237
+S033,Site 033,in_camp,Adamawa,NG002,Michika,NG002013,116,13.3541,10.5845
+S034,Site 034,host_community,Adamawa,NG002,Michika,NG002013,425,13.359,10.4973
+S035,Site 035,in_camp,Adamawa,NG002,Mubi North,NG002014,372,13.2354,10.3039
+S036,Site 036,in_camp,Adamawa,NG002,Mubi North,NG002014,353,13.2382,10.3047
+S037,Site 037,in_camp,Adamawa,NG002,Mubi North,NG002014,130,13.2439,10.2757
+S038,Site 038,in_camp,Adamawa,NG002,Mubi North,NG002014,175,13.2566,10.3132
+S039,Site 039,in_camp,Adamawa,NG002,Mubi North,NG002014,67,13.2987,10.3126
+S040,Site 040,in_camp,Adamawa,NG002,Mubi North,NG002014,309,13.3568,10.268
+S041,Site 041,host_community,Adamawa,NG002,Mubi North,NG002014,268,13.3975,10.3744
+S042,Site 042,host_community,Adamawa,NG002,Mubi North,NG002014,75,13.4,10.3842
+S043,Site 043,host_community,Adamawa,NG002,Mubi South,NG002015,107,13.3745,10.1711
+S044,Site 044,host_community,Adamawa,NG002,Mubi South,NG002015,105,13.3834,10.1312
+S045,Site 045,host_community,Adamawa,NG002,Shelleng,NG002017,19,11.9854,9.9193
+S046,Site 046,in_camp,Adamawa,NG002,Shelleng,NG002017,74,11.992,9.6356
+S047,Site 047,host_community,Adamawa,NG002,Shelleng,NG002017,89,12.018,10.0356
+S048,Site 048,host_community,Adamawa,NG002,Shelleng,NG002017,387,12.1082,9.6874
+S049,Site 049,host_community,Adamawa,NG002,Shelleng,NG002017,15,12.1192,9.6784
+S050,Site 050,in_camp,Adamawa,NG002,Shelleng,NG002017,276,12.1456,9.7241
+S051,Site 051,host_community,Adamawa,NG002,Song,NG002018,39,12.1963,9.8299
+S052,Site 052,host_community,Adamawa,NG002,Song,NG002018,82,12.6294,9.7933
+S053,Site 053,host_community,Adamawa,NG002,Toungo,NG002019,167,12.2486,8.2214
+S054,Site 054,host_community,Adamawa,NG002,Yola North,NG002020,105,12.4239,9.2635
+S055,Site 055,host_community,Adamawa,NG002,Yola North,NG002020,52,12.4314,9.2417
+S056,Site 056,host_community,Adamawa,NG002,Yola South,NG002021,88,12.2576,9.2988
+S057,Site 057,host_community,Adamawa,NG002,Yola South,NG002021,136,12.2763,9.2994
+S058,Site 058,in_camp,Adamawa,NG002,Yola South,NG002021,106,12.3881,9.2799
+S059,Site 059,host_community,Adamawa,NG002,Yola South,NG002021,15,12.3941,9.3016
+S060,Site 060,in_camp,Adamawa,NG002,Yola South,NG002021,821,12.5043,9.1069
+S061,Site 061,in_camp,Benue,NG007,Buruku,NG007004,148,8.9649,7.5361
+S062,Site 062,in_camp,Benue,NG007,Buruku,NG007004,364,9.0568,7.5255
+S063,Site 063,host_community,Benue,NG007,Buruku,NG007004,55,9.0861,7.5592
+S064,Site 064,in_camp,Benue,NG007,Buruku,NG007004,44,9.2456,7.2274
+S065,Site 065,host_community,Benue,NG007,Gboko,NG007005,317,8.6859,7.2797
+S066,Site 066,in_camp,Benue,NG007,Gboko,NG007005,98,8.7603,7.6243
+S067,Site 067,host_community,Benue,NG007,Gboko,NG007005,195,8.8688,7.2585
+S068,Site 068,in_camp,Benue,NG007,Gboko,NG007005,321,8.972,7.427
+S069,Site 069,in_camp,Benue,NG007,Gboko,NG007005,1083,9.0079,7.323
+S070,Site 070,host_community,Benue,NG007,Guma,NG007006,104,8.8502,7.9692
+S071,Site 071,in_camp,Benue,NG007,Gwer East,NG007007,242,8.3491,7.2885
+S072,Site 072,host_community,Benue,NG007,Katsina-Ala,NG007009,15,9.2819,7.2026
+S073,Site 073,host_community,Benue,NG007,Katsina-Ala,NG007009,30,9.2994,7.1467
+S074,Site 074,in_camp,Benue,NG007,Katsina-Ala,NG007009,486,9.5605,7.3125
+S075,Site 075,host_community,Benue,NG007,Kwande,NG007011,43,9.3955,6.7409
+S076,Site 076,host_community,Benue,NG007,Logo,NG007012,15,9.0787,7.7952
+S077,Site 077,host_community,Benue,NG007,Makurdi,NG007013,546,8.5061,7.7563
+S078,Site 078,in_camp,Benue,NG007,Makurdi,NG007013,55,8.5142,7.6968
+S079,Site 079,in_camp,Benue,NG007,Makurdi,NG007013,883,8.5316,7.7622
+S080,Site 080,host_community,Benue,NG007,Makurdi,NG007013,556,8.5385,7.6304
+S081,Site 081,in_camp,Benue,NG007,Makurdi,NG007013,52,8.5455,7.711
+S082,Site 082,host_community,Benue,NG007,Makurdi,NG007013,105,8.5621,7.7205
+S083,Site 083,host_community,Benue,NG007,Makurdi,NG007013,44,8.5628,7.6669
+S084,Site 084,host_community,Benue,NG007,Obi,NG007014,26,8.2205,7.0886
+S085,Site 085,in_camp,Benue,NG007,Obi,NG007014,111,8.2592,7.016
+S086,Site 086,host_community,Benue,NG007,Obi,NG007014,50,8.2862,6.9447
+S087,Site 087,host_community,Benue,NG007,Ogbadibo,NG007015,201,7.6827,7.0134
+S088,Site 088,in_camp,Benue,NG007,Ohimini,NG007016,32,8.0072,7.29
+S089,Site 089,host_community,Benue,NG007,Oju,NG007017,35,8.5054,6.8178
+S090,Site 090,in_camp,Benue,NG007,Oturkpo,NG007019,661,8.1046,7.1017
+S091,Site 091,host_community,Benue,NG007,Tarka,NG007020,363,8.9273,7.5993
+S092,Site 092,in_camp,Benue,NG007,Ukum,NG007021,290,9.5892,7.4934
+S093,Site 093,host_community,Benue,NG007,Ukum,NG007021,685,9.7097,7.576
+S094,Site 094,in_camp,Benue,NG007,Ushongo,NG007022,689,9.2189,6.9883
+S095,Site 095,in_camp,Benue,NG007,Ushongo,NG007022,531,9.3408,6.9802
+S096,Site 096,host_community,Benue,NG007,Ushongo,NG007022,122,9.3573,6.9701
+S097,Site 097,host_community,Benue,NG007,Vandeikya,NG007023,58,8.983,7.0214
+S098,Site 098,in_camp,Benue,NG007,Vandeikya,NG007023,55,9.0416,6.7412
+S099,Site 099,host_community,Benue,NG007,Vandeikya,NG007023,230,9.1119,6.7184
+S100,Site 100,in_camp,Benue,NG007,Vandeikya,NG007023,584,9.1291,6.8886
+S101,Site 101,host_community,Borno,NG008,Abadam,NG008001,237,13.1528,13.1146
+S102,Site 102,in_camp,Borno,NG008,Abadam,NG008001,41,13.161,13.4931
+S103,Site 103,in_camp,Borno,NG008,Askira/Uba,NG008002,2096,12.6886,10.693
+S104,Site 104,in_camp,Borno,NG008,Askira/Uba,NG008002,486,13.0886,10.4983
+S105,Site 105,host_community,Borno,NG008,Askira/Uba,NG008002,119,13.1083,10.5415
+S106,Site 106,in_camp,Borno,NG008,Askira/Uba,NG008002,186,13.2628,10.6464
+S107,Site 107,in_camp,Borno,NG008,Bama,NG008003,4990,14.0938,11.6556
+S108,Site 108,in_camp,Borno,NG008,Bama,NG008003,631,14.1503,11.6332
+S109,Site 109,host_community,Borno,NG008,Bayo,NG008004,186,11.609,10.2291
+S110,Site 110,in_camp,Borno,NG008,Biu,NG008005,15,12.0137,10.7684
+S111,Site 111,in_camp,Borno,NG008,Biu,NG008005,121,12.0296,10.692
+S112,Site 112,host_community,Borno,NG008,Biu,NG008005,1189,12.1147,10.7513
+S113,Site 113,host_community,Borno,NG008,Biu,NG008005,87,12.3622,10.6613
+S114,Site 114,host_community,Borno,NG008,Chibok,NG008006,154,12.8573,10.8577
+S115,Site 115,in_camp,Borno,NG008,Damboa,NG008007,222,12.6593,11.057
+S116,Site 116,in_camp,Borno,NG008,Damboa,NG008007,316,12.6894,11.0352
+S117,Site 117,host_community,Borno,NG008,Damboa,NG008007,832,12.723,11.1467
+S118,Site 118,host_community,Borno,NG008,Damboa,NG008007,470,12.7695,11.1614
+S119,Site 119,host_community,Borno,NG008,Damboa,NG008007,146,12.774,11.1482
+S120,Site 120,in_camp,Borno,NG008,Dikwa,NG008008,227,13.8798,12.0471
+S121,Site 121,in_camp,Borno,NG008,Dikwa,NG008008,412,14.0665,12.0426
+S122,Site 122,host_community,Borno,NG008,Gubio,NG008009,115,12.5765,12.6706
+S123,Site 123,host_community,Borno,NG008,Gubio,NG008009,90,12.6344,12.4846
+S124,Site 124,host_community,Borno,NG008,Gubio,NG008009,66,12.652,12.515
+S125,Site 125,in_camp,Borno,NG008,Gubio,NG008009,35,12.8516,12.715
+S126,Site 126,in_camp,Borno,NG008,Guzamala,NG008010,97,13.1916,12.8172
+S127,Site 127,host_community,Borno,NG008,Guzamala,NG008010,246,13.2328,12.7821
+S128,Site 128,host_community,Borno,NG008,Guzamala,NG008010,340,13.2353,12.8366
+S129,Site 129,host_community,Borno,NG008,Guzamala,NG008010,39,13.253,12.8365
+S130,Site 130,host_community,Borno,NG008,Guzamala,NG008010,100,13.2591,12.6283
+S131,Site 131,host_community,Borno,NG008,Gwoza,NG008011,78,13.7079,11.0951
+S132,Site 132,host_community,Borno,NG008,Gwoza,NG008011,384,13.7672,11.1643
+S133,Site 133,in_camp,Borno,NG008,Gwoza,NG008011,101,13.8624,11.1474
+S134,Site 134,host_community,Borno,NG008,Hawul,NG008012,358,12.0562,10.3268
+S135,Site 135,in_camp,Borno,NG008,Hawul,NG008012,82,12.1903,10.3563
+S136,Site 136,host_community,Borno,NG008,Hawul,NG008012,23,12.27,10.5361
+S137,Site 137,host_community,Borno,NG008,Hawul,NG008012,25,12.2745,10.526
+S138,Site 138,host_community,Borno,NG008,Hawul,NG008012,114,12.2941,10.4627
+S139,Site 139,in_camp,Borno,NG008,Jere,NG008013,74,13.0603,11.8052
+S140,Site 140,host_community,Borno,NG008,Jere,NG008013,25,13.0709,11.8163
+S141,Site 141,host_community,Borno,NG008,Jere,NG008013,15,13.0791,11.9469
+S142,Site 142,in_camp,Borno,NG008,Jere,NG008013,330,13.0785,11.8197
+S143,Site 143,host_community,Borno,NG008,Jere,NG008013,65,13.0915,11.8256
+S144,Site 144,host_community,Borno,NG008,Jere,NG008013,27,13.0974,11.7488
+S145,Site 145,in_camp,Borno,NG008,Jere,NG008013,1208,13.1124,11.9415
+S146,Site 146,in_camp,Borno,NG008,Jere,NG008013,542,13.1267,11.7492
+S147,Site 147,host_community,Borno,NG008,Jere,NG008013,104,13.1402,11.7558
+S148,Site 148,host_community,Borno,NG008,Jere,NG008013,189,13.1597,11.7948
+S149,Site 149,in_camp,Borno,NG008,Jere,NG008013,779,13.1671,11.7998
+S150,Site 150,host_community,Borno,NG008,Jere,NG008013,239,13.1755,11.8648
+S151,Site 151,host_community,Borno,NG008,Jere,NG008013,429,13.1822,11.8728
+S152,Site 152,host_community,Borno,NG008,Jere,NG008013,156,13.1831,11.8307
+S153,Site 153,host_community,Borno,NG008,Jere,NG008013,33,13.2024,11.8095
+S154,Site 154,host_community,Borno,NG008,Jere,NG008013,56,13.2027,11.7949
+S155,Site 155,in_camp,Borno,NG008,Jere,NG008013,527,13.2054,11.8029
+S156,Site 156,host_community,Borno,NG008,Jere,NG008013,205,13.2067,11.8462
+S157,Site 157,host_community,Borno,NG008,Jere,NG008013,111,13.2073,11.7993
+S158,Site 158,host_community,Borno,NG008,Jere,NG008013,300,13.2159,11.8701
+S159,Site 159,in_camp,Borno,NG008,Jere,NG008013,887,13.2196,11.8006
+S160,Site 160,host_community,Borno,NG008,Jere,NG008013,231,13.2252,11.8318
+S161,Site 161,in_camp,Borno,NG008,Jere,NG008013,88,13.2289,11.9484
+S162,Site 162,host_community,Borno,NG008,Jere,NG008013,35,13.2788,11.8502
+S163,Site 163,host_community,Borno,NG008,Kaga,NG008014,84,12.324,11.7062
+S164,Site 164,in_camp,Borno,NG008,Kala/Balge,NG008015,846,14.4415,12.3011
+S165,Site 165,host_community,Borno,NG008,Kala/Balge,NG008015,84,14.4872,12.0555
+S166,Site 166,host_community,Borno,NG008,Konduga,NG008016,1631,12.5981,11.9166
+S167,Site 167,host_community,Borno,NG008,Konduga,NG008016,22,12.9579,11.8272
+S168,Site 168,in_camp,Borno,NG008,Konduga,NG008016,175,13.0344,11.8589
+S169,Site 169,in_camp,Borno,NG008,Konduga,NG008016,62,13.0533,11.8273
+S170,Site 170,host_community,Borno,NG008,Konduga,NG008016,411,13.0546,11.8878
+S171,Site 171,host_community,Borno,NG008,Konduga,NG008016,76,13.0598,11.9004
+S172,Site 172,host_community,Borno,NG008,Konduga,NG008016,39,13.0634,11.8748
+S173,Site 173,host_community,Borno,NG008,Kukawa,NG008017,40,13.5559,12.7267
+S174,Site 174,in_camp,Borno,NG008,Kukawa,NG008017,704,13.5625,12.965
+S175,Site 175,in_camp,Borno,NG008,Kukawa,NG008017,413,13.6917,13.0833
+S176,Site 176,host_community,Borno,NG008,Kukawa,NG008017,590,13.7613,13.0609
+S177,Site 177,host_community,Borno,NG008,Kukawa,NG008017,72,13.8546,13.0789
+S178,Site 178,host_community,Borno,NG008,Kwaya Kusar,NG008018,40,11.8104,10.3176
+S179,Site 179,host_community,Borno,NG008,Kwaya Kusar,NG008018,53,11.832,10.4878
+S180,Site 180,in_camp,Borno,NG008,Kwaya Kusar,NG008018,43,11.8688,10.489
+S181,Site 181,in_camp,Borno,NG008,Kwaya Kusar,NG008018,29,11.9615,10.5715
+S182,Site 182,host_community,Borno,NG008,Kwaya Kusar,NG008018,47,11.9646,10.5649
+S183,Site 183,host_community,Borno,NG008,Mafa,NG008019,62,13.8658,12.1467
+S184,Site 184,host_community,Borno,NG008,Magumeri,NG008020,31,12.3998,12.1139
+S185,Site 185,in_camp,Borno,NG008,Magumeri,NG008020,515,12.446,12.2698
+S186,Site 186,host_community,Borno,NG008,Magumeri,NG008020,340,12.6785,12.029
+S187,Site 187,in_camp,Borno,NG008,Magumeri,NG008020,244,13.0993,12.2268
+S188,Site 188,in_camp,Borno,NG008,Maiduguri,NG008021,17,13.0913,11.8991
+S189,Site 189,host_community,Borno,NG008,Maiduguri,NG008021,927,13.0926,11.8545
+S190,Site 190,host_community,Borno,NG008,Maiduguri,NG008021,31,13.095,11.871
+S191,Site 191,host_community,Borno,NG008,Maiduguri,NG008021,56,13.0995,11.9012
+S192,Site 192,host_community,Borno,NG008,Maiduguri,NG008021,46,13.1047,11.8155
+S193,Site 193,host_community,Borno,NG008,Maiduguri,NG008021,248,13.1104,11.842
+S194,Site 194,in_camp,Borno,NG008,Maiduguri,NG008021,489,13.1103,11.8225
+S195,Site 195,in_camp,Borno,NG008,Maiduguri,NG008021,199,13.1115,11.8386
+S196,Site 196,host_community,Borno,NG008,Maiduguri,NG008021,68,13.1152,11.8955
+S197,Site 197,in_camp,Borno,NG008,Maiduguri,NG008021,639,13.1181,11.7741
+S198,Site 198,host_community,Borno,NG008,Maiduguri,NG008021,44,13.1198,11.7959
+S199,Site 199,host_community,Borno,NG008,Maiduguri,NG008021,145,13.1208,11.822
+S200,Site 200,host_community,Borno,NG008,Maiduguri,NG008021,893,13.1248,11.9005
+S201,Site 201,host_community,Borno,NG008,Maiduguri,NG008021,102,13.1272,11.908
+S202,Site 202,host_community,Borno,NG008,Maiduguri,NG008021,55,13.1257,11.7999
+S203,Site 203,host_community,Borno,NG008,Maiduguri,NG008021,71,13.1269,11.8766
+S204,Site 204,in_camp,Borno,NG008,Maiduguri,NG008021,159,13.1269,11.8558
+S205,Site 205,host_community,Borno,NG008,Maiduguri,NG008021,48,13.1266,11.8158
+S206,Site 206,host_community,Borno,NG008,Maiduguri,NG008021,204,13.1286,11.8518
+S207,Site 207,in_camp,Borno,NG008,Maiduguri,NG008021,130,13.1298,11.843
+S208,Site 208,host_community,Borno,NG008,Maiduguri,NG008021,346,13.1297,11.8245
+S209,Site 209,host_community,Borno,NG008,Maiduguri,NG008021,257,13.1348,11.8828
+S210,Site 210,host_community,Borno,NG008,Maiduguri,NG008021,645,13.1396,11.8522
+S211,Site 211,host_community,Borno,NG008,Maiduguri,NG008021,553,13.1407,11.8248
+S212,Site 212,in_camp,Borno,NG008,Maiduguri,NG008021,15,13.1434,11.8452
+S213,Site 213,host_community,Borno,NG008,Maiduguri,NG008021,35,13.1445,11.8198
+S214,Site 214,host_community,Borno,NG008,Maiduguri,NG008021,430,13.1478,11.8265
+S215,Site 215,host_community,Borno,NG008,Maiduguri,NG008021,78,13.1487,11.8307
+S216,Site 216,host_community,Borno,NG008,Maiduguri,NG008021,73,13.1493,11.8264
+S217,Site 217,host_community,Borno,NG008,Maiduguri,NG008021,163,13.1495,11.8298
+S218,Site 218,host_community,Borno,NG008,Maiduguri,NG008021,357,13.1504,11.8406
+S219,Site 219,host_community,Borno,NG008,Maiduguri,NG008021,68,13.1504,11.8366
+S220,Site 220,host_community,Borno,NG008,Maiduguri,NG008021,35,13.1571,11.8672
+S221,Site 221,in_camp,Borno,NG008,Maiduguri,NG008021,168,13.1573,11.8422
+S222,Site 222,host_community,Borno,NG008,Maiduguri,NG008021,23,13.1611,11.8662
+S223,Site 223,host_community,Borno,NG008,Maiduguri,NG008021,15,13.1615,11.8214
+S224,Site 224,in_camp,Borno,NG008,Maiduguri,NG008021,91,13.1631,11.8665
+S225,Site 225,host_community,Borno,NG008,Maiduguri,NG008021,74,13.1706,11.8169
+S226,Site 226,host_community,Borno,NG008,Maiduguri,NG008021,351,13.1764,11.8124
+S227,Site 227,host_community,Borno,NG008,Maiduguri,NG008021,167,13.1796,11.8209
+S228,Site 228,host_community,Borno,NG008,Marte,NG008022,363,13.7262,12.2857
+S229,Site 229,in_camp,Borno,NG008,Marte,NG008022,143,13.9104,12.153
+S230,Site 230,host_community,Borno,NG008,Marte,NG008022,30,13.9383,12.2971
+S231,Site 231,in_camp,Borno,NG008,Mobbar,NG008023,81,12.494,13.0114
+S232,Site 232,host_community,Borno,NG008,Mobbar,NG008023,58,12.5136,13.1136
+S233,Site 233,host_community,Borno,NG008,Mobbar,NG008023,155,12.5184,13.1155
+S234,Site 234,in_camp,Borno,NG008,Mobbar,NG008023,64,12.5393,12.7942
+S235,Site 235,host_community,Borno,NG008,Mobbar,NG008023,30,12.5541,13.0309
+S236,Site 236,host_community,Borno,NG008,Mobbar,NG008023,23,12.5919,13.2692
+S237,Site 237,host_community,Borno,NG008,Mobbar,NG008023,174,12.678,13.1222
+S238,Site 238,in_camp,Borno,NG008,Mobbar,NG008023,1583,12.6902,12.9111
+S239,Site 239,in_camp,Borno,NG008,Mobbar,NG008023,189,12.8298,13.2538
+S240,Site 240,host_community,Borno,NG008,Monguno,NG008024,86,13.6163,12.6961
+S241,Site 241,in_camp,Borno,NG008,Monguno,NG008024,29,13.6215,12.67
+S242,Site 242,host_community,Borno,NG008,Monguno,NG008024,31,13.6276,12.7041
+S243,Site 243,in_camp,Borno,NG008,Ngala,NG008025,344,14.1676,12.3883
+S244,Site 244,host_community,Borno,NG008,Ngala,NG008025,280,14.1869,12.1989
+S245,Site 245,in_camp,Borno,NG008,Ngala,NG008025,529,14.211,12.3754
+S246,Site 246,host_community,Borno,NG008,Shani,NG008027,15,11.8109,10.1314
+S247,Site 247,host_community,Borno,NG008,Shani,NG008027,40,12.0006,10.0958
+S248,Site 248,in_camp,Borno,NG008,Shani,NG008027,89,12.0413,10.186
+S249,Site 249,host_community,Borno,NG008,Shani,NG008027,124,12.0677,10.2523
+S250,Site 250,host_community,Borno,NG008,Shani,NG008027,17,12.1439,10.237
+S251,Site 251,in_camp,Kaduna,NG019,Birnin-Gwari,NG019001,271,6.7814,11.0139
+S252,Site 252,host_community,Kaduna,NG019,Birnin-Gwari,NG019001,15,7.0535,11.0583
+S253,Site 253,host_community,Kaduna,NG019,Chikun,NG019002,101,7.4012,10.3875
+S254,Site 254,host_community,Kaduna,NG019,Chikun,NG019002,18,7.539,10.4444
+S255,Site 255,host_community,Kaduna,NG019,Giwa,NG019003,45,7.4293,11.2394
+S256,Site 256,in_camp,Kaduna,NG019,Giwa,NG019003,916,7.6131,11.2726
+S257,Site 257,in_camp,Kaduna,NG019,Igabi,NG019004,135,7.3242,10.6672
+S258,Site 258,host_community,Kaduna,NG019,Igabi,NG019004,15,7.3718,10.5117
+S259,Site 259,in_camp,Kaduna,NG019,Igabi,NG019004,150,7.5151,10.5629
+S260,Site 260,host_community,Kaduna,NG019,Jema'a,NG019007,336,8.2624,9.3742
+S261,Site 261,host_community,Kaduna,NG019,Jema'a,NG019007,68,8.3729,9.3786
+S262,Site 262,host_community,Kaduna,NG019,Kaduna South,NG019010,169,7.3958,10.5213
+S263,Site 263,host_community,Kaduna,NG019,Kaduna South,NG019010,22,7.41,10.4498
+S264,Site 264,in_camp,Kaduna,NG019,Kagarko,NG019011,282,7.4682,9.5397
+S265,Site 265,host_community,Kaduna,NG019,Kagarko,NG019011,1342,7.7602,9.3397
+S266,Site 266,host_community,Kaduna,NG019,Kagarko,NG019011,32,7.8163,9.4491
+S267,Site 267,host_community,Kaduna,NG019,Kajuru,NG019012,27,8.0374,10.2686
+S268,Site 268,host_community,Kaduna,NG019,Kubau,NG019015,116,8.5625,10.8402
+S269,Site 269,host_community,Kaduna,NG019,Lere,NG019017,45,8.6705,10.4588
+S270,Site 270,host_community,Kaduna,NG019,Sanga,NG019020,859,8.2209,9.1828
+S271,Site 271,in_camp,Kaduna,NG019,Soba,NG019021,303,7.8838,10.7922
+S272,Site 272,host_community,Kaduna,NG019,Soba,NG019021,23,7.9629,11.1638
+S273,Site 273,host_community,Kaduna,NG019,Zango-Kataf,NG019022,15,8.1021,10.0101
+S274,Site 274,host_community,Kaduna,NG019,Zango-Kataf,NG019022,18,8.3605,9.7739
+S275,Site 275,host_community,Kaduna,NG019,Zaria,NG019023,18,7.7408,11.0708
+S276,Site 276,host_community,Katsina,NG021,Bakori,NG021001,206,7.3346,11.8167
+S277,Site 277,in_camp,Katsina,NG021,Bakori,NG021001,347,7.3487,11.793
+S278,Site 278,host_community,Katsina,NG021,Bakori,NG021001,330,7.3637,11.724
+S279,Site 279,host_community,Katsina,NG021,Baure,NG021004,113,8.7533,12.8216
+S280,Site 280,host_community,Katsina,NG021,Danja,NG021009,22,7.532,11.4134
+S281,Site 281,in_camp,Katsina,NG021,Daura,NG021010,427,8.2998,13.0298
+S282,Site 282,host_community,Katsina,NG021,Daura,NG021010,42,8.3305,13.006
+S283,Site 283,host_community,Katsina,NG021,Daura,NG021010,34,8.3393,13.0261
+S284,Site 284,host_community,Katsina,NG021,Daura,NG021010,244,8.3488,13.011
+S285,Site 285,host_community,Katsina,NG021,Dutsin-Ma,NG021012,250,7.4814,12.3144
+S286,Site 286,host_community,Katsina,NG021,Ingawa,NG021015,159,8.0517,12.6933
+S287,Site 287,in_camp,Katsina,NG021,Ingawa,NG021015,272,8.1337,12.7356
+S288,Site 288,in_camp,Katsina,NG021,Jibia,NG021016,52,7.6216,13.1323
+S289,Site 289,in_camp,Katsina,NG021,Kafur,NG021017,253,7.6243,11.6582
+S290,Site 290,in_camp,Katsina,NG021,Kafur,NG021017,150,7.7305,11.6489
+S291,Site 291,host_community,Katsina,NG021,Kaita,NG021018,73,7.7629,13.206
+S292,Site 292,in_camp,Katsina,NG021,Kankara,NG021019,187,7.1652,12.0129
+S293,Site 293,in_camp,Katsina,NG021,Kankara,NG021019,96,7.378,12.0978
+S294,Site 294,in_camp,Katsina,NG021,Kankara,NG021019,124,7.4956,11.8473
+S295,Site 295,host_community,Katsina,NG021,Kankia,NG021020,578,7.8163,12.55
+S296,Site 296,host_community,Katsina,NG021,Katsina,NG021021,66,7.5826,12.9904
+S297,Site 297,in_camp,Katsina,NG021,Katsina,NG021021,331,7.6146,13.0338
+S298,Site 298,host_community,Katsina,NG021,Katsina,NG021021,239,7.6428,12.9961
+S299,Site 299,host_community,Katsina,NG021,Kurfi,NG021022,220,7.5223,12.6346
+S300,Site 300,host_community,Katsina,NG021,Malumfashi,NG021025,39,7.6263,11.7651
+S301,Site 301,host_community,Katsina,NG021,Malumfashi,NG021025,1270,7.8072,11.9434
+S302,Site 302,in_camp,Katsina,NG021,Mani,NG021026,84,7.877,12.8766
+S303,Site 303,host_community,Katsina,NG021,Mashi,NG021027,26,7.9661,13.2993
+S304,Site 304,host_community,Katsina,NG021,Matazu,NG021028,403,7.6083,12.2092
+S305,Site 305,host_community,Katsina,NG021,Matazu,NG021028,319,7.7413,12.272
+S306,Site 306,host_community,Katsina,NG021,Rimi,NG021030,65,7.734,12.9268
+S307,Site 307,host_community,Katsina,NG021,Sabuwa,NG021031,413,7.1905,11.2113
+S308,Site 308,in_camp,Katsina,NG021,Safana,NG021032,17,7.2941,12.334
+S309,Site 309,host_community,Katsina,NG021,Safana,NG021032,86,7.3495,12.6331
+S310,Site 310,host_community,Katsina,NG021,Zango,NG021034,574,8.4616,13.0353
+S311,Site 311,in_camp,Kebbi,NG022,Arewa-Dandi,NG022002,88,4.0344,12.7312
+S312,Site 312,host_community,Kebbi,NG022,Arewa-Dandi,NG022002,72,4.0663,12.908
+S313,Site 313,host_community,Kebbi,NG022,Argungu,NG022003,74,4.3647,12.722
+S314,Site 314,in_camp,Kebbi,NG022,Bagudo,NG022005,1769,4.1997,11.4276
+S315,Site 315,host_community,Kebbi,NG022,Birnin Kebbi,NG022006,182,4.1848,12.4472
+S316,Site 316,in_camp,Kebbi,NG022,Birnin Kebbi,NG022006,54,4.264,12.4144
+S317,Site 317,in_camp,Kebbi,NG022,Dandi,NG022008,595,3.7671,11.687
+S318,Site 318,in_camp,Kebbi,NG022,Gwandu,NG022010,524,4.5686,12.4647
+S319,Site 319,host_community,Kebbi,NG022,Suru,NG022018,178,4.114,11.9962
+S320,Site 320,host_community,Kebbi,NG022,Wasagu/Danko,NG022019,58,5.4978,11.363
+S321,Site 321,host_community,Kebbi,NG022,Wasagu/Danko,NG022019,579,5.7555,11.3544
+S322,Site 322,host_community,Kebbi,NG022,Yauri,NG022020,155,4.7482,10.8293
+S323,Site 323,in_camp,Kebbi,NG022,Yauri,NG022020,216,4.784,10.847
+S324,Site 324,in_camp,Kebbi,NG022,Zuru,NG022021,115,5.2144,11.3134
+S325,Site 325,host_community,Kebbi,NG022,Zuru,NG022021,284,5.414,11.474
+S326,Site 326,host_community,Nasarawa,NG026,Awe,NG026002,62,9.1531,8.3682
+S327,Site 327,host_community,Nasarawa,NG026,Awe,NG026002,95,9.1616,8.263
+S328,Site 328,in_camp,Nasarawa,NG026,Karu,NG026004,1048,7.6016,9.0327
+S329,Site 329,host_community,Nasarawa,NG026,Karu,NG026004,150,7.6029,8.9036
+S330,Site 330,in_camp,Nasarawa,NG026,Karu,NG026004,124,7.645,8.9768
+S331,Site 331,in_camp,Nasarawa,NG026,Karu,NG026004,94,7.6758,9.0303
+S332,Site 332,host_community,Nasarawa,NG026,Karu,NG026004,18,7.6833,8.9469
+S333,Site 333,host_community,Nasarawa,NG026,Karu,NG026004,195,7.6866,9.0384
+S334,Site 334,in_camp,Nasarawa,NG026,Karu,NG026004,3155,7.7227,9.2815
+S335,Site 335,in_camp,Nasarawa,NG026,Karu,NG026004,1403,7.7855,8.8138
+S336,Site 336,host_community,Nasarawa,NG026,Kokona,NG026007,87,7.891,8.9387
+S337,Site 337,host_community,Nasarawa,NG026,Kokona,NG026007,47,7.9826,8.8375
+S338,Site 338,in_camp,Nasarawa,NG026,Lafia,NG026008,1266,8.5108,8.5224
+S339,Site 339,in_camp,Nasarawa,NG026,Lafia,NG026008,105,8.5225,8.492
+S340,Site 340,in_camp,Nasarawa,NG026,Nasarawa,NG026009,155,7.4932,8.0562
+S341,Site 341,in_camp,Nasarawa,NG026,Nasarawa,NG026009,115,7.6921,8.4918
+S342,Site 342,host_community,Nasarawa,NG026,Nasarawa-Eggon,NG026010,15,8.425,8.682
+S343,Site 343,in_camp,Nasarawa,NG026,Toto,NG026012,56,7.2526,8.2624
+S344,Site 344,in_camp,Nasarawa,NG026,Toto,NG026012,243,7.4017,8.5003
+S345,Site 345,in_camp,Nasarawa,NG026,Toto,NG026012,333,7.4704,8.5952
+S346,Site 346,host_community,Plateau,NG032,Barikin Ladi,NG032001,21,8.9733,9.6089
+S347,Site 347,host_community,Plateau,NG032,Bassa,NG032002,15,8.7641,10.229
+S348,Site 348,in_camp,Plateau,NG032,Bokkos,NG032003,54,8.8223,9.2083
+S349,Site 349,host_community,Plateau,NG032,Jos East,NG032004,358,9.1276,9.7768
+S350,Site 350,host_community,Plateau,NG032,Jos North,NG032005,227,8.894,9.9343
+S351,Site 351,host_community,Plateau,NG032,Jos North,NG032005,56,8.9153,9.9411
+S352,Site 352,in_camp,Plateau,NG032,Jos South,NG032006,347,8.8359,9.8474
+S353,Site 353,in_camp,Plateau,NG032,Jos South,NG032006,69,8.8591,9.7067
+S354,Site 354,host_community,Plateau,NG032,Kanam,NG032007,178,9.9254,9.5377
+S355,Site 355,host_community,Plateau,NG032,Kanam,NG032007,99,9.9407,9.405
+S356,Site 356,host_community,Plateau,NG032,Kanke,NG032008,457,9.5515,9.3691
+S357,Site 357,in_camp,Plateau,NG032,Langtang North,NG032009,439,9.7863,9.1651
+S358,Site 358,host_community,Plateau,NG032,Langtang North,NG032009,106,9.7902,9.1547
+S359,Site 359,host_community,Plateau,NG032,Langtang South,NG032010,136,9.7628,8.5523
+S360,Site 360,host_community,Plateau,NG032,Mangu,NG032011,56,9.1723,9.4529
+S361,Site 361,host_community,Plateau,NG032,Pankshin,NG032013,625,9.3407,9.5211
+S362,Site 362,in_camp,Plateau,NG032,Pankshin,NG032013,127,9.3957,9.3405
+S363,Site 363,host_community,Plateau,NG032,Pankshin,NG032013,84,9.4199,9.2913
+S364,Site 364,in_camp,Plateau,NG032,Pankshin,NG032013,291,9.4885,9.1147
+S365,Site 365,host_community,Plateau,NG032,Shendam,NG032016,15,9.434,8.4946
+S366,Site 366,host_community,Plateau,NG032,Shendam,NG032016,87,9.4381,8.4915
+S367,Site 367,host_community,Plateau,NG032,Shendam,NG032016,221,9.5263,8.6223
+S368,Site 368,host_community,Plateau,NG032,Wase,NG032017,112,9.9485,9.1174
+S369,Site 369,host_community,Plateau,NG032,Wase,NG032017,384,10.0685,8.8262
+S370,Site 370,host_community,Plateau,NG032,Wase,NG032017,56,10.2315,9.3104
+S371,Site 371,in_camp,Sokoto,NG034,Binji,NG034001,165,4.793,13.1189
+S372,Site 372,host_community,Sokoto,NG034,Bodinga,NG034002,142,5.2614,12.7652
+S373,Site 373,host_community,Sokoto,NG034,Dange-Shuni,NG034003,32,5.2748,13.0069
+S374,Site 374,host_community,Sokoto,NG034,Gada,NG034004,133,5.6343,13.735900000000001
+S375,Site 375,in_camp,Sokoto,NG034,Gada,NG034004,91,5.638,13.7559
+S376,Site 376,host_community,Sokoto,NG034,Gwadabawa,NG034005,15,5.2629,13.3675
+S377,Site 377,in_camp,Sokoto,NG034,Illela,NG034008,543,5.293,13.6798
+S378,Site 378,in_camp,Sokoto,NG034,Kebbe,NG034010,527,4.4767,11.6789
+S379,Site 379,host_community,Sokoto,NG034,Kebbe,NG034010,209,4.6726,12.0217
+S380,Site 380,in_camp,Sokoto,NG034,Kebbe,NG034010,42,4.8239,12.1197
+S381,Site 381,host_community,Sokoto,NG034,Kebbe,NG034010,67,4.914,12.1445
+S382,Site 382,in_camp,Sokoto,NG034,Kware,NG034011,47,5.2523,13.2057
+S383,Site 383,host_community,Sokoto,NG034,Kware,NG034011,1133,5.3031,13.2193
+S384,Site 384,host_community,Sokoto,NG034,Shagari,NG034014,69,4.9354,12.4971
+S385,Site 385,host_community,Sokoto,NG034,Shagari,NG034014,147,5.1881,12.6595
+S386,Site 386,host_community,Sokoto,NG034,Silame,NG034015,43,4.9545,13.0153
+S387,Site 387,host_community,Sokoto,NG034,Sokoto South,NG034017,116,5.2306,13.0331
+S388,Site 388,host_community,Sokoto,NG034,Sokoto South,NG034017,1063,5.2329,13.0431
+S389,Site 389,in_camp,Sokoto,NG034,Sokoto South,NG034017,68,5.2571,13.0555
+S390,Site 390,host_community,Sokoto,NG034,Tambuwal,NG034018,15,4.9979,12.4083
+S391,Site 391,host_community,Sokoto,NG034,Tangaza,NG034019,1388,4.866,13.4977
+S392,Site 392,in_camp,Sokoto,NG034,Tangaza,NG034019,309,5.1191,13.7071
+S393,Site 393,host_community,Sokoto,NG034,Wamako,NG034021,180,5.1848,13.0498
+S394,Site 394,host_community,Sokoto,NG034,Wurno,NG034022,68,5.459,13.3141
+S395,Site 395,in_camp,Sokoto,NG034,Yabo,NG034023,21,5.0258,12.778
+S396,Site 396,host_community,Yobe,NG036,Bade,NG036001,94,11.0265,12.8822
+S397,Site 397,host_community,Yobe,NG036,Bade,NG036001,140,11.049,12.8826
+S398,Site 398,host_community,Yobe,NG036,Bade,NG036001,167,11.0736,12.5529
+S399,Site 399,host_community,Yobe,NG036,Bursari,NG036002,604,11.4874,12.4985
+S400,Site 400,in_camp,Yobe,NG036,Bursari,NG036002,18,11.5974,12.7443
+S401,Site 401,in_camp,Yobe,NG036,Damaturu,NG036003,1226,11.73,11.9342
+S402,Site 402,in_camp,Yobe,NG036,Damaturu,NG036003,62,11.9231,11.7108
+S403,Site 403,in_camp,Yobe,NG036,Damaturu,NG036003,1171,11.9643,11.7778
+S404,Site 404,host_community,Yobe,NG036,Damaturu,NG036003,165,11.9773,11.7527
+S405,Site 405,host_community,Yobe,NG036,Damaturu,NG036003,89,11.9988,11.7189
+S406,Site 406,host_community,Yobe,NG036,Fika,NG036004,24,10.9501,11.3406
+S407,Site 407,host_community,Yobe,NG036,Fika,NG036004,90,11.1857,11.5756
+S408,Site 408,host_community,Yobe,NG036,Fika,NG036004,387,11.2332,11.2819
+S409,Site 409,in_camp,Yobe,NG036,Fika,NG036004,109,11.4772,11.1356
+S410,Site 410,host_community,Yobe,NG036,Fune,NG036005,24,11.1225,12.0589
+S411,Site 411,in_camp,Yobe,NG036,Fune,NG036005,48,11.2246,12.3356
+S412,Site 412,host_community,Yobe,NG036,Fune,NG036005,31,11.3144,11.6663
+S413,Site 413,in_camp,Yobe,NG036,Fune,NG036005,164,11.3287,12.2662
+S414,Site 414,host_community,Yobe,NG036,Fune,NG036005,29,11.33,11.6855
+S415,Site 415,host_community,Yobe,NG036,Geidam,NG036006,195,11.9102,12.9045
+S416,Site 416,host_community,Yobe,NG036,Geidam,NG036006,309,11.933,12.8873
+S417,Site 417,host_community,Yobe,NG036,Geidam,NG036006,418,11.9485,12.8815
+S418,Site 418,host_community,Yobe,NG036,Geidam,NG036006,191,11.9689,12.5476
+S419,Site 419,in_camp,Yobe,NG036,Geidam,NG036006,120,12.3296,12.9021
+S420,Site 420,host_community,Yobe,NG036,Gujba,NG036007,27,11.9091,11.4663
+S421,Site 421,host_community,Yobe,NG036,Gujba,NG036007,19,11.9355,11.127
+S422,Site 422,host_community,Yobe,NG036,Gujba,NG036007,192,12.0328,11.0917
+S423,Site 423,host_community,Yobe,NG036,Gujba,NG036007,15,12.3115,11.5881
+S424,Site 424,in_camp,Yobe,NG036,Gulani,NG036008,84,11.6541,10.9454
+S425,Site 425,host_community,Yobe,NG036,Jakusko,NG036009,228,10.7261,12.5725
+S426,Site 426,in_camp,Yobe,NG036,Jakusko,NG036009,93,10.7854,12.3874
+S427,Site 427,in_camp,Yobe,NG036,Jakusko,NG036009,862,10.8059,12.3263
+S428,Site 428,host_community,Yobe,NG036,Jakusko,NG036009,45,10.8362,12.3507
+S429,Site 429,in_camp,Yobe,NG036,Jakusko,NG036009,31,10.8471,12.2599
+S430,Site 430,in_camp,Yobe,NG036,Jakusko,NG036009,104,10.8677,12.2121
+S431,Site 431,in_camp,Yobe,NG036,Karasuwa,NG036010,145,10.5408,13.0002
+S432,Site 432,host_community,Yobe,NG036,Karasuwa,NG036010,141,10.5772,12.8299
+S433,Site 433,host_community,Yobe,NG036,Karasuwa,NG036010,77,10.9985,12.8757
+S434,Site 434,in_camp,Yobe,NG036,Machina,NG036011,142,9.7898,12.8308
+S435,Site 435,host_community,Yobe,NG036,Machina,NG036011,29,10.1051,13.126
+S436,Site 436,host_community,Yobe,NG036,Nangere,NG036012,34,10.8538,11.8496
+S437,Site 437,host_community,Yobe,NG036,Nangere,NG036012,74,10.9,11.9218
+S438,Site 438,host_community,Yobe,NG036,Nangere,NG036012,179,10.9194,11.7626
+S439,Site 439,in_camp,Yobe,NG036,Nangere,NG036012,205,10.9409,11.6485
+S440,Site 440,host_community,Yobe,NG036,Nangere,NG036012,365,10.9548,11.7568
+S441,Site 441,host_community,Yobe,NG036,Nguru,NG036013,23,10.4603,12.8529
+S442,Site 442,host_community,Yobe,NG036,Potiskum,NG036014,15,11.0606,11.7172
+S443,Site 443,host_community,Yobe,NG036,Potiskum,NG036014,375,11.072,11.7308
+S444,Site 444,host_community,Yobe,NG036,Potiskum,NG036014,20,11.095,11.7335
+S445,Site 445,host_community,Yobe,NG036,Tarmua,NG036015,53,11.726,12.1295
+S446,Site 446,host_community,Yobe,NG036,Tarmua,NG036015,22,11.7736,12.1658
+S447,Site 447,in_camp,Yobe,NG036,Yunusari,NG036016,71,11.6758,13.0217
+S448,Site 448,host_community,Yobe,NG036,Yunusari,NG036016,453,11.7337,12.9187
+S449,Site 449,host_community,Yobe,NG036,Yunusari,NG036016,136,11.7859,12.9761
+S450,Site 450,host_community,Yobe,NG036,Yunusari,NG036016,209,11.8149,13.1274
+S451,Site 451,in_camp,Yobe,NG036,Yunusari,NG036016,113,11.9997,13.0362
+S452,Site 452,host_community,Yobe,NG036,Yusufari,NG036017,39,10.9519,13.1847
+S453,Site 453,in_camp,Yobe,NG036,Yusufari,NG036017,88,11.0015,12.9775
+S454,Site 454,in_camp,Yobe,NG036,Yusufari,NG036017,541,11.2026,13.0706
+S455,Site 455,host_community,Yobe,NG036,Yusufari,NG036017,118,11.2802,13.0938
+S456,Site 456,host_community,Zamfara,NG037,Anka,NG037001,71,5.7873,12.2679
+S457,Site 457,host_community,Zamfara,NG037,Anka,NG037001,167,5.8931,11.9127
+S458,Site 458,host_community,Zamfara,NG037,Bakura,NG037002,119,6.0011,12.5719
+S459,Site 459,host_community,Zamfara,NG037,Bakura,NG037002,104,6.0638,12.7028
+S460,Site 460,host_community,Zamfara,NG037,Birnin Magaji,NG037003,56,6.862,12.5701
+S461,Site 461,in_camp,Zamfara,NG037,Bukkuyum,NG037004,111,5.3557,11.9832
+S462,Site 462,host_community,Zamfara,NG037,Bukkuyum,NG037004,60,5.5129,12.0709
+S463,Site 463,host_community,Zamfara,NG037,Bukkuyum,NG037004,15,5.5659,11.7842
+S464,Site 464,host_community,Zamfara,NG037,Bungudu,NG037005,134,6.4694,11.6833
+S465,Site 465,host_community,Zamfara,NG037,Bungudu,NG037005,17,6.5922,12.2806
+S466,Site 466,host_community,Zamfara,NG037,Bungudu,NG037005,17,6.7421,12.3107
+S467,Site 467,host_community,Zamfara,NG037,Bungudu,NG037005,468,6.7449,12.1982
+S468,Site 468,host_community,Zamfara,NG037,Bungudu,NG037005,303,6.813,12.2465
+S469,Site 469,in_camp,Zamfara,NG037,Gummi,NG037006,112,5.0761,12.2668
+S470,Site 470,host_community,Zamfara,NG037,Gusau,NG037007,21,6.6359,11.6831
+S471,Site 471,host_community,Zamfara,NG037,Gusau,NG037007,105,6.6573,12.1942
+S472,Site 472,host_community,Zamfara,NG037,Gusau,NG037007,64,6.6702,12.1965
+S473,Site 473,in_camp,Zamfara,NG037,Gusau,NG037007,25,6.6811,12.1739
+S474,Site 474,host_community,Zamfara,NG037,Gusau,NG037007,53,6.7075,12.1515
+S475,Site 475,in_camp,Zamfara,NG037,Gusau,NG037007,317,6.7391,12.1406
+S476,Site 476,in_camp,Zamfara,NG037,Kaura Namoda,NG037008,185,6.5439,12.5717
+S477,Site 477,host_community,Zamfara,NG037,Kaura Namoda,NG037008,15,6.5544,12.575
+S478,Site 478,host_community,Zamfara,NG037,Kaura Namoda,NG037008,58,6.6082,12.4524
+S479,Site 479,in_camp,Zamfara,NG037,Kaura Namoda,NG037008,146,6.6101,12.582
+S480,Site 480,host_community,Zamfara,NG037,Kaura Namoda,NG037008,33,6.6381,12.6059
+S481,Site 481,in_camp,Zamfara,NG037,Maru,NG037010,137,6.37,11.7685
+S482,Site 482,host_community,Zamfara,NG037,Maru,NG037010,275,6.4321,11.5463
+S483,Site 483,host_community,Zamfara,NG037,Shinkafi,NG037011,81,6.4148,13.1226
+S484,Site 484,in_camp,Zamfara,NG037,Talata Mafara,NG037012,1204,6.0651,12.596
+S485,Site 485,in_camp,Zamfara,NG037,Talata Mafara,NG037012,381,6.0818,12.5599
+S486,Site 486,in_camp,Zamfara,NG037,Talata Mafara,NG037012,367,6.0826,12.5845
+S487,Site 487,host_community,Zamfara,NG037,Tsafe,NG037013,213,6.8385,11.7538
+S488,Site 488,host_community,Zamfara,NG037,Tsafe,NG037013,895,6.943,11.9354
+S489,Site 489,in_camp,Zamfara,NG037,Zurmi,NG037014,93,6.782,12.7814
+S490,Site 490,in_camp,Zamfara,NG037,Zurmi,NG037014,70,6.8285,12.6861

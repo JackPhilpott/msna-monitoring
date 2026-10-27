@@ -1,0 +1,311 @@
+region,adm1_pcode,adm1_name,adm2_pcode,adm2_name,pop_type,strata_id,n_pop,N_hh,target_sample,coverage_status,exclusion_reason
+NE,NG002,Adamawa,NG002002,Fufore,idp,idp_NG002002,2652,442,84,covered,none
+NE,NG002,Adamawa,NG002003,Ganye,idp,idp_NG002003,870,145,66,covered,none
+NE,NG002,Adamawa,NG002004,Gombi,idp,idp_NG002004,4944,824,90,covered,none
+NE,NG002,Adamawa,NG002005,Girei,idp,idp_NG002005,2874,479,84,covered,none
+NE,NG002,Adamawa,NG002006,Guyuk,idp,idp_NG002006,7464,1244,96,covered,none
+NE,NG002,Adamawa,NG002007,Hong,idp,idp_NG002007,3726,621,90,covered,none
+NE,NG002,Adamawa,NG002008,Jada,idp,idp_NG002008,1260,210,72,covered,none
+NE,NG002,Adamawa,NG002012,Mayo-Belwa,idp,idp_NG002012,3642,607,90,covered,none
+NE,NG002,Adamawa,NG002014,Mubi North,idp,idp_NG002014,6582,1097,90,covered,none
+NE,NG002,Adamawa,NG002017,Shelleng,idp,idp_NG002017,5160,860,90,covered,none
+NE,NG002,Adamawa,NG002018,Song,idp,idp_NG002018,726,121,60,covered,none
+NE,NG002,Adamawa,NG002020,Yola North,idp,idp_NG002020,942,157,66,covered,none
+NE,NG002,Adamawa,NG002021,Yola South,idp,idp_NG002021,6996,1166,96,covered,none
+NC,NG007,Benue,NG007004,Buruku,idp,idp_NG007004,3666,611,90,covered,none
+NC,NG007,Benue,NG007005,Gboko,idp,idp_NG007005,8256,1376,96,covered,none
+NC,NG007,Benue,NG007007,Gwer East,idp,idp_NG007007,1452,242,72,covered,none
+NC,NG007,Benue,NG007009,Katsina-Ala,idp,idp_NG007009,3186,531,84,covered,none
+NC,NG007,Benue,NG007011,Kwande,idp,idp_NG007011,258,43,36,covered,none
+NC,NG007,Benue,NG007012,Logo,idp,idp_NG007012,90,15,6,excluded,all_clusters_inaccessible
+NC,NG007,Benue,NG007014,Obi,idp,idp_NG007014,1122,187,72,covered,none
+NC,NG007,Benue,NG007015,Ogbadibo,idp,idp_NG007015,1206,201,72,covered,none
+NC,NG007,Benue,NG007016,Ohimini,idp,idp_NG007016,192,32,6,covered,none
+NC,NG007,Benue,NG007017,Oju,idp,idp_NG007017,210,35,6,covered,none
+NC,NG007,Benue,NG007019,Oturkpo,idp,idp_NG007019,3966,661,90,covered,none
+NC,NG007,Benue,NG007020,Tarka,idp,idp_NG007020,2178,363,84,covered,none
+NC,NG007,Benue,NG007021,Ukum,idp,idp_NG007021,5850,975,90,covered,none
+NC,NG007,Benue,NG007022,Ushongo,idp,idp_NG007022,8052,1342,96,covered,none
+NC,NG007,Benue,NG007023,Vandeikya,idp,idp_NG007023,5562,927,90,covered,none
+NE,NG008,Borno,NG008002,Askira/Uba,idp,idp_NG008002,17322,2887,96,covered,none
+NE,NG008,Borno,NG008003,Bama,idp,idp_NG008003,33726,5621,96,covered,none
+NE,NG008,Borno,NG008004,Bayo,idp,idp_NG008004,1116,186,66,excluded,all_clusters_inaccessible
+NE,NG008,Borno,NG008006,Chibok,idp,idp_NG008006,924,154,66,excluded,all_clusters_inaccessible
+NE,NG008,Borno,NG008007,Damboa,idp,idp_NG008007,8688,1448,96,covered,none
+NE,NG008,Borno,NG008008,Dikwa,idp,idp_NG008008,3834,639,90,covered,none
+NE,NG008,Borno,NG008009,Gubio,idp,idp_NG008009,1836,306,78,covered,none
+NE,NG008,Borno,NG008010,Guzamala,idp,idp_NG008010,4932,822,90,covered,none
+NE,NG008,Borno,NG008012,Hawul,idp,idp_NG008012,3612,602,90,covered,none
+NE,NG008,Borno,NG008017,Kukawa,idp,idp_NG008017,10914,1819,96,covered,none
+NE,NG008,Borno,NG008018,Kwaya Kusar,idp,idp_NG008018,954,159,66,covered,none
+NE,NG008,Borno,NG008019,Mafa,idp,idp_NG008019,372,62,42,covered,none
+NE,NG008,Borno,NG008020,Magumeri,idp,idp_NG008020,1464,244,72,covered,none
+NE,NG008,Borno,NG008022,Marte,idp,idp_NG008022,3216,536,84,covered,none
+NE,NG008,Borno,NG008023,Mobbar,idp,idp_NG008023,9882,1647,96,excluded,all_clusters_inaccessible
+NE,NG008,Borno,NG008024,Monguno,idp,idp_NG008024,516,86,54,covered,none
+NE,NG008,Borno,NG008027,Shani,idp,idp_NG008027,1710,285,78,covered,none
+NW,NG019,Kaduna,NG019001,Birnin-Gwari,idp,idp_NG019001,1716,286,78,covered,none
+NW,NG019,Kaduna,NG019002,Chikun,idp,idp_NG019002,108,18,6,excluded,all_clusters_inaccessible
+NW,NG019,Kaduna,NG019003,Giwa,idp,idp_NG019003,5766,961,90,covered,none
+NW,NG019,Kaduna,NG019004,Igabi,idp,idp_NG019004,1800,300,78,covered,none
+NW,NG019,Kaduna,NG019007,Jema'a,idp,idp_NG019007,2424,404,84,covered,none
+NW,NG019,Kaduna,NG019010,Kaduna South,idp,idp_NG019010,1146,191,72,covered,none
+NW,NG019,Kaduna,NG019011,Kagarko,idp,idp_NG019011,1692,282,78,covered,none
+NW,NG019,Kaduna,NG019012,Kajuru,idp,idp_NG019012,162,27,6,covered,none
+NW,NG019,Kaduna,NG019015,Kubau,idp,idp_NG019015,696,116,60,covered,none
+NW,NG019,Kaduna,NG019017,Lere,idp,idp_NG019017,270,45,36,covered,none
+NW,NG019,Kaduna,NG019020,Sanga,idp,idp_NG019020,5154,859,90,excluded,all_clusters_inaccessible
+NW,NG019,Kaduna,NG019021,Soba,idp,idp_NG019021,1956,326,78,covered,none
+NW,NG019,Kaduna,NG019022,Zango-Kataf,idp,idp_NG019022,198,33,12,covered,none
+NW,NG019,Kaduna,NG019023,Zaria,idp,idp_NG019023,108,18,6,covered,none
+NW,NG021,Katsina,NG021001,Bakori,idp,idp_NG021001,5298,883,90,covered,none
+NW,NG021,Katsina,NG021009,Danja,idp,idp_NG021009,132,22,6,covered,none
+NW,NG021,Katsina,NG021012,Dutsin-Ma,idp,idp_NG021012,1500,250,72,covered,none
+NW,NG021,Katsina,NG021015,Ingawa,idp,idp_NG021015,2586,431,84,covered,none
+NW,NG021,Katsina,NG021017,Kafur,idp,idp_NG021017,2418,403,84,covered,none
+NW,NG021,Katsina,NG021019,Kankara,idp,idp_NG021019,744,124,60,covered,none
+NW,NG021,Katsina,NG021020,Kankia,idp,idp_NG021020,3468,578,90,covered,none
+NW,NG021,Katsina,NG021021,Katsina,idp,idp_NG021021,1434,239,72,covered,none
+NW,NG021,Katsina,NG021022,Kurfi,idp,idp_NG021022,1320,220,72,covered,none
+NW,NG021,Katsina,NG021025,Malumfashi,idp,idp_NG021025,7854,1309,96,covered,none
+NW,NG021,Katsina,NG021026,Mani,idp,idp_NG021026,504,84,48,covered,none
+NW,NG021,Katsina,NG021028,Matazu,idp,idp_NG021028,4332,722,90,covered,none
+NW,NG021,Katsina,NG021030,Rimi,idp,idp_NG021030,390,65,42,covered,none
+NW,NG021,Katsina,NG021031,Sabuwa,idp,idp_NG021031,2478,413,84,covered,none
+NW,NG021,Katsina,NG021032,Safana,idp,idp_NG021032,618,103,54,covered,none
+NW,NG022,Kebbi,NG022003,Argungu,idp,idp_NG022003,444,74,48,covered,none
+NW,NG022,Kebbi,NG022005,Bagudo,idp,idp_NG022005,10614,1769,96,covered,none
+NW,NG022,Kebbi,NG022006,Birnin Kebbi,idp,idp_NG022006,1416,236,72,covered,none
+NW,NG022,Kebbi,NG022018,Suru,idp,idp_NG022018,1068,178,66,covered,none
+NW,NG022,Kebbi,NG022021,Zuru,idp,idp_NG022021,2394,399,84,covered,none
+NC,NG026,Nasarawa,NG026002,Awe,idp,idp_NG026002,942,157,66,covered,none
+NC,NG026,Nasarawa,NG026007,Kokona,idp,idp_NG026007,282,47,36,covered,none
+NC,NG026,Nasarawa,NG026009,Nasarawa,idp,idp_NG026009,1620,270,78,covered,none
+NC,NG026,Nasarawa,NG026012,Toto,idp,idp_NG026012,3792,632,90,covered,none
+NC,NG032,Plateau,NG032002,Bassa,idp,idp_NG032002,90,15,6,covered,none
+NC,NG032,Plateau,NG032004,Jos East,idp,idp_NG032004,2148,358,78,excluded,all_clusters_inaccessible
+NC,NG032,Plateau,NG032005,Jos North,idp,idp_NG032005,1698,283,78,excluded,all_clusters_inaccessible
+NC,NG032,Plateau,NG032006,Jos South,idp,idp_NG032006,2082,347,78,covered,none
+NC,NG032,Plateau,NG032007,Kanam,idp,idp_NG032007,1662,277,78,covered,none
+NC,NG032,Plateau,NG032008,Kanke,idp,idp_NG032008,2742,457,84,covered,none
+NC,NG032,Plateau,NG032010,Langtang South,idp,idp_NG032010,816,136,60,excluded,all_clusters_inaccessible
+NC,NG032,Plateau,NG032011,Mangu,idp,idp_NG032011,336,56,42,covered,none
+NC,NG032,Plateau,NG032013,Pankshin,idp,idp_NG032013,5016,836,90,covered,none
+NC,NG032,Plateau,NG032016,Shendam,idp,idp_NG032016,1938,323,78,covered,none
+NC,NG032,Plateau,NG032017,Wase,idp,idp_NG032017,3312,552,84,covered,none
+NW,NG034,Sokoto,NG034001,Binji,idp,idp_NG034001,990,165,66,covered,none
+NW,NG034,Sokoto,NG034010,Kebbe,idp,idp_NG034010,3162,527,84,covered,none
+NW,NG034,Sokoto,NG034011,Kware,idp,idp_NG034011,7080,1180,96,covered,none
+NW,NG034,Sokoto,NG034019,Tangaza,idp,idp_NG034019,8328,1388,96,excluded,all_clusters_inaccessible
+NW,NG034,Sokoto,NG034022,Wurno,idp,idp_NG034022,408,68,48,covered,none
+NE,NG036,Yobe,NG036001,Bade,idp,idp_NG036001,2406,401,84,covered,none
+NE,NG036,Yobe,NG036002,Bursari,idp,idp_NG036002,3732,622,90,covered,none
+NE,NG036,Yobe,NG036003,Damaturu,idp,idp_NG036003,16278,2713,96,covered,none
+NE,NG036,Yobe,NG036004,Fika,idp,idp_NG036004,3660,610,90,covered,none
+NE,NG036,Yobe,NG036005,Fune,idp,idp_NG036005,792,132,60,covered,none
+NE,NG036,Yobe,NG036006,Geidam,idp,idp_NG036006,6678,1113,90,covered,none
+NE,NG036,Yobe,NG036007,Gujba,idp,idp_NG036007,366,61,42,covered,none
+NE,NG036,Yobe,NG036009,Jakusko,idp,idp_NG036009,810,135,60,covered,none
+NE,NG036,Yobe,NG036010,Karasuwa,idp,idp_NG036010,2178,363,84,covered,none
+NE,NG036,Yobe,NG036012,Nangere,idp,idp_NG036012,5142,857,90,covered,none
+NE,NG036,Yobe,NG036013,Nguru,idp,idp_NG036013,138,23,6,covered,none
+NE,NG036,Yobe,NG036014,Potiskum,idp,idp_NG036014,2460,410,84,covered,none
+NE,NG036,Yobe,NG036016,Yunusari,idp,idp_NG036016,3960,660,90,covered,none
+NE,NG036,Yobe,NG036017,Yusufari,idp,idp_NG036017,4716,786,90,covered,none
+NW,NG037,Zamfara,NG037001,Anka,idp,idp_NG037001,1428,238,72,covered,none
+NW,NG037,Zamfara,NG037002,Bakura,idp,idp_NG037002,1338,223,72,covered,none
+NW,NG037,Zamfara,NG037003,Birnin Magaji,idp,idp_NG037003,336,56,42,covered,none
+NW,NG037,Zamfara,NG037004,Bukkuyum,idp,idp_NG037004,1116,186,66,covered,none
+NW,NG037,Zamfara,NG037005,Bungudu,idp,idp_NG037005,4830,805,90,covered,none
+NW,NG037,Zamfara,NG037007,Gusau,idp,idp_NG037007,3384,564,84,covered,none
+NW,NG037,Zamfara,NG037008,Kaura Namoda,idp,idp_NG037008,2622,437,84,covered,none
+NW,NG037,Zamfara,NG037010,Maru,idp,idp_NG037010,2472,412,84,covered,none
+NW,NG037,Zamfara,NG037011,Shinkafi,idp,idp_NG037011,486,81,48,covered,none
+NW,NG037,Zamfara,NG037012,Talata Mafara,idp,idp_NG037012,11712,1952,96,covered,none
+NW,NG037,Zamfara,NG037014,Zurmi,idp,idp_NG037014,978,163,66,covered,none
+NE,NG002,Adamawa,NG002001,Demsa,non_idp,non_idp_NG002001,155652,25942,102,covered,none
+NE,NG002,Adamawa,NG002002,Fufore,non_idp,non_idp_NG002002,174930,29155,102,covered,none
+NE,NG002,Adamawa,NG002003,Ganye,non_idp,non_idp_NG002003,104550,17425,102,covered,none
+NE,NG002,Adamawa,NG002004,Gombi,non_idp,non_idp_NG002004,442098,73683,102,covered,none
+NE,NG002,Adamawa,NG002005,Girei,non_idp,non_idp_NG002005,222036,37006,102,covered,none
+NE,NG002,Adamawa,NG002006,Guyuk,non_idp,non_idp_NG002006,275400,45900,102,covered,none
+NE,NG002,Adamawa,NG002007,Hong,non_idp,non_idp_NG002007,156630,26105,102,covered,none
+NE,NG002,Adamawa,NG002008,Jada,non_idp,non_idp_NG002008,146874,24479,102,covered,none
+NE,NG002,Adamawa,NG002009,Lamurde,non_idp,non_idp_NG002009,118386,19731,102,covered,none
+NE,NG002,Adamawa,NG002012,Mayo-Belwa,non_idp,non_idp_NG002012,167226,27871,102,covered,none
+NE,NG002,Adamawa,NG002014,Mubi North,non_idp,non_idp_NG002014,91908,15318,102,covered,none
+NE,NG002,Adamawa,NG002016,Numan,non_idp,non_idp_NG002016,136650,22775,102,covered,none
+NE,NG002,Adamawa,NG002017,Shelleng,non_idp,non_idp_NG002017,419736,69956,102,covered,none
+NE,NG002,Adamawa,NG002018,Song,non_idp,non_idp_NG002018,361098,60183,102,covered,none
+NE,NG002,Adamawa,NG002019,Toungo,non_idp,non_idp_NG002019,33072,5512,96,covered,none
+NE,NG002,Adamawa,NG002020,Yola North,non_idp,non_idp_NG002020,379542,63257,102,covered,none
+NE,NG002,Adamawa,NG002021,Yola South,non_idp,non_idp_NG002021,450180,75030,102,covered,none
+NC,NG007,Benue,NG007001,Ado,non_idp,non_idp_NG007001,159690,26615,102,covered,none
+NC,NG007,Benue,NG007002,Agatu,non_idp,non_idp_NG007002,67974,11329,96,covered,none
+NC,NG007,Benue,NG007003,Apa,non_idp,non_idp_NG007003,65028,10838,96,covered,none
+NC,NG007,Benue,NG007004,Buruku,non_idp,non_idp_NG007004,377076,62846,102,covered,none
+NC,NG007,Benue,NG007005,Gboko,non_idp,non_idp_NG007005,648174,108029,102,covered,none
+NC,NG007,Benue,NG007007,Gwer East,non_idp,non_idp_NG007007,262896,43816,102,covered,none
+NC,NG007,Benue,NG007008,Gwer West,non_idp,non_idp_NG007008,93246,15541,102,covered,none
+NC,NG007,Benue,NG007009,Katsina-Ala,non_idp,non_idp_NG007009,599748,99958,102,covered,none
+NC,NG007,Benue,NG007010,Konshisha,non_idp,non_idp_NG007010,363492,60582,102,covered,none
+NC,NG007,Benue,NG007011,Kwande,non_idp,non_idp_NG007011,374124,62354,102,covered,none
+NC,NG007,Benue,NG007012,Logo,non_idp,non_idp_NG007012,260190,43365,102,covered,none
+NC,NG007,Benue,NG007014,Obi,non_idp,non_idp_NG007014,92766,15461,102,covered,none
+NC,NG007,Benue,NG007015,Ogbadibo,non_idp,non_idp_NG007015,184212,30702,102,covered,none
+NC,NG007,Benue,NG007016,Ohimini,non_idp,non_idp_NG007016,64086,10681,96,covered,none
+NC,NG007,Benue,NG007017,Oju,non_idp,non_idp_NG007017,188586,31431,102,covered,none
+NC,NG007,Benue,NG007018,Okpokwu,non_idp,non_idp_NG007018,140526,23421,102,covered,none
+NC,NG007,Benue,NG007019,Oturkpo,non_idp,non_idp_NG007019,296316,49386,102,covered,none
+NC,NG007,Benue,NG007020,Tarka,non_idp,non_idp_NG007020,156936,26156,102,covered,none
+NC,NG007,Benue,NG007021,Ukum,non_idp,non_idp_NG007021,534558,89093,102,covered,none
+NC,NG007,Benue,NG007022,Ushongo,non_idp,non_idp_NG007022,376308,62718,102,covered,none
+NC,NG007,Benue,NG007023,Vandeikya,non_idp,non_idp_NG007023,438768,73128,102,covered,none
+NE,NG008,Borno,NG008002,Askira/Uba,non_idp,non_idp_NG008002,127188,21198,102,covered,none
+NE,NG008,Borno,NG008003,Bama,non_idp,non_idp_NG008003,220122,36687,102,covered,none
+NE,NG008,Borno,NG008004,Bayo,non_idp,non_idp_NG008004,45150,7525,96,covered,none
+NE,NG008,Borno,NG008006,Chibok,non_idp,non_idp_NG008006,144894,24149,102,covered,none
+NE,NG008,Borno,NG008007,Damboa,non_idp,non_idp_NG008007,149928,24988,102,covered,none
+NE,NG008,Borno,NG008008,Dikwa,non_idp,non_idp_NG008008,122526,20421,102,covered,none
+NE,NG008,Borno,NG008009,Gubio,non_idp,non_idp_NG008009,302052,50342,102,covered,none
+NE,NG008,Borno,NG008010,Guzamala,non_idp,non_idp_NG008010,208794,34799,102,covered,none
+NE,NG008,Borno,NG008012,Hawul,non_idp,non_idp_NG008012,206760,34460,102,covered,none
+NE,NG008,Borno,NG008016,Konduga,non_idp,non_idp_NG008016,108180,18030,102,covered,none
+NE,NG008,Borno,NG008017,Kukawa,non_idp,non_idp_NG008017,144768,24128,102,covered,none
+NE,NG008,Borno,NG008018,Kwaya Kusar,non_idp,non_idp_NG008018,95358,15893,102,covered,none
+NE,NG008,Borno,NG008019,Mafa,non_idp,non_idp_NG008019,67560,11260,96,covered,none
+NE,NG008,Borno,NG008020,Magumeri,non_idp,non_idp_NG008020,202422,33737,102,covered,none
+NE,NG008,Borno,NG008022,Marte,non_idp,non_idp_NG008022,72456,12076,102,covered,none
+NE,NG008,Borno,NG008023,Mobbar,non_idp,non_idp_NG008023,93162,15527,102,covered,none
+NE,NG008,Borno,NG008024,Monguno,non_idp,non_idp_NG008024,98700,16450,102,covered,none
+NE,NG008,Borno,NG008026,Nganzai,non_idp,non_idp_NG008026,189180,31530,102,covered,none
+NE,NG008,Borno,NG008027,Shani,non_idp,non_idp_NG008027,187578,31263,102,covered,none
+NW,NG019,Kaduna,NG019001,Birnin-Gwari,non_idp,non_idp_NG019001,301740,50290,102,covered,none
+NW,NG019,Kaduna,NG019002,Chikun,non_idp,non_idp_NG019002,1161912,193652,102,covered,none
+NW,NG019,Kaduna,NG019003,Giwa,non_idp,non_idp_NG019003,382962,63827,102,covered,none
+NW,NG019,Kaduna,NG019004,Igabi,non_idp,non_idp_NG019004,1180920,196820,102,covered,none
+NW,NG019,Kaduna,NG019005,Ikara,non_idp,non_idp_NG019005,333600,55600,102,covered,none
+NW,NG019,Kaduna,NG019006,Jaba,non_idp,non_idp_NG019006,96564,16094,102,covered,none
+NW,NG019,Kaduna,NG019007,Jema'a,non_idp,non_idp_NG019007,284772,47462,102,covered,none
+NW,NG019,Kaduna,NG019008,Kachia,non_idp,non_idp_NG019008,280854,46809,102,covered,none
+NW,NG019,Kaduna,NG019009,Kaduna North,non_idp,non_idp_NG019009,641886,106981,102,covered,none
+NW,NG019,Kaduna,NG019010,Kaduna South,non_idp,non_idp_NG019010,580170,96695,102,covered,none
+NW,NG019,Kaduna,NG019011,Kagarko,non_idp,non_idp_NG019011,146838,24473,102,covered,none
+NW,NG019,Kaduna,NG019012,Kajuru,non_idp,non_idp_NG019012,231288,38548,102,covered,none
+NW,NG019,Kaduna,NG019013,Kaura,non_idp,non_idp_NG019013,143574,23929,102,covered,none
+NW,NG019,Kaduna,NG019014,Kauru,non_idp,non_idp_NG019014,314856,52476,102,covered,none
+NW,NG019,Kaduna,NG019015,Kubau,non_idp,non_idp_NG019015,453276,75546,102,covered,none
+NW,NG019,Kaduna,NG019016,Kudan,non_idp,non_idp_NG019016,155496,25916,102,covered,none
+NW,NG019,Kaduna,NG019017,Lere,non_idp,non_idp_NG019017,513234,85539,102,covered,none
+NW,NG019,Kaduna,NG019018,Markafi,non_idp,non_idp_NG019018,245778,40963,102,covered,none
+NW,NG019,Kaduna,NG019019,Sabon-Gari,non_idp,non_idp_NG019019,491808,81968,102,covered,none
+NW,NG019,Kaduna,NG019020,Sanga,non_idp,non_idp_NG019020,110676,18446,102,covered,none
+NW,NG019,Kaduna,NG019021,Soba,non_idp,non_idp_NG019021,427338,71223,102,covered,none
+NW,NG019,Kaduna,NG019022,Zango-Kataf,non_idp,non_idp_NG019022,359718,59953,102,covered,none
+NW,NG019,Kaduna,NG019023,Zaria,non_idp,non_idp_NG019023,663390,110565,102,covered,none
+NW,NG021,Katsina,NG021001,Bakori,non_idp,non_idp_NG021001,234516,39086,102,covered,none
+NW,NG021,Katsina,NG021002,Batagarawa,non_idp,non_idp_NG021002,298134,49689,102,covered,none
+NW,NG021,Katsina,NG021003,Batsari,non_idp,non_idp_NG021003,231672,38612,102,covered,none
+NW,NG021,Katsina,NG021005,Bindawa,non_idp,non_idp_NG021005,209478,34913,102,covered,none
+NW,NG021,Katsina,NG021006,Charanchi,non_idp,non_idp_NG021006,229644,38274,102,covered,none
+NW,NG021,Katsina,NG021007,Dan Musa,non_idp,non_idp_NG021007,84018,14003,102,covered,none
+NW,NG021,Katsina,NG021008,Dandume,non_idp,non_idp_NG021008,242358,40393,102,covered,none
+NW,NG021,Katsina,NG021009,Danja,non_idp,non_idp_NG021009,163920,27320,102,covered,none
+NW,NG021,Katsina,NG021011,Dutsi,non_idp,non_idp_NG021011,215070,35845,102,covered,none
+NW,NG021,Katsina,NG021012,Dutsin-Ma,non_idp,non_idp_NG021012,289752,48292,102,covered,none
+NW,NG021,Katsina,NG021014,Funtua,non_idp,non_idp_NG021014,316332,52722,102,covered,none
+NW,NG021,Katsina,NG021015,Ingawa,non_idp,non_idp_NG021015,289158,48193,102,covered,none
+NW,NG021,Katsina,NG021017,Kafur,non_idp,non_idp_NG021017,315618,52603,102,covered,none
+NW,NG021,Katsina,NG021019,Kankara,non_idp,non_idp_NG021019,286620,47770,102,covered,none
+NW,NG021,Katsina,NG021020,Kankia,non_idp,non_idp_NG021020,216984,36164,102,covered,none
+NW,NG021,Katsina,NG021021,Katsina,non_idp,non_idp_NG021021,257160,42860,102,covered,none
+NW,NG021,Katsina,NG021022,Kurfi,non_idp,non_idp_NG021022,192618,32103,102,covered,none
+NW,NG021,Katsina,NG021023,Kusada,non_idp,non_idp_NG021023,158538,26423,102,covered,none
+NW,NG021,Katsina,NG021025,Malumfashi,non_idp,non_idp_NG021025,283482,47247,102,covered,none
+NW,NG021,Katsina,NG021026,Mani,non_idp,non_idp_NG021026,239880,39980,102,covered,none
+NW,NG021,Katsina,NG021027,Mashi,non_idp,non_idp_NG021027,158490,26415,102,covered,none
+NW,NG021,Katsina,NG021028,Matazu,non_idp,non_idp_NG021028,183708,30618,102,covered,none
+NW,NG021,Katsina,NG021029,Musawa,non_idp,non_idp_NG021029,324144,54024,102,covered,none
+NW,NG021,Katsina,NG021030,Rimi,non_idp,non_idp_NG021030,238404,39734,102,covered,none
+NW,NG021,Katsina,NG021031,Sabuwa,non_idp,non_idp_NG021031,254544,42424,102,covered,none
+NW,NG021,Katsina,NG021032,Safana,non_idp,non_idp_NG021032,280404,46734,102,covered,none
+NW,NG021,Katsina,NG021033,Sandamu,non_idp,non_idp_NG021033,83970,13995,102,covered,none
+NW,NG022,Kebbi,NG022001,Aleiro,non_idp,non_idp_NG022001,124170,20695,102,covered,none
+NW,NG022,Kebbi,NG022003,Argungu,non_idp,non_idp_NG022003,269832,44972,102,covered,none
+NW,NG022,Kebbi,NG022004,Augie,non_idp,non_idp_NG022004,98040,16340,102,covered,none
+NW,NG022,Kebbi,NG022005,Bagudo,non_idp,non_idp_NG022005,261594,43599,102,covered,none
+NW,NG022,Kebbi,NG022006,Birnin Kebbi,non_idp,non_idp_NG022006,648480,108080,102,covered,none
+NW,NG022,Kebbi,NG022007,Bunza,non_idp,non_idp_NG022007,211452,35242,102,covered,none
+NW,NG022,Kebbi,NG022009,Fakai,non_idp,non_idp_NG022009,218040,36340,102,covered,none
+NW,NG022,Kebbi,NG022010,Gwandu,non_idp,non_idp_NG022010,122916,20486,102,covered,none
+NW,NG022,Kebbi,NG022011,Jega,non_idp,non_idp_NG022011,276132,46022,102,covered,none
+NW,NG022,Kebbi,NG022012,Kalgo,non_idp,non_idp_NG022012,115032,19172,102,covered,none
+NW,NG022,Kebbi,NG022013,Koko/Besse,non_idp,non_idp_NG022013,235152,39192,102,covered,none
+NW,NG022,Kebbi,NG022014,Maiyama,non_idp,non_idp_NG022014,204054,34009,102,covered,none
+NW,NG022,Kebbi,NG022015,Ngaski,non_idp,non_idp_NG022015,124008,20668,102,covered,none
+NW,NG022,Kebbi,NG022017,Shanga,non_idp,non_idp_NG022017,234894,39149,102,covered,none
+NW,NG022,Kebbi,NG022018,Suru,non_idp,non_idp_NG022018,204240,34040,102,covered,none
+NW,NG022,Kebbi,NG022019,Wasagu/Danko,non_idp,non_idp_NG022019,183450,30575,102,covered,none
+NW,NG022,Kebbi,NG022021,Zuru,non_idp,non_idp_NG022021,329964,54994,102,covered,none
+NC,NG026,Nasarawa,NG026001,Akwanga,non_idp,non_idp_NG026001,212952,35492,102,covered,none
+NC,NG026,Nasarawa,NG026002,Awe,non_idp,non_idp_NG026002,154266,25711,102,covered,none
+NC,NG026,Nasarawa,NG026003,Doma,non_idp,non_idp_NG026003,128016,21336,102,covered,none
+NC,NG026,Nasarawa,NG026006,Keffi,non_idp,non_idp_NG026006,179280,29880,102,covered,none
+NC,NG026,Nasarawa,NG026007,Kokona,non_idp,non_idp_NG026007,179466,29911,102,covered,none
+NC,NG026,Nasarawa,NG026009,Nasarawa,non_idp,non_idp_NG026009,312312,52052,102,covered,none
+NC,NG026,Nasarawa,NG026010,Nasarawa-Eggon,non_idp,non_idp_NG026010,93168,15528,102,covered,none
+NC,NG026,Nasarawa,NG026012,Toto,non_idp,non_idp_NG026012,165336,27556,102,covered,none
+NC,NG026,Nasarawa,NG026013,Wamba,non_idp,non_idp_NG026013,91608,15268,102,covered,none
+NC,NG032,Plateau,NG032002,Bassa,non_idp,non_idp_NG032002,314040,52340,102,covered,none
+NC,NG032,Plateau,NG032004,Jos East,non_idp,non_idp_NG032004,121524,20254,102,covered,none
+NC,NG032,Plateau,NG032005,Jos North,non_idp,non_idp_NG032005,462954,77159,102,covered,none
+NC,NG032,Plateau,NG032006,Jos South,non_idp,non_idp_NG032006,284472,47412,102,covered,none
+NC,NG032,Plateau,NG032007,Kanam,non_idp,non_idp_NG032007,217344,36224,102,covered,none
+NC,NG032,Plateau,NG032008,Kanke,non_idp,non_idp_NG032008,102228,17038,102,covered,none
+NC,NG032,Plateau,NG032010,Langtang South,non_idp,non_idp_NG032010,154170,25695,102,covered,none
+NC,NG032,Plateau,NG032011,Mangu,non_idp,non_idp_NG032011,295392,49232,102,covered,none
+NC,NG032,Plateau,NG032013,Pankshin,non_idp,non_idp_NG032013,225534,37589,102,covered,none
+NC,NG032,Plateau,NG032014,Qua'an Pan,non_idp,non_idp_NG032014,197904,32984,102,covered,none
+NC,NG032,Plateau,NG032016,Shendam,non_idp,non_idp_NG032016,115602,19267,102,covered,none
+NC,NG032,Plateau,NG032017,Wase,non_idp,non_idp_NG032017,171426,28571,102,covered,none
+NW,NG034,Sokoto,NG034001,Binji,non_idp,non_idp_NG034001,113310,18885,102,covered,none
+NW,NG034,Sokoto,NG034006,Goronyo,non_idp,non_idp_NG034006,184500,30750,102,covered,none
+NW,NG034,Sokoto,NG034007,Gudu,non_idp,non_idp_NG034007,35430,5905,96,covered,none
+NW,NG034,Sokoto,NG034009,Isa,non_idp,non_idp_NG034009,142212,23702,102,covered,none
+NW,NG034,Sokoto,NG034010,Kebbe,non_idp,non_idp_NG034010,60354,10059,96,covered,none
+NW,NG034,Sokoto,NG034011,Kware,non_idp,non_idp_NG034011,117264,19544,102,covered,none
+NW,NG034,Sokoto,NG034012,Rabah,non_idp,non_idp_NG034012,183486,30581,102,covered,none
+NW,NG034,Sokoto,NG034015,Silame,non_idp,non_idp_NG034015,55104,9184,96,covered,none
+NW,NG034,Sokoto,NG034018,Tambuwal,non_idp,non_idp_NG034018,99078,16513,102,covered,none
+NW,NG034,Sokoto,NG034019,Tangaza,non_idp,non_idp_NG034019,73950,12325,102,covered,none
+NW,NG034,Sokoto,NG034020,Tureta,non_idp,non_idp_NG034020,119058,19843,102,covered,none
+NW,NG034,Sokoto,NG034022,Wurno,non_idp,non_idp_NG034022,191856,31976,102,covered,none
+NE,NG036,Yobe,NG036001,Bade,non_idp,non_idp_NG036001,168744,28124,102,covered,none
+NE,NG036,Yobe,NG036002,Bursari,non_idp,non_idp_NG036002,255036,42506,102,covered,none
+NE,NG036,Yobe,NG036003,Damaturu,non_idp,non_idp_NG036003,440826,73471,102,covered,none
+NE,NG036,Yobe,NG036004,Fika,non_idp,non_idp_NG036004,219108,36518,102,covered,none
+NE,NG036,Yobe,NG036005,Fune,non_idp,non_idp_NG036005,376716,62786,102,covered,none
+NE,NG036,Yobe,NG036006,Geidam,non_idp,non_idp_NG036006,257268,42878,102,covered,none
+NE,NG036,Yobe,NG036007,Gujba,non_idp,non_idp_NG036007,182868,30478,102,covered,none
+NE,NG036,Yobe,NG036008,Gulani,non_idp,non_idp_NG036008,62562,10427,96,covered,none
+NE,NG036,Yobe,NG036009,Jakusko,non_idp,non_idp_NG036009,146046,24341,102,covered,none
+NE,NG036,Yobe,NG036010,Karasuwa,non_idp,non_idp_NG036010,139278,23213,102,covered,none
+NE,NG036,Yobe,NG036012,Nangere,non_idp,non_idp_NG036012,193554,32259,102,covered,none
+NE,NG036,Yobe,NG036013,Nguru,non_idp,non_idp_NG036013,198372,33062,102,covered,none
+NE,NG036,Yobe,NG036014,Potiskum,non_idp,non_idp_NG036014,490530,81755,102,covered,none
+NE,NG036,Yobe,NG036015,Tarmua,non_idp,non_idp_NG036015,103152,17192,102,covered,none
+NE,NG036,Yobe,NG036016,Yunusari,non_idp,non_idp_NG036016,93810,15635,102,covered,none
+NE,NG036,Yobe,NG036017,Yusufari,non_idp,non_idp_NG036017,122838,20473,102,covered,none
+NW,NG037,Zamfara,NG037001,Anka,non_idp,non_idp_NG037001,208014,34669,102,covered,none
+NW,NG037,Zamfara,NG037002,Bakura,non_idp,non_idp_NG037002,209232,34872,102,covered,none
+NW,NG037,Zamfara,NG037003,Birnin Magaji,non_idp,non_idp_NG037003,195888,32648,102,covered,none
+NW,NG037,Zamfara,NG037004,Bukkuyum,non_idp,non_idp_NG037004,313446,52241,102,covered,none
+NW,NG037,Zamfara,NG037005,Bungudu,non_idp,non_idp_NG037005,550656,91776,102,covered,none
+NW,NG037,Zamfara,NG037006,Gummi,non_idp,non_idp_NG037006,266172,44362,102,covered,none
+NW,NG037,Zamfara,NG037007,Gusau,non_idp,non_idp_NG037007,943728,157288,102,covered,none
+NW,NG037,Zamfara,NG037008,Kaura Namoda,non_idp,non_idp_NG037008,418662,69777,102,covered,none
+NW,NG037,Zamfara,NG037009,Maradun,non_idp,non_idp_NG037009,259836,43306,102,covered,none
+NW,NG037,Zamfara,NG037010,Maru,non_idp,non_idp_NG037010,413250,68875,102,covered,none
+NW,NG037,Zamfara,NG037011,Shinkafi,non_idp,non_idp_NG037011,171558,28593,102,covered,none
+NW,NG037,Zamfara,NG037012,Talata Mafara,non_idp,non_idp_NG037012,357390,59565,102,covered,none
+NW,NG037,Zamfara,NG037014,Zurmi,non_idp,non_idp_NG037014,285756,47626,102,covered,none
