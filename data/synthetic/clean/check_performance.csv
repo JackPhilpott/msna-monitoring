@@ -1,0 +1,15 @@
+error_type,check_id,expected_action,planted,caught,right_action,recall,check,flagged,false_flags
+consent_no_continued,C01,delete,78,78,78,1,no_consent,624,0
+duplicate_exact,C02,delete,131,131,131,1,duplicate_submission,131,0
+duplicate_near,C03,delete,131,131,131,1,duplicate_household,131,0
+too_short,C04,delete,785,785,785,1,too_short,830,0
+wrong_cluster,C05,delete,78,78,78,1,cluster_not_in_sample,78,0
+dropped_cluster,C06,delete,48,48,48,1,cluster_inaccessible,48,0
+gps_far,C07,flag,523,523,523,1,gps_far,523,0
+fcs_flat,C08,flag,262,262,262,1,fcs_flat,262,0
+fcs_hhs_contradiction,C09,flag,262,262,262,1,fcs_hhs_contradiction,593,299
+hh_size_outlier,C10,change,78,78,78,1,hh_size_outlier,78,0
+children_exceed_hh,C11,flag,131,131,131,1,children_exceed_hh,131,0
+attending_exceed_school_age,C12,flag,131,131,131,1,attending_exceed_school_age,131,0
+other_to_recode,C13,change,262,262,262,1,other_recoded,262,0
+problem_enumerator,C14,flag,193,193,193,1,enumerator_pattern,196,3

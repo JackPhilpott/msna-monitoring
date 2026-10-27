@@ -1,0 +1,90 @@
+# msna-monitoring settings. Paths are relative to the repo root.
+# Everything here is synthetic, made by seeded scripts; it is not real data.
+
+seed: 2026                  # the same seed as msna-sampling
+
+sampling:
+  # Outputs of msna-sampling, copied into data/synthetic/from_sampling/ by step 00:
+  # from a sibling checkout if there is one, otherwise from GitHub.
+  local_repo: ../msna-sampling
+  github_raw: https://raw.githubusercontent.com/JackPhilpott/msna-sampling/main
+  files:
+    - lgas.csv
+    - strata.csv
+    - clusters_after_resampling.csv
+    - idp_sites_synthetic.csv
+    - access_layer_synthetic.geojson
+    - frame_psus.csv
+  households_dir: households
+
+open_data:
+  boundaries:
+    # HDX COD-AB Nigeria (OSGOF, Ehealth, UNCS), licence CC BY-IGO. Step 5 reuses msna-sampling's
+    # download if there is a sibling checkout, otherwise downloads the zip (10 MB).
+    url: https://data.humdata.org/dataset/81ac1d38-f603-4a98-804d-325c658599a3/resource/01c65fd9-bd0c-4608-aa1e-2e86bbccf3e5/download/nga_admin_boundaries.shp.zip
+    local_dir: ../msna-sampling/data/raw/boundaries
+    zip: data/raw/nga_admin_boundaries.shp.zip
+    dir: data/raw/boundaries
+
+collection:                 # synthetic
+  start_date: 2026-08-17
+  days: 42
+  clusters_per_team: 22     # each partner fields one team per 22 clusters in its LGAs
+  team_size: 2              # enumerators visiting a cluster together
+  team_start_spread: 12     # teams start over the first 12 days (training, travel)
+  rest_day_share: [0.05, 0.40]  # share of days a team does not collect, drawn per team
+  primary_unavailable: 0.12 # share of primary households replaced by a reserve
+  non_consent: 0.02         # share of approached households that decline
+  clusters_not_reached: 0.04  # active clusters still not visited when collection ends
+  follow_up_share: 0.5      # share of partners whose teams reach every cluster and go back to replace
+  follow_up_days: [3, 10]   #   each interview cleaning deletes, this many days after the first visit
+  duration_meanlog: 3.75    # interview length in minutes is lognormal (median about 42)
+  duration_sdlog: 0.25
+  gps_noise_m: 15
+
+errors:                     # planted errors, each recorded in the answer key
+  too_short: 0.03           # interview length well below the realistic minimum
+  duplicate_exact: 0.005    # the same submission uploaded twice
+  duplicate_near: 0.005     # the same household interviewed twice
+  gps_far: 0.02             # GPS point far from the assigned household
+  consent_no_continued: 0.003
+  fcs_flat: 0.01            # every food group given the same number of days
+  fcs_hhs_contradiction: 0.01  # acceptable food consumption with severe hunger
+  hh_size_outlier: 0.003
+  children_exceed_hh: 0.005
+  attending_exceed_school_age: 0.005
+  wrong_cluster: 0.003      # cluster code that is not in the sample
+  dropped_cluster: 0.002    # interview in a cluster reported inaccessible
+  other_to_recode: 0.01     # "other" answers that match an existing option
+  problem_enumerators: 3    # enumerators whose interviews are fast and alike
+
+checks:                     # cleaning thresholds
+  min_duration_min: 15
+  max_gps_distance_m: 300
+  max_hh_size: 30
+  enumerator_min_interviews: 20
+  enumerator_duration_ratio: 0.6   # flag enumerators whose median is below this share of all
+  enumerator_max_identical_share: 0.3
+
+design:                     # as in msna-sampling
+  persons_per_household: 6.0
+  confidence: 0.90
+  proportion: 0.5
+  margin_of_error: 0.10
+  icc: 0.06
+  cluster_size: 6
+  hex_cellsize_m: 5000      # non-IDP PSUs are hexagons this wide (between opposite edges)
+
+dashboard:
+  regions:
+    NE: [Adamawa, Borno, Yobe]
+    NW: [Kaduna, Katsina, Kebbi, Sokoto, Zamfara]
+    NC: [Benue, Nasarawa, Plateau]
+  synthetic_ward_km2: 250   # each LGA is split into synthetic wards of about this size
+  revised_target_margin: 0.05  # the revised target adds 5% for operations, not the design's 10%
+  simplify_m: 150           # boundary simplification for the web map
+  off_hours: [6, 19]        # interviews starting outside these hours are flagged
+
+outputs:
+  dir: data/synthetic
+  dashboard_data: dashboard_app/data

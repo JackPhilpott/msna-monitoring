@@ -1,0 +1,5 @@
+# Same line endings on every OS, so outputs reproduce byte for byte
+* text=auto eol=lf
+*.png binary
+*.xlsx binary
+*.gpkg binary

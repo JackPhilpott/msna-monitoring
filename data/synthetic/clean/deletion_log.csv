@@ -1,0 +1,1843 @@
+_uuid,_index,enumerator_id,partner,check_id,reason
+97a192b6-a89a-40ab-adf0-d3af0b9081e4,16,enum_B_22,partner_b,C05,Cluster code not in the sample
+fdb27762-bc14-4be4-b939-85da1bd3b74a,49,enum_B_16,partner_b,C01,Respondent did not consent
+fd11a031-0efa-4d85-a6b5-d2defcd08578,111,enum_B_22,partner_b,C01,Respondent did not consent
+eaf44512-c663-4f6a-9702-9f81776dedb0,268,enum_B_11,partner_b,C06,Cluster had been reported inaccessible
+72dd121e-6c2d-4a12-9b47-99adb2933d02,374,enum_B_01,partner_b,C01,Respondent did not consent
+8929ee1a-7423-44fd-8fc7-37d2809087fe,437,enum_B_16,partner_b,C04,Interview took 12 minutes
+ce916862-2e02-4072-b0e4-7dbab93bea6d,544,enum_B_02,partner_b,C04,Interview took 11 minutes
+726d3b20-5d7d-46b8-8f32-cfda806c74ac,771,enum_B_03,partner_b,C03,Household already interviewed in an earlier submission
+3630032b-1b58-4004-ae96-3ff617ee5407,1103,enum_B_21,partner_b,C04,Interview took 11 minutes
+3209d952-20ec-4f10-a258-880b30d4296d,1177,enum_B_21,partner_b,C04,Interview took 9 minutes
+c5d1f6d2-780a-4f6a-bc4c-6996c4b5ba44,1459,enum_A_16,partner_a,C01,Respondent did not consent
+2100755f-47d1-4934-b6df-bfc840954a4b,1500,enum_A_03,partner_a,C04,Interview took 4 minutes
+0c1df41c-2cf4-4b4d-8a54-7206d14ee76a,1647,enum_B_17,partner_b,C06,Cluster had been reported inaccessible
+4ae7a60a-a820-4b64-a82c-0eab9ab15f57,1747,enum_B_22,partner_b,C06,Cluster had been reported inaccessible
+770197e4-3f05-4a7e-9311-0af0f5272177,1926,enum_A_05,partner_a,C04,Interview took 10 minutes
+4307bb9f-5c66-4cf7-8c21-2811f949b144,2278,enum_B_24,partner_b,C04,Interview took 6 minutes
+bb243f7d-739c-4f9b-8f92-e887dbd11650,2381,enum_A_05,partner_a,C04,Interview took 11 minutes
+4efd6d36-c9e4-47fb-855e-f7db47d924bd,2387,enum_B_04,partner_b,C01,Respondent did not consent
+127f7a45-fdd6-40cf-b102-208cb96cbd2c,2823,enum_B_03,partner_b,C04,Interview took 9 minutes
+01b8d1f7-e7b3-4f53-be72-e0d67aa9cf8a,2953,enum_A_05,partner_a,C04,Interview took 9 minutes
+adb5b07e-7aee-4b57-aedc-0a94f70d1d41,3229,enum_B_15,partner_b,C01,Respondent did not consent
+81b026a2-ad2e-49b1-9aa9-b32469145b9a,3246,enum_B_04,partner_b,C03,Household already interviewed in an earlier submission
+8cb66491-da9f-47d0-bdac-e3ff1dcf6f51,3353,enum_B_13,partner_b,C04,Interview took 6 minutes
+203707cf-0541-4020-a69b-823afdb687a1,3754,enum_B_23,partner_b,C03,Household already interviewed in an earlier submission
+eb377fca-a479-4893-b674-420b7decc866,3827,enum_B_22,partner_b,C03,Household already interviewed in an earlier submission
+fb96f4c9-8e7a-4fd7-be4f-e614929205a2,3849,enum_A_15,partner_a,C01,Respondent did not consent
+1424a63d-2bcd-4a7e-b4bf-4236e53476e5,4083,enum_A_04,partner_a,C04,Interview took 11 minutes
+7c64e984-f5b2-48cf-a5be-2b0cc09f2345,4404,enum_B_22,partner_b,C04,Interview took 9 minutes
+070e4de3-ab63-4a3a-852b-7a48257b2fc9,4588,enum_A_17,partner_a,C01,Respondent did not consent
+7b7fa7e9-3764-4e4c-864d-106ec03c1ee7,4675,enum_B_04,partner_b,C04,Interview took 8 minutes
+f238e0b9-26f0-4ee6-88e8-b419a8f64be7,4978,enum_B_19,partner_b,C04,Interview took 6 minutes
+3303ff68-fbc2-48d6-a1d5-143b7a156a3a,5048,enum_B_06,partner_b,C04,Interview took 12 minutes
+3bdc8781-58bc-46cc-8697-8498d3ada4db,5093,enum_B_05,partner_b,C01,Respondent did not consent
+b5800d26-185d-462e-bb37-9d623a1e6b59,5121,enum_A_12,partner_a,C02,Same submission uploaded more than once
+30deeb04-aef6-4c29-939f-8701c9f4046f,5156,enum_A_05,partner_a,C01,Respondent did not consent
+4879901f-4c3d-4f13-af1f-364b4e1608d3,5191,enum_A_07,partner_a,C01,Respondent did not consent
+a9a811c6-6af8-471b-947f-f31aef702d50,5249,enum_A_03,partner_a,C04,Interview took 6 minutes
+c5222fd4-a046-41ea-ae41-8f3ef3ef00f8,5518,enum_B_22,partner_b,C03,Household already interviewed in an earlier submission
+5ce6ee7b-974c-4b9b-b33b-0621929affbe,5903,enum_A_04,partner_a,C01,Respondent did not consent
+5aa60a56-2f58-4fb9-8af0-ce785ca4552e,5945,enum_B_12,partner_b,C02,Same submission uploaded more than once
+f52bfc0f-2df4-49fd-8e0c-30c51e44be3a,6057,enum_A_16,partner_a,C04,Interview took 8 minutes
+3611c7e8-62b9-4ce3-95e5-c18abfbf93fb,6148,enum_B_07,partner_b,C04,Interview took 11 minutes
+ef497baa-df6d-433e-8d3e-5440e946ce3a,6274,enum_B_06,partner_b,C04,Interview took 12 minutes
+cb55e0c9-1aa4-4964-80d8-febc73576989,6286,enum_B_19,partner_b,C01,Respondent did not consent
+3bab2f43-562a-4738-bfa7-9fb46a75d8f8,6442,enum_B_21,partner_b,C01,Respondent did not consent
+d54d9055-e56f-41b4-a0be-a58a11e03a39,6623,enum_A_16,partner_a,C02,Same submission uploaded more than once
+fd6603cc-5d9c-483d-8b73-fef10a88b21a,6749,enum_B_07,partner_b,C04,Interview took 8 minutes
+4b6787ed-7a38-46d6-95de-23aa48ed6da1,6923,enum_B_06,partner_b,C04,Interview took 10 minutes
+4e060414-80b3-4cc6-ac3b-4e96e2c757be,6992,enum_A_04,partner_a,C04,Interview took 11 minutes
+7f8add12-c733-4bbf-b2ba-d1ae76d59fc5,7060,enum_A_06,partner_a,C05,Cluster code not in the sample
+2a90fadc-209e-48fd-88e3-38450f4dd167,7070,enum_B_13,partner_b,C01,Respondent did not consent
+06252bbc-9ed3-4e20-b96b-b6553dc65e39,7448,enum_B_01,partner_b,C01,Respondent did not consent
+3a4f7d8a-a221-4453-a3ae-0e15826f4ee4,7584,enum_B_14,partner_b,C01,Respondent did not consent
+f9167eed-6144-43b6-982b-ad3e17d9a38a,7816,enum_B_01,partner_b,C01,Respondent did not consent
+3409501e-1b17-4010-93a2-bac55c65140c,7870,enum_A_02,partner_a,C03,Household already interviewed in an earlier submission
+0ce08754-baf1-4254-ae02-5b2192ab495b,8773,enum_B_01,partner_b,C01,Respondent did not consent
+a5ae991b-d526-4aeb-98ab-e19dc272aa08,8787,enum_B_06,partner_b,C01,Respondent did not consent
+6f046a41-2637-4f17-8cca-f55b1d9a89c7,8814,enum_A_04,partner_a,C04,Interview took 10 minutes
+72634d3d-b678-4d63-b69a-99319c33a773,8829,enum_A_09,partner_a,C04,Interview took 9 minutes
+8e3907db-8743-40f6-8358-f0e4842ca97d,9065,enum_A_09,partner_a,C01,Respondent did not consent
+b1b115d3-db61-4ce0-9f5b-3b8b81a1287b,9109,enum_A_06,partner_a,C04,Interview took 6 minutes
+876e5046-d6b5-487d-a046-13f3b3afdbe1,9481,enum_B_14,partner_b,C04,Interview took 11 minutes
+b4f2c568-e4ef-40b4-9ff8-497106b6d868,9669,enum_B_24,partner_b,C02,Same submission uploaded more than once
+b8324413-d936-46c6-9937-02392e9d0dd5,9683,enum_A_10,partner_a,C01,Respondent did not consent
+c6715f5f-36e2-411b-ba62-10e313baec19,9871,enum_A_10,partner_a,C03,Household already interviewed in an earlier submission
+aeb12a01-8a5b-46c6-8173-81b268dd896a,9929,enum_B_02,partner_b,C01,Respondent did not consent
+7dff4ea0-fe87-40d3-8e03-973d3e36acdb,10079,enum_A_12,partner_a,C04,Interview took 7 minutes
+a1e841fa-5d57-48ad-be31-bdf3bfd74791,10470,enum_A_18,partner_a,C04,Interview took 7 minutes
+84683c73-c66e-461e-82cc-1d4bc9fa5783,10474,enum_B_16,partner_b,C03,Household already interviewed in an earlier submission
+7069f201-bbe4-491d-8c4a-938c70d62ef4,10547,enum_B_01,partner_b,C01,Respondent did not consent
+b2278687-d14d-4e65-a728-fcb68b4adb21,10938,enum_A_17,partner_a,C04,Interview took 11 minutes
+fa0bb81c-56aa-4334-8ac9-b988ece209e5,11030,enum_B_04,partner_b,C01,Respondent did not consent
+04779483-6908-48fe-a885-ba4008bc6fcb,11351,enum_A_05,partner_a,C04,Interview took 7 minutes
+5517e0ae-d7d1-4618-b00e-7dfc38dfbc6f,11375,enum_B_16,partner_b,C03,Household already interviewed in an earlier submission
+815dcba7-36e3-4a77-a6f2-27204e744ecd,11667,enum_B_13,partner_b,C04,Interview took 9 minutes
+53ac9c55-2fd5-4396-b7ee-1141bd1827da,11790,enum_B_15,partner_b,C01,Respondent did not consent
+c4eafb54-c84b-41b2-b8eb-8b46a7ae6c24,11809,enum_B_07,partner_b,C04,Interview took 9 minutes
+553aa411-01a1-4cc8-a5e9-be3adea40ca7,11822,enum_B_01,partner_b,C01,Respondent did not consent
+a61673e8-94ab-471b-917c-1916d56ae70f,11845,enum_B_07,partner_b,C03,Household already interviewed in an earlier submission
+f2dcab87-6587-4a13-b7cd-5d54d73901d1,11846,enum_B_01,partner_b,C03,Household already interviewed in an earlier submission
+3e56bfc1-ebcf-42fe-9418-eb31b4bbc9b5,12043,enum_A_07,partner_a,C01,Respondent did not consent
+38908c32-49e9-4973-8cda-3e189b7086d2,12104,enum_B_07,partner_b,C04,Interview took 10 minutes
+b23d1b8f-b3f6-457f-a1ab-7c1ff8a34d9e,12332,enum_B_05,partner_b,C04,Interview took 9 minutes
+493a5d8a-c500-435f-8f27-1e912e22fa58,12974,enum_B_04,partner_b,C04,Interview took 11 minutes
+9b0a7188-bd1d-4e82-87c4-fe1811c6a524,12983,enum_B_03,partner_b,C04,Interview took 5 minutes
+76a4f33c-1ad4-40ca-9320-a7e8c67084dd,13754,enum_B_06,partner_b,C05,Cluster code not in the sample
+2fff3826-e9a7-4b20-aee6-bdd316a60376,13879,enum_A_15,partner_a,C01,Respondent did not consent
+f3c1a629-7073-4e02-bbef-328f53ac1246,13953,enum_A_07,partner_a,C01,Respondent did not consent
+cb290327-2c36-4633-ba20-bfdacbfbc54a,13958,enum_A_01,partner_a,C01,Respondent did not consent
+dce5017c-6cd2-4460-b641-9dd3120a02a5,13976,enum_B_24,partner_b,C04,Interview took 8 minutes
+2267ea44-bc30-48c5-8d2e-187e586d891c,14082,enum_A_08,partner_a,C04,Interview took 6 minutes
+2ca35cf4-a4d4-4616-96c9-49fcf7b9579c,14385,enum_A_13,partner_a,C05,Cluster code not in the sample
+b3947b24-e4db-4a0c-a38b-f5bc10692328,14441,enum_A_10,partner_a,C04,Interview took 7 minutes
+d892ab56-9ea1-469a-bad5-94c2337b79e7,14709,enum_B_21,partner_b,C04,Interview took 5 minutes
+b7fb8087-1fde-4a23-afc9-7394e67b2ec5,14913,enum_B_24,partner_b,C01,Respondent did not consent
+615884ef-e779-4ad6-b251-d2099173536e,14995,enum_B_23,partner_b,C01,Respondent did not consent
+478d1dce-0308-4b62-a76a-4d3a7f334c5e,15104,enum_A_06,partner_a,C04,Interview took 6 minutes
+36c2481f-d5f5-4352-820f-9647dbffcf71,15295,enum_A_09,partner_a,C04,Interview took 8 minutes
+cc8ce601-5ca1-4e99-a309-cd7eb06c34cd,15304,enum_B_02,partner_b,C01,Respondent did not consent
+b4d292e4-2d7a-4d3f-a3fa-979612d5ad54,15896,enum_A_09,partner_a,C01,Respondent did not consent
+ef9519da-162c-4264-8717-6c5be0bbcb72,16013,enum_B_22,partner_b,C04,Interview took 10 minutes
+ee7f413b-dbb4-42a4-a8e4-f4c8b88e4386,16236,enum_B_21,partner_b,C02,Same submission uploaded more than once
+b7e4db2b-01bb-438a-989c-698cffd5d212,16361,enum_B_01,partner_b,C04,Interview took 6 minutes
+7c8be81d-ac92-4142-b861-4fcdbf04090d,16608,enum_A_09,partner_a,C04,Interview took 11 minutes
+972f2cc8-c0b7-45d0-b57d-ea3b0e0cd739,16912,enum_A_07,partner_a,C04,Interview took 11 minutes
+9bc8efdd-ee73-4345-b86e-37406716510a,17048,enum_B_19,partner_b,C01,Respondent did not consent
+99471244-cff7-43a2-b094-558ba9beeaef,17405,enum_B_19,partner_b,C04,Interview took 4 minutes
+23427564-eea5-426a-9dcd-abb2c44344d2,17432,enum_B_22,partner_b,C03,Household already interviewed in an earlier submission
+367ef143-d9f1-4132-a70e-09189126d742,17437,enum_A_02,partner_a,C01,Respondent did not consent
+a1739dfd-79a9-4f7c-aa7b-1b47bcfd7c6b,17805,enum_B_18,partner_b,C03,Household already interviewed in an earlier submission
+24648775-a789-4618-827b-4fe3d7f220a9,17855,enum_A_01,partner_a,C01,Respondent did not consent
+d0bfa32c-de55-41fd-b0c0-71aa6d70fe0a,17865,enum_A_06,partner_a,C02,Same submission uploaded more than once
+d6ded626-acaa-420c-b352-709a253b75c3,18180,enum_B_24,partner_b,C01,Respondent did not consent
+35d9163a-b37d-4be0-af3d-de2cdfa9f57b,18194,enum_B_12,partner_b,C01,Respondent did not consent
+adba9dae-8892-4325-99ff-7cd8c282feef,18195,enum_B_16,partner_b,C04,Interview took 10 minutes
+dacc06be-31ac-4ab9-86c9-3e724391a527,18720,enum_B_20,partner_b,C04,Interview took 11 minutes
+b2f0bc7f-e44f-41bb-b5cc-2b4d7c03d64b,18758,enum_B_07,partner_b,C02,Same submission uploaded more than once
+f494cf86-d5ce-4585-92fb-ae0d68536a62,18775,enum_A_06,partner_a,C01,Respondent did not consent
+3221de4f-bdf9-438b-a0ff-529c4d8914a6,18836,enum_A_02,partner_a,C01,Respondent did not consent
+de628b38-aa9d-43f7-8034-56d68823ff62,19240,enum_B_10,partner_b,C06,Cluster had been reported inaccessible
+3392c9de-140c-46f8-91fa-999a101e1192,19389,enum_A_05,partner_a,C01,Respondent did not consent
+ab93c232-a162-4273-b615-9bcbe1ddc571,19659,enum_B_19,partner_b,C04,Interview took 8 minutes
+d5012391-86b4-46a1-b796-bd612661718d,19861,enum_A_12,partner_a,C01,Respondent did not consent
+2f8603d3-0e77-4c5c-9411-9593b0a4c51f,20004,enum_B_03,partner_b,C01,Respondent did not consent
+3d776333-9529-4ba9-9fed-6c84503b7f96,20050,enum_B_09,partner_b,C03,Household already interviewed in an earlier submission
+99aef1a2-ab53-4f84-8946-879e789df674,20071,enum_B_10,partner_b,C01,Respondent did not consent
+ac656aac-d853-4a24-bf2b-6e56a49e7ebf,20133,enum_A_14,partner_a,C01,Respondent did not consent
+d40af8ca-9e35-461f-a127-3c0e13dfd520,20264,enum_B_21,partner_b,C04,Interview took 10 minutes
+6551eff9-6959-4a7d-a7f0-5080accaeb23,20285,enum_B_04,partner_b,C01,Respondent did not consent
+ec933f34-cf79-4251-bdb6-fc2d570273d6,20287,enum_A_07,partner_a,C04,Interview took 6 minutes
+6252f17f-b164-4a46-8750-101f1df13300,20369,enum_A_05,partner_a,C01,Respondent did not consent
+948d5d02-3469-40d1-a54e-14df0d78dda0,20850,enum_A_01,partner_a,C04,Interview took 7 minutes
+f37edb8e-ebbb-4745-a994-a2a1099f896c,20868,enum_B_03,partner_b,C01,Respondent did not consent
+490fb8f5-68e8-4f58-b47f-86857d04f63a,21093,enum_A_02,partner_a,C01,Respondent did not consent
+2533065f-ce79-4300-8d00-dd7e6183f576,21160,enum_B_19,partner_b,C01,Respondent did not consent
+ee09c107-5dc3-465b-99a6-20bff939566b,21450,enum_B_09,partner_b,C01,Respondent did not consent
+e436f846-9e28-4e47-a867-1e172898c01a,21538,enum_B_21,partner_b,C04,Interview took 7 minutes
+0ee0ad9f-57ff-4650-bb47-9d24417ae24f,21618,enum_A_14,partner_a,C01,Respondent did not consent
+55526a59-e399-43ec-acde-ee37c0d0ee5f,22136,enum_A_08,partner_a,C01,Respondent did not consent
+36a3a241-71a9-4402-a354-b951d2c56d56,22180,enum_B_17,partner_b,C01,Respondent did not consent
+974da115-1776-4d9d-b3ad-43f8c9cd7e3b,22223,enum_B_11,partner_b,C01,Respondent did not consent
+f16ab17d-7aa0-40ed-9df6-52d44f17db05,22354,enum_B_10,partner_b,C06,Cluster had been reported inaccessible
+cfa24868-7ff0-4513-91b6-cc002e2c92fc,22410,enum_A_08,partner_a,C02,Same submission uploaded more than once
+c8b90575-d3bd-4c69-b9b7-85c49b49c5e8,22437,enum_B_10,partner_b,C06,Cluster had been reported inaccessible
+597aed4f-54c3-40ce-ba58-39fe882538bf,22444,enum_A_12,partner_a,C01,Respondent did not consent
+459abb68-b78d-46a4-af3b-315deb5d5554,22780,enum_A_12,partner_a,C05,Cluster code not in the sample
+bdb8eed0-8753-425b-80dc-4dfe100508c6,22836,enum_B_20,partner_b,C04,Interview took 8 minutes
+024b5b96-5790-44e4-90de-c5db2fa49512,23150,enum_A_07,partner_a,C01,Respondent did not consent
+e33f7df1-be10-4acd-b4bb-b8857355b6fd,23186,enum_B_03,partner_b,C04,Interview took 7 minutes
+b8b854a8-3662-4621-9a03-d9b650a62278,23214,enum_A_11,partner_a,C01,Respondent did not consent
+73857cf4-c86f-40ed-8739-39ff7a41c01c,23454,enum_A_14,partner_a,C02,Same submission uploaded more than once
+8a212c9d-f575-45e2-b2e3-4a347ce9e6de,23468,enum_B_07,partner_b,C03,Household already interviewed in an earlier submission
+38f2395d-5cc7-473c-be5c-945271403ec3,23507,enum_A_08,partner_a,C04,Interview took 5 minutes
+942bd36c-da50-4754-bcc1-385702bd1bc3,23548,enum_B_18,partner_b,C04,Interview took 8 minutes
+22d2f682-714f-4b2c-8f59-f0aec42254aa,23802,enum_B_17,partner_b,C05,Cluster code not in the sample
+445b4b35-3ca5-4c8c-aa4d-83f306d63934,23901,enum_A_10,partner_a,C01,Respondent did not consent
+808f721d-1931-47c7-a08b-7f743c94fcca,23943,enum_A_10,partner_a,C03,Household already interviewed in an earlier submission
+4373d9f5-2fb1-4b21-afd8-3647bd09ca61,24048,enum_B_09,partner_b,C04,Interview took 11 minutes
+9ae56202-e002-49f5-882a-c10a0bfbc0e3,24153,enum_A_15,partner_a,C04,Interview took 5 minutes
+fed932e5-1446-4b32-872c-f83a61129ee3,24231,enum_B_08,partner_b,C04,Interview took 11 minutes
+d9efa25f-cec0-4a22-87f4-8ed9dce6f2b1,24309,enum_A_12,partner_a,C04,Interview took 7 minutes
+34f0957a-45e2-4129-a8cf-a7243736a724,24750,enum_B_13,partner_b,C01,Respondent did not consent
+b14d6db3-098f-4ca8-8184-1998f7f68bef,24758,enum_B_20,partner_b,C04,Interview took 6 minutes
+9980f07c-3ff7-4715-9709-2f498642620c,24770,enum_B_03,partner_b,C04,Interview took 5 minutes
+ab5031a2-b56a-476d-8669-d69b322c66fa,24844,enum_A_18,partner_a,C04,Interview took 6 minutes
+974814f2-7f8e-4635-be23-5be2d512d1d5,24849,enum_B_20,partner_b,C04,Interview took 10 minutes
+c901a773-ccd9-475f-b6a3-f4cd518bea21,24900,enum_A_11,partner_a,C01,Respondent did not consent
+b1abfa49-bde1-42d9-9fd1-95a3e35f5fb8,25127,enum_B_04,partner_b,C01,Respondent did not consent
+e1eb1a1b-a986-4dc7-a393-7f7bca849e81,25210,enum_B_11,partner_b,C04,Interview took 5 minutes
+a8cbafa1-1644-40db-9b82-e8e09b05d09d,25211,enum_A_02,partner_a,C04,Interview took 5 minutes
+9c0599fe-aed7-4126-89bd-40545f0aec80,25392,enum_B_06,partner_b,C04,Interview took 9 minutes
+6933dac3-e3ee-4068-b2cc-ec772441ce99,25407,enum_B_12,partner_b,C02,Same submission uploaded more than once
+da4c9f27-4587-459d-b0b5-5c7643813d19,25888,enum_A_13,partner_a,C01,Respondent did not consent
+33686ab9-7dd1-4b20-81d4-2d7347f6e61e,25931,enum_B_13,partner_b,C01,Respondent did not consent
+832a6978-9ddd-40d2-b0fb-c2364a61ca8d,26011,enum_A_14,partner_a,C04,Interview took 8 minutes
+3e03d6af-8842-4427-8963-a1236821da7f,26247,enum_A_15,partner_a,C01,Respondent did not consent
+43448e97-769f-47a2-8747-2476ddfe7297,26336,enum_A_16,partner_a,C01,Respondent did not consent
+55fdfe7b-c4f9-490d-bb34-bc7edbddb985,26414,enum_A_13,partner_a,C04,Interview took 7 minutes
+75da9970-0b33-437c-ac48-2dccdde3e7ae,26888,enum_A_02,partner_a,C04,Interview took 11 minutes
+e4161273-bffa-4de5-9406-7dba7b72b45f,13,enum_D_14,partner_d,C06,Cluster had been reported inaccessible
+28450c99-16e5-45b1-baae-2b6f81bdf6a6,30,enum_C_03,partner_c,C01,Respondent did not consent
+345b45b5-e50d-43ca-8eaa-4c50567c0c30,36,enum_D_25,partner_d,C02,Same submission uploaded more than once
+b49dc926-8b02-4d40-985b-0c682fed581e,61,enum_D_28,partner_d,C06,Cluster had been reported inaccessible
+869f68aa-dfe1-45ab-912f-a79468e332c6,70,enum_D_25,partner_d,C01,Respondent did not consent
+621ae298-c9f7-4cb8-8d2b-f7c7e28e8b79,230,enum_D_26,partner_d,C04,Interview took 10 minutes
+9e168c0b-edf2-4dcf-82e1-4b92cf0f6d55,350,enum_D_25,partner_d,C04,Interview took 10 minutes
+99fc605e-1444-4466-a5ee-0bbe23f75334,361,enum_C_02,partner_c,C01,Respondent did not consent
+9e500cdd-7691-4403-adeb-71ebcf85ea6a,388,enum_C_04,partner_c,C04,Interview took 8 minutes
+18a6a66f-96bd-4636-a31c-2ac080005d7f,690,enum_D_25,partner_d,C04,Interview took 5 minutes
+f7a7d9af-1435-449b-afe2-e73841b871e3,724,enum_C_11,partner_c,C02,Same submission uploaded more than once
+b2873eed-471d-4fba-98e0-a8bca5618347,787,enum_C_18,partner_c,C01,Respondent did not consent
+c05a80aa-3c3c-4a2f-bf36-8377da04732c,799,enum_D_12,partner_d,C06,Cluster had been reported inaccessible
+6c8761c2-073a-40da-9afb-e22456a61783,1210,enum_C_11,partner_c,C04,Interview took 6 minutes
+9c416144-5987-4beb-955b-f92321d41fff,1278,enum_C_03,partner_c,C01,Respondent did not consent
+ab356051-48a0-4ab2-87c6-91b51295277b,1408,enum_D_06,partner_d,C06,Cluster had been reported inaccessible
+758156d5-bdc4-40aa-97f0-ad02e962b04a,1460,enum_D_26,partner_d,C01,Respondent did not consent
+c4315d59-a96e-405f-94d5-2a19602bb926,1620,enum_D_25,partner_d,C01,Respondent did not consent
+e3082b2a-263d-463e-b5fb-9ab3b943df8d,2233,enum_C_16,partner_c,C04,Interview took 4 minutes
+76618248-483d-4c7d-bb1e-3341ead8b6d0,2285,enum_C_04,partner_c,C03,Household already interviewed in an earlier submission
+a95cfd6d-2116-4510-b186-6a90dd9af2a0,2510,enum_D_25,partner_d,C03,Household already interviewed in an earlier submission
+ed5e9664-7088-4599-b7f5-4a00b2e1a124,2512,enum_D_08,partner_d,C03,Household already interviewed in an earlier submission
+7b9754dc-3fb3-4d72-b699-4805d2f35f2a,2669,enum_D_26,partner_d,C01,Respondent did not consent
+3c1b6299-d147-4818-84f1-2da225fab030,2713,enum_D_12,partner_d,C04,Interview took 7 minutes
+0065b604-e172-427f-b1a2-1ae0ac3ff2fd,2822,enum_C_17,partner_c,C04,Interview took 10 minutes
+f39e67ee-9b7b-45eb-8afe-2bebd7613761,2901,enum_D_25,partner_d,C04,Interview took 12 minutes
+6eca7459-f0dc-4bc7-8e3f-e09b2ca9f577,2918,enum_C_06,partner_c,C01,Respondent did not consent
+8a804867-7ff9-4ac6-839f-9d2b0f4205b1,3123,enum_D_26,partner_d,C06,Cluster had been reported inaccessible
+95f00cc6-1f76-4589-ad29-771ac4b78d13,3309,enum_D_05,partner_d,C01,Respondent did not consent
+a32230b4-c2ad-4a1b-bee5-a76e1f901154,3352,enum_D_13,partner_d,C02,Same submission uploaded more than once
+c97b4387-a17c-49de-8757-9af542904e2a,3384,enum_C_15,partner_c,C04,Interview took 7 minutes
+449b7a78-628e-4863-a92c-d7ddbcaa897f,3388,enum_C_04,partner_c,C01,Respondent did not consent
+f0df2b7c-67d4-44b1-8062-760943fc539a,3530,enum_D_27,partner_d,C02,Same submission uploaded more than once
+533e1949-b9d4-456d-ac85-2efb41838450,3552,enum_C_15,partner_c,C01,Respondent did not consent
+daab7749-4ce5-4371-a1e3-52fac370162c,3626,enum_D_27,partner_d,C04,Interview took 7 minutes
+289114f5-fc8f-485a-a2f1-20e12795bbbc,3630,enum_C_15,partner_c,C04,Interview took 7 minutes
+51d37932-1b27-4c6b-a434-a24d147a4efd,3784,enum_D_03,partner_d,C02,Same submission uploaded more than once
+b71245a2-5a8b-4fdb-8be0-3bf78a673371,3836,enum_C_04,partner_c,C02,Same submission uploaded more than once
+526be11e-394e-4555-a316-58fd02483978,3856,enum_D_27,partner_d,C01,Respondent did not consent
+b9ac0851-cead-4115-99af-b91c2d313639,4051,enum_D_13,partner_d,C04,Interview took 12 minutes
+13bad379-0575-493d-9ae5-a408e3bfb1ec,4099,enum_D_11,partner_d,C06,Cluster had been reported inaccessible
+325ff0c1-efb8-4ac1-a79f-89c65f35a27a,4449,enum_D_27,partner_d,C04,Interview took 11 minutes
+ac5fb6a5-5692-4102-8e2b-5db00626e767,4476,enum_D_24,partner_d,C04,Interview took 5 minutes
+78227fd3-cccd-46bc-b9e0-943f3f5c667e,4570,enum_C_18,partner_c,C04,Interview took 13 minutes
+6f8d6c71-6d23-420c-8d22-792493c50cf0,4746,enum_C_18,partner_c,C04,Interview took 14 minutes
+2fad1078-70c2-4c55-8523-e57fa3e62e74,4764,enum_D_06,partner_d,C04,Interview took 9 minutes
+bc59737a-9b6b-427b-ae36-b851b66e3097,4894,enum_D_16,partner_d,C01,Respondent did not consent
+fdf2a628-c353-4e99-9d06-43ce93126247,4901,enum_C_03,partner_c,C01,Respondent did not consent
+d82c03cd-c044-4163-bcd0-b1894b2ddbcb,5035,enum_D_28,partner_d,C01,Respondent did not consent
+b8e414d5-018c-4174-aed3-6fe6b9928dee,5286,enum_C_06,partner_c,C04,Interview took 8 minutes
+e224f56a-bfbe-4964-9146-bcd7efbe33ec,5388,enum_C_20,partner_c,C04,Interview took 12 minutes
+1edf10ff-7c64-442b-a7cb-1229453c9af9,5581,enum_D_14,partner_d,C04,Interview took 10 minutes
+fc7604a7-cc71-46a8-bcc8-5169766c889e,5851,enum_D_16,partner_d,C01,Respondent did not consent
+da0f18cd-a448-41aa-9116-b6fe054b1519,5901,enum_D_06,partner_d,C01,Respondent did not consent
+3b91842c-20f7-4cc8-8c58-3020b56c2879,5970,enum_D_14,partner_d,C01,Respondent did not consent
+918de108-e986-46dd-a58f-329158fd8e8d,5972,enum_D_25,partner_d,C01,Respondent did not consent
+647cb1c2-810e-4b73-94a4-e6f7f5b54e0e,6000,enum_D_03,partner_d,C04,Interview took 11 minutes
+561d99b1-c848-44eb-83d4-b9d4b0e8bc7e,6255,enum_D_23,partner_d,C01,Respondent did not consent
+6922f039-134d-4720-b649-00ed0ba0bb09,6439,enum_D_22,partner_d,C01,Respondent did not consent
+f2a55b76-b468-48d9-b874-a93b27e164fb,6473,enum_D_24,partner_d,C05,Cluster code not in the sample
+7b51da5d-0202-4493-94d7-9a2d942e2a2c,6711,enum_D_21,partner_d,C01,Respondent did not consent
+fec486f0-8843-4159-aeb2-35710906bcc0,6784,enum_D_12,partner_d,C04,Interview took 9 minutes
+9f475c42-8b23-424d-8fc7-b27fd1912275,6862,enum_C_15,partner_c,C02,Same submission uploaded more than once
+7bde01a1-640f-4628-bc53-25dc8b4811c6,7147,enum_D_15,partner_d,C01,Respondent did not consent
+d8337334-d3d6-4a8a-8b75-1a4ca129c5e3,7914,enum_D_09,partner_d,C01,Respondent did not consent
+4b48bddb-31ae-4346-8359-c820b0f4385d,8066,enum_C_18,partner_c,C04,Interview took 15 minutes
+b402f2c7-c496-42fc-9454-d926eb904273,8126,enum_D_26,partner_d,C01,Respondent did not consent
+484773b8-9050-4b69-bb73-27c21a3e552b,8137,enum_D_12,partner_d,C01,Respondent did not consent
+6600e559-c356-496e-9573-723b85ea8ab8,8195,enum_D_06,partner_d,C01,Respondent did not consent
+a88c64a9-502c-4d91-88f8-9b360bff0df8,8197,enum_D_17,partner_d,C01,Respondent did not consent
+a2d6f444-0a5e-49b4-a7cc-12a7f9fcd5ab,8385,enum_C_20,partner_c,C04,Interview took 4 minutes
+6c87b0ab-ee9a-4b27-a9c8-3db4110473e8,8693,enum_D_05,partner_d,C04,Interview took 6 minutes
+f8c7a193-3818-471e-aa84-ebfc9a253040,8760,enum_C_07,partner_c,C04,Interview took 8 minutes
+74bb7a11-53eb-4a00-bf3d-304bf3811daf,8954,enum_C_16,partner_c,C01,Respondent did not consent
+fbc48304-9df2-469f-9fae-009b2ca6506b,8969,enum_D_21,partner_d,C01,Respondent did not consent
+548b9195-7801-45c3-a531-85b0e8fe2e90,9009,enum_C_03,partner_c,C01,Respondent did not consent
+fb0ce716-c50e-4059-bc23-6f8d01cbd99b,9264,enum_D_05,partner_d,C01,Respondent did not consent
+21338347-d107-43da-bc76-8a426ec1ebee,9309,enum_D_11,partner_d,C04,Interview took 8 minutes
+89b26b5a-dc78-43b8-a38b-2a5c3a5afda3,9542,enum_D_04,partner_d,C01,Respondent did not consent
+76db91e3-17d7-4b13-a6e1-513805d30dcb,9915,enum_C_06,partner_c,C04,Interview took 7 minutes
+f4f66f08-cc4e-41df-a36a-5be6ffafe56f,10062,enum_D_02,partner_d,C04,Interview took 9 minutes
+3c1a1003-d556-4983-9074-299cb73cc972,10147,enum_D_05,partner_d,C01,Respondent did not consent
+d98c665f-05ae-44d3-8730-1ec6639cd02f,10197,enum_D_07,partner_d,C02,Same submission uploaded more than once
+00ddb0a5-89a9-4175-a154-df1924f3bb6a,10217,enum_D_15,partner_d,C05,Cluster code not in the sample
+1a37acbf-4f3d-446b-aac5-9887e910bf70,10306,enum_D_20,partner_d,C01,Respondent did not consent
+9df12550-eafa-485d-9cee-833f4ad2412d,10415,enum_C_05,partner_c,C04,Interview took 10 minutes
+830330f4-9640-4260-a009-ea4c0e4f9894,10618,enum_D_25,partner_d,C03,Household already interviewed in an earlier submission
+317c1364-3add-4eb3-8631-515dce299f7f,10710,enum_C_20,partner_c,C01,Respondent did not consent
+154383fd-c9a1-4094-b53d-f4bebc0e6e5e,10839,enum_D_20,partner_d,C04,Interview took 9 minutes
+334dd1f5-074f-4685-816f-20e03ee0a7ab,10850,enum_D_20,partner_d,C02,Same submission uploaded more than once
+4e8e127b-91a7-4f9b-a9a4-7b9a491fb1d9,10862,enum_C_08,partner_c,C01,Respondent did not consent
+5527592d-f4f1-4e24-83a5-6175880024cf,11017,enum_D_20,partner_d,C04,Interview took 5 minutes
+5b8dd21f-5d1a-4e19-9b4f-efbcc04e101c,11023,enum_D_12,partner_d,C02,Same submission uploaded more than once
+d3d348ec-dc6f-4e1e-865c-49f584bf50af,11118,enum_D_24,partner_d,C04,Interview took 4 minutes
+5d4e2be8-4049-4372-bf37-36387fda4420,11329,enum_D_09,partner_d,C04,Interview took 9 minutes
+645ac530-744e-4715-a4ed-d59de371174a,11519,enum_D_08,partner_d,C01,Respondent did not consent
+15bf9a34-1f6c-4cf8-835a-f7c831f07c5c,11623,enum_D_07,partner_d,C04,Interview took 11 minutes
+5b6d90f0-bc80-4a96-87c4-5fbd0d3d9225,11671,enum_C_12,partner_c,C04,Interview took 8 minutes
+e6f622a6-56ab-4440-8afc-482b404e589a,11677,enum_D_04,partner_d,C04,Interview took 11 minutes
+0835d695-1bcb-4307-8d87-07e42faccb42,11851,enum_D_16,partner_d,C04,Interview took 9 minutes
+d817dde9-1fa3-48f7-83b0-43f68658c8ff,12212,enum_C_06,partner_c,C04,Interview took 10 minutes
+15ea8f4f-0366-41b6-8949-66e30cd7d849,12236,enum_D_26,partner_d,C04,Interview took 8 minutes
+4b750cf4-57aa-4d50-9789-20420a33bda7,12422,enum_D_24,partner_d,C04,Interview took 11 minutes
+abd02378-08a2-41cd-a279-033c03e64372,12463,enum_D_20,partner_d,C04,Interview took 4 minutes
+b146c739-9aa2-49c3-abc5-deeccf82dabe,12741,enum_C_05,partner_c,C01,Respondent did not consent
+968fec6f-393c-4494-beb0-ca037587fa9b,12875,enum_D_05,partner_d,C01,Respondent did not consent
+b6e280d9-0cfd-41bc-855d-a6b6b8f66cae,13088,enum_D_05,partner_d,C01,Respondent did not consent
+17b08ceb-3378-44b3-8fb3-a81567b6998b,13185,enum_D_14,partner_d,C04,Interview took 8 minutes
+72da84e2-25a6-4cda-a47d-3bf285e81f77,13234,enum_D_24,partner_d,C04,Interview took 11 minutes
+fd2c3a2d-699f-49cc-ab6b-24ab38b0d527,13270,enum_D_03,partner_d,C04,Interview took 7 minutes
+1356c5af-77ad-4acb-a7f0-766bc78d742d,13309,enum_C_07,partner_c,C04,Interview took 8 minutes
+c0fa11c1-bf57-408d-8a09-95b84d551adc,13489,enum_C_05,partner_c,C02,Same submission uploaded more than once
+adefcb1d-7f2e-416c-82e1-de659527b2ad,13555,enum_D_16,partner_d,C04,Interview took 8 minutes
+3a69fd90-6722-4ee3-8fac-ed60b158ce70,13801,enum_C_16,partner_c,C04,Interview took 10 minutes
+b4ada0dc-3e02-4474-a172-57a0959e6398,14004,enum_D_27,partner_d,C01,Respondent did not consent
+f65a8652-698f-410a-92f9-888ebd1069d7,14639,enum_C_01,partner_c,C05,Cluster code not in the sample
+8617d910-a434-46e0-8e96-02bbd1b4054a,14764,enum_C_10,partner_c,C04,Interview took 10 minutes
+9640cc67-fd0e-484e-898c-ff6d7b35127b,14788,enum_D_04,partner_d,C01,Respondent did not consent
+cf79346c-6486-42eb-89c2-d841f1ef8d27,14874,enum_D_18,partner_d,C01,Respondent did not consent
+c8d2dac0-31d3-4bb4-8222-ffe0a12b99cc,14907,enum_D_18,partner_d,C04,Interview took 11 minutes
+9d9673e6-b318-4fa3-9819-3ee68265ed9a,15072,enum_D_22,partner_d,C04,Interview took 7 minutes
+8e4f7886-0a46-4807-9d93-5dcf972852bd,15077,enum_D_25,partner_d,C02,Same submission uploaded more than once
+104d073e-ef30-4835-8852-422fb3902430,15080,enum_D_26,partner_d,C04,Interview took 9 minutes
+94f6489f-0d1c-46d0-9482-e7238962b8b5,15147,enum_D_17,partner_d,C04,Interview took 11 minutes
+70ce012a-0236-43fc-a60d-d2915a031177,15240,enum_C_03,partner_c,C04,Interview took 8 minutes
+97fa30c3-2dfa-4d23-98d1-b2c1c91a2345,15360,enum_D_02,partner_d,C04,Interview took 7 minutes
+a011dcb2-3626-48cb-ab16-9b4c09a3b305,15543,enum_C_03,partner_c,C01,Respondent did not consent
+053af523-d95b-41b7-a4ac-3f47b2846dbf,15553,enum_D_03,partner_d,C01,Respondent did not consent
+d8d76cd3-1d02-410c-8306-4831e6bf3824,15736,enum_D_04,partner_d,C04,Interview took 11 minutes
+c4f9f928-640f-4a28-a47a-98ca605a95de,15821,enum_D_17,partner_d,C01,Respondent did not consent
+ee5984da-b10e-4ba1-b402-2fea105348fb,15849,enum_C_03,partner_c,C01,Respondent did not consent
+db1b0beb-842e-48bf-a9e1-8adf72a934a9,15964,enum_C_18,partner_c,C04,Interview took 15 minutes
+018bb6c2-0212-417c-b497-4a3a36642f6b,16179,enum_D_11,partner_d,C04,Interview took 6 minutes
+d70fbd0a-4892-4a4f-8987-b3b45e918ed7,16259,enum_D_18,partner_d,C01,Respondent did not consent
+4d10a184-0555-46b1-922c-cbc44e02cf73,16576,enum_D_08,partner_d,C01,Respondent did not consent
+646641ec-5127-4495-9fb1-61e5b308bef1,16730,enum_D_20,partner_d,C03,Household already interviewed in an earlier submission
+be958604-a33b-4112-9434-ccd596aa191e,16854,enum_D_14,partner_d,C03,Household already interviewed in an earlier submission
+495f9714-4fb7-4522-b913-4efd05c31816,16982,enum_D_09,partner_d,C04,Interview took 6 minutes
+15b6529e-02f3-49a1-b27f-c45e9427e92c,17017,enum_D_25,partner_d,C02,Same submission uploaded more than once
+45f4fac2-5dc3-4a12-b0c4-d87753ec28d7,17371,enum_D_24,partner_d,C04,Interview took 6 minutes
+3aff16f8-463f-42f9-b9ad-40e128f15ac3,17499,enum_D_03,partner_d,C01,Respondent did not consent
+d28e2950-2a80-423c-8bd5-e7af4e535738,17528,enum_C_11,partner_c,C02,Same submission uploaded more than once
+91cf1c14-3e86-46be-9bf0-c0ff5f6e86bc,17608,enum_D_04,partner_d,C02,Same submission uploaded more than once
+9e48ae28-cb68-4137-a246-3cd9540ce945,17761,enum_C_02,partner_c,C01,Respondent did not consent
+3c506611-2ca9-4ac3-893f-672358e4450c,17769,enum_D_02,partner_d,C04,Interview took 9 minutes
+11024670-655f-41c0-8a0e-c2b391ba4372,17787,enum_C_19,partner_c,C01,Respondent did not consent
+68615b98-05e8-4c1d-9e93-5a6cab26f771,17812,enum_D_26,partner_d,C04,Interview took 6 minutes
+cde12978-6d2c-4b94-bdbc-3239c331c953,18029,enum_D_02,partner_d,C04,Interview took 6 minutes
+f27790b4-15f6-4810-b085-75354e8d288c,18057,enum_D_20,partner_d,C04,Interview took 7 minutes
+c150e7db-7405-4e20-87af-3e36c9e93fa1,18119,enum_C_12,partner_c,C01,Respondent did not consent
+b6ed785c-f36e-4d8f-b00a-06e7d2ba9c50,18183,enum_C_07,partner_c,C05,Cluster code not in the sample
+e573347d-cfe5-4bb2-8a57-fdd1fc7c8390,18258,enum_D_20,partner_d,C04,Interview took 7 minutes
+3683a293-840a-4475-89fe-06f88aea7017,18569,enum_D_05,partner_d,C05,Cluster code not in the sample
+f4676faf-de81-40d9-b376-4cf7bf6d16d2,18653,enum_C_09,partner_c,C04,Interview took 6 minutes
+8e80a5c3-ebb3-4fd8-af0f-52c53f68e314,18655,enum_C_11,partner_c,C02,Same submission uploaded more than once
+d36f288a-943a-4f46-8ac6-a3fdb03205c5,18778,enum_D_05,partner_d,C04,Interview took 10 minutes
+3cff3776-5da0-42ac-9ca0-d5a7d788f65f,18941,enum_D_06,partner_d,C04,Interview took 4 minutes
+de83f2d9-62d1-4900-b18e-d0d5584343c0,19235,enum_D_27,partner_d,C03,Household already interviewed in an earlier submission
+e965663e-ec75-46bf-a3e2-efedc47817c2,19401,enum_D_11,partner_d,C04,Interview took 6 minutes
+6147c77c-52f1-4d6c-a10d-b92697028df2,19441,enum_C_06,partner_c,C05,Cluster code not in the sample
+0078af6d-e7f5-4da1-b075-2fa5bfeeebc2,19584,enum_D_21,partner_d,C05,Cluster code not in the sample
+6b8f01af-f3d3-41a5-b159-3ada48ed0a84,19885,enum_C_12,partner_c,C04,Interview took 10 minutes
+c061c6b3-f79b-4d6e-84b3-af66d41a967a,19891,enum_D_01,partner_d,C01,Respondent did not consent
+b9a44f07-81bc-43c9-aef0-bdc0e32eca4d,19919,enum_C_20,partner_c,C05,Cluster code not in the sample
+c2c550a1-c5b4-4576-9bd5-b324f36a0c00,20155,enum_C_19,partner_c,C01,Respondent did not consent
+4f3503a4-5ba9-4960-a917-ed400f93a31a,20253,enum_C_16,partner_c,C02,Same submission uploaded more than once
+a2af97e8-ef0d-4845-97df-94ec249b4c9a,20425,enum_C_18,partner_c,C04,Interview took 15 minutes
+1f0b0b6d-db0b-4fa3-9ff1-8b2734f4c228,20534,enum_D_16,partner_d,C04,Interview took 12 minutes
+c5c6f940-9106-40da-884b-e71fd80b831b,20786,enum_D_01,partner_d,C04,Interview took 10 minutes
+034d466b-8f49-444f-8774-b705d2c83a7e,20800,enum_C_14,partner_c,C01,Respondent did not consent
+257294d1-de8e-4e87-862c-f37c3b14750a,20810,enum_C_18,partner_c,C04,Interview took 14 minutes
+9fad942e-fdb7-42ec-a18b-10a32d31700c,20897,enum_D_10,partner_d,C03,Household already interviewed in an earlier submission
+30001a91-2b96-4314-8929-4dba7f5bc41d,21216,enum_C_07,partner_c,C04,Interview took 12 minutes
+df1d91bf-c781-45ef-80ae-ed5f6336d382,21219,enum_C_19,partner_c,C01,Respondent did not consent
+8c0e4522-8895-4485-9586-cbfda1a7df35,21225,enum_C_15,partner_c,C01,Respondent did not consent
+26d555f9-4067-4dff-8106-348d3e5566a5,21371,enum_D_27,partner_d,C02,Same submission uploaded more than once
+ce2405b2-f21d-4e2e-aa19-2d70e7b37fda,21475,enum_D_03,partner_d,C01,Respondent did not consent
+f7ed8751-c358-460c-a9f1-1a9195d87660,21545,enum_D_27,partner_d,C04,Interview took 6 minutes
+67b3ab5d-07bd-4102-ac75-8b0f0d648007,21980,enum_D_05,partner_d,C03,Household already interviewed in an earlier submission
+fd37bf34-bf87-4c24-80eb-023a2e2b6b6f,21995,enum_D_04,partner_d,C01,Respondent did not consent
+87983445-8dcd-49a0-acdd-fe7250bcf4d5,22109,enum_C_05,partner_c,C02,Same submission uploaded more than once
+379f039b-7570-4e61-986c-66f3df5dda60,22147,enum_D_15,partner_d,C02,Same submission uploaded more than once
+3ee5f769-fca8-44c2-a2f7-43abab8c0212,22287,enum_C_19,partner_c,C04,Interview took 10 minutes
+8660fea2-565d-4b1c-81ee-7bd58529bef8,22385,enum_D_02,partner_d,C04,Interview took 8 minutes
+9b81c6bc-89ca-4331-8324-3750a3d37bc2,22449,enum_D_07,partner_d,C01,Respondent did not consent
+f9fdf442-b68b-4b56-b759-3bd4598f966c,22545,enum_D_18,partner_d,C01,Respondent did not consent
+707b56e0-570c-4368-8a19-4c753544263f,22612,enum_D_18,partner_d,C04,Interview took 8 minutes
+cf85c9f6-26ec-4392-a734-8ea32685cdbe,22729,enum_D_07,partner_d,C04,Interview took 4 minutes
+3ed3fbf7-2067-4199-a160-8e916ba46c5d,22812,enum_D_03,partner_d,C03,Household already interviewed in an earlier submission
+8d50614a-9db1-495c-871e-5df6e000bbc8,22821,enum_D_28,partner_d,C04,Interview took 6 minutes
+96ceebfb-7ea1-40ea-8e98-5089723bb850,22871,enum_D_20,partner_d,C01,Respondent did not consent
+b2c645e3-e8f3-47ad-b55b-8b39cc1340c0,23078,enum_C_18,partner_c,C04,Interview took 15 minutes
+68926d83-df49-44c4-b01a-4a7093504ec4,23502,enum_D_09,partner_d,C01,Respondent did not consent
+cb904a24-3dea-4e12-a37d-953120ea9d87,23580,enum_D_16,partner_d,C04,Interview took 11 minutes
+23d5b024-9c43-4bdd-a4ec-cb73d0e2260f,23676,enum_D_16,partner_d,C04,Interview took 6 minutes
+131e73e5-61ae-413d-8f0e-292743904dd8,23763,enum_D_07,partner_d,C04,Interview took 11 minutes
+1a787110-616a-472f-8c3c-072b32cfef1e,23779,enum_D_17,partner_d,C04,Interview took 11 minutes
+7ac63b29-916d-499d-ba7a-abbb1e9e3c36,23832,enum_C_18,partner_c,C04,Interview took 13 minutes
+e9402e6d-f85b-4dba-812a-41b6628d682b,23868,enum_D_02,partner_d,C01,Respondent did not consent
+92170bc7-5b1a-4f0e-9551-dce7c372995c,23869,enum_D_22,partner_d,C05,Cluster code not in the sample
+7de981b0-5920-4169-af82-0c5e4e80b700,23963,enum_D_22,partner_d,C03,Household already interviewed in an earlier submission
+9fb5f847-e664-4587-afa4-86e51187fabc,24047,enum_D_04,partner_d,C02,Same submission uploaded more than once
+0d88391a-5cdf-42a3-ba8a-47ea5159364e,24248,enum_D_15,partner_d,C01,Respondent did not consent
+49920074-df89-48ae-9278-f6da8564e0b7,24565,enum_C_07,partner_c,C05,Cluster code not in the sample
+6a93bfd2-3d07-4adc-8149-54d72927cec3,24769,enum_D_22,partner_d,C04,Interview took 4 minutes
+d75a66dc-2c3d-465e-ba8e-3130559e247b,24827,enum_C_08,partner_c,C02,Same submission uploaded more than once
+449729ad-5ba1-4f45-af15-ed2da22d5bc1,24952,enum_C_18,partner_c,C04,Interview took 13 minutes
+57bad04d-87de-448e-bee8-ec5285ed2798,25053,enum_D_03,partner_d,C04,Interview took 6 minutes
+ae18e869-1aab-4db4-ab00-58cbb16c9cf4,25151,enum_D_08,partner_d,C02,Same submission uploaded more than once
+1cb1769a-204c-4be1-a169-e9bfbba40e16,25203,enum_D_22,partner_d,C04,Interview took 9 minutes
+0e82c365-b580-4377-8fcc-b22307b7241e,25238,enum_D_17,partner_d,C02,Same submission uploaded more than once
+7ce53244-5d0f-4a93-997a-439f17801e47,25383,enum_D_04,partner_d,C04,Interview took 11 minutes
+170a3017-3664-47cd-976c-e61146ba9507,25456,enum_C_18,partner_c,C04,Interview took 14 minutes
+7124a1f5-a605-44f8-8d63-640ebdcea82f,25597,enum_D_19,partner_d,C03,Household already interviewed in an earlier submission
+ebcb4571-7e96-43c1-a069-3e29b5557c61,25705,enum_C_18,partner_c,C04,Interview took 12 minutes
+f8a4fe21-928a-464b-8c98-fea96335ca68,25956,enum_D_08,partner_d,C01,Respondent did not consent
+d52b52d6-9620-497f-8122-93cd9e16275c,25992,enum_D_21,partner_d,C04,Interview took 12 minutes
+b2efa4f1-b48d-4921-b3a7-d42911513dab,25997,enum_D_10,partner_d,C02,Same submission uploaded more than once
+bb4f11b9-5f3f-43ff-a541-8666d34f3228,26027,enum_D_24,partner_d,C03,Household already interviewed in an earlier submission
+af3da6e2-deb1-4ad5-8f5c-a012fd8d78a4,26191,enum_C_07,partner_c,C01,Respondent did not consent
+27ef43f4-1543-4777-a88b-2a6ce3f69222,26328,enum_D_22,partner_d,C02,Same submission uploaded more than once
+6a90cb9a-5406-4abf-8aa6-92777936c8ac,26496,enum_D_22,partner_d,C01,Respondent did not consent
+0de30a55-a82e-431d-92af-571194ea825f,26598,enum_D_21,partner_d,C04,Interview took 5 minutes
+4bed3de3-4c49-4d18-af73-e145db97c202,26634,enum_D_15,partner_d,C01,Respondent did not consent
+28c8f2cc-67b4-4571-9988-b51af1e5e1dd,26636,enum_D_22,partner_d,C04,Interview took 6 minutes
+1b134b34-9de3-463f-ae20-cdca7eeee5c9,26831,enum_D_10,partner_d,C04,Interview took 5 minutes
+2da6fe91-452e-4f3d-9907-693ce468090d,26836,enum_D_15,partner_d,C04,Interview took 10 minutes
+0f98593b-d752-420b-a2b3-69b359409975,26871,enum_D_15,partner_d,C04,Interview took 10 minutes
+7aa69000-4921-44b7-bb47-73a4da91d795,26927,enum_D_24,partner_d,C01,Respondent did not consent
+af863baa-ba3a-464a-91ca-5a172e5f392f,26984,enum_D_18,partner_d,C04,Interview took 8 minutes
+d49e7a1e-9039-4c93-9706-bdc7b4c38239,3,enum_F_03,partner_f,C04,Interview took 15 minutes
+d3028b66-e0d0-4a03-b2b5-a9f9fdf4a5e0,110,enum_F_12,partner_f,C04,Interview took 7 minutes
+1e927de3-7f49-4819-8d49-a08163f46601,177,enum_F_18,partner_f,C04,Interview took 9 minutes
+ce973802-07eb-4f71-875b-728abdbdff2f,183,enum_F_11,partner_f,C04,Interview took 6 minutes
+df5d8aac-a28d-4863-a344-8e748b8c45c2,186,enum_F_03,partner_f,C04,Interview took 15 minutes
+c98aff4b-d2bc-4602-91c6-627ebfd4fd69,198,enum_E_05,partner_e,C04,Interview took 8 minutes
+9f692acb-d11e-4a8c-a231-af4fbf9896b3,337,enum_E_08,partner_e,C04,Interview took 8 minutes
+13e2bc4a-cb96-4fb9-8433-69c451908ab8,440,enum_F_18,partner_f,C04,Interview took 6 minutes
+92dc5abf-ceea-4181-af4e-9d5781c2a293,556,enum_F_03,partner_f,C04,Interview took 15 minutes
+9e21e734-a9a3-4c31-9c27-959a0126d823,600,enum_F_03,partner_f,C01,Respondent did not consent
+27e7a6d1-7a95-4149-844d-89dbe2c94692,742,enum_E_05,partner_e,C04,Interview took 10 minutes
+33857ff5-b0e2-4cc0-8da3-096b50b308ea,753,enum_F_07,partner_f,C04,Interview took 7 minutes
+72471d43-2ada-4711-bcd9-7cfc2911ca26,802,enum_F_06,partner_f,C01,Respondent did not consent
+5d7b3092-9ecf-4063-9b57-3acc946ae54c,932,enum_E_05,partner_e,C01,Respondent did not consent
+6611bfdb-17a9-466f-8681-7fda359640c2,1035,enum_F_03,partner_f,C04,Interview took 14 minutes
+115a1780-71bb-4d2b-9025-d30d6e5e4922,1074,enum_F_13,partner_f,C01,Respondent did not consent
+46568c26-32c3-48d1-a846-5d4156edd12f,1115,enum_F_04,partner_f,C06,Cluster had been reported inaccessible
+451a41d9-841f-433a-b9f0-4c158db3a311,1317,enum_F_03,partner_f,C04,Interview took 15 minutes
+4c024e41-b7b7-48a8-8d7f-08e04a9b3406,1321,enum_F_15,partner_f,C02,Same submission uploaded more than once
+b9a1ee26-831e-445b-a533-d2ec47871994,1389,enum_F_03,partner_f,C04,Interview took 15 minutes
+350944a6-9bea-4219-b9d5-b02b60ca8adf,1428,enum_F_15,partner_f,C04,Interview took 9 minutes
+fbb21e8f-94f4-4292-b05a-e261b10e0382,1433,enum_F_17,partner_f,C04,Interview took 8 minutes
+fc2c3bc3-b686-469a-91d3-c7f516a90cfa,1514,enum_F_12,partner_f,C01,Respondent did not consent
+534c2db7-4362-4a3c-a808-ab9ab46694da,1682,enum_F_15,partner_f,C04,Interview took 12 minutes
+ca50f056-0bca-4e8b-8bcd-0d15156fd0af,1713,enum_E_04,partner_e,C01,Respondent did not consent
+92971a99-fda6-460a-8b97-221d644da48c,1718,enum_F_17,partner_f,C04,Interview took 11 minutes
+61197511-502a-4411-9f2b-e2b9bd49a115,1803,enum_E_13,partner_e,C05,Cluster code not in the sample
+0cedf550-a687-49ae-9ecb-d05583fd0a84,1890,enum_F_11,partner_f,C04,Interview took 7 minutes
+1d81647b-49d7-41eb-9fe8-b21be91a5a2b,1904,enum_F_13,partner_f,C01,Respondent did not consent
+05e0d676-a621-4b1e-92e7-f189b167a96e,1917,enum_F_14,partner_f,C04,Interview took 4 minutes
+3aa8dcc1-03d5-49ab-ab62-77bf60ee0079,1967,enum_E_18,partner_e,C04,Interview took 6 minutes
+1753962d-357a-4de1-a4cd-03f3fc67f58a,2240,enum_F_15,partner_f,C04,Interview took 7 minutes
+fe5db4d9-f67e-4cf0-8be4-c415420a6e8a,2397,enum_F_03,partner_f,C04,Interview took 14 minutes
+195baca8-6c10-44e3-9949-66225d21ee16,2399,enum_E_18,partner_e,C04,Interview took 4 minutes
+64d7cfde-db93-4d41-a924-3d2b37c9c693,2676,enum_F_01,partner_f,C04,Interview took 8 minutes
+eba6db5d-cd04-4a41-a860-65fee8e5b326,2692,enum_E_09,partner_e,C04,Interview took 8 minutes
+b6ce4a02-ead3-46dd-bb2e-b3ac78cd803a,2860,enum_F_03,partner_f,C04,Interview took 14 minutes
+78b9de22-6de9-4d19-8444-0d10451f1808,2974,enum_E_02,partner_e,C02,Same submission uploaded more than once
+ce35a8a6-ca61-474a-a833-0ad9d7f38036,3225,enum_F_06,partner_f,C01,Respondent did not consent
+547097a0-9d28-4a94-a9e8-751cba0806bd,3271,enum_F_08,partner_f,C01,Respondent did not consent
+c6d86d32-d337-4359-b8dc-2fe36204efd4,3560,enum_E_14,partner_e,C01,Respondent did not consent
+a248b766-fed2-43ee-be4f-0ed1a36dc189,3712,enum_F_07,partner_f,C01,Respondent did not consent
+67412fb5-7d6d-4bf0-bfcb-c241f4f47d11,3718,enum_F_02,partner_f,C04,Interview took 8 minutes
+7b18b9ec-b2dc-46a6-b34c-449b7d5dfc7e,3720,enum_E_10,partner_e,C06,Cluster had been reported inaccessible
+29fb5efb-140e-4528-947a-a20e5b3714e2,3742,enum_F_03,partner_f,C04,Interview took 14 minutes
+dcbea6ef-782c-437b-9a80-8f41ae2787b8,3900,enum_F_03,partner_f,C04,Interview took 15 minutes
+c586aa17-a97a-47d8-bbae-7b7e89f77575,3955,enum_F_17,partner_f,C01,Respondent did not consent
+6f3c5617-b1d3-40e6-a6ac-993fd1899806,4029,enum_F_06,partner_f,C06,Cluster had been reported inaccessible
+7b2a5d5e-9392-4d36-9af4-0cf5c7de41b0,4086,enum_E_02,partner_e,C01,Respondent did not consent
+657b658d-f3f1-4a30-adbc-d79bbfcd30bc,4137,enum_F_01,partner_f,C04,Interview took 9 minutes
+d8932c1f-1d95-4ab0-b405-1158e82105a9,4155,enum_F_18,partner_f,C04,Interview took 5 minutes
+ebaf4aa6-e260-4d59-bed0-62ffb7f0e062,4195,enum_F_21,partner_f,C02,Same submission uploaded more than once
+f2ebf6d5-08ed-4d49-949c-60fd54a48630,4288,enum_F_15,partner_f,C06,Cluster had been reported inaccessible
+22fa104f-8e59-4e8c-ae0d-fd06645231b1,4307,enum_F_03,partner_f,C04,Interview took 13 minutes
+b82a5723-c4a2-4bb3-ad24-b18633905cb4,4358,enum_E_06,partner_e,C06,Cluster had been reported inaccessible
+28ff4934-6527-45f0-a372-664b01491df9,4472,enum_E_06,partner_e,C04,Interview took 9 minutes
+5cfe8883-21b3-468b-afda-5db7b944e864,4725,enum_E_17,partner_e,C04,Interview took 4 minutes
+488c1369-d731-4eb1-9715-4d84ae343531,4880,enum_F_18,partner_f,C01,Respondent did not consent
+d31b1596-1a4d-43c8-ab72-a20e658a893c,4929,enum_F_17,partner_f,C01,Respondent did not consent
+3dec5ec2-cb22-4942-a37d-b1055735968f,5257,enum_F_12,partner_f,C06,Cluster had been reported inaccessible
+4618fdde-eb95-4471-b57f-eef563f68d05,5554,enum_E_03,partner_e,C04,Interview took 9 minutes
+829e5817-b4d3-442d-aed9-08114148c01f,5683,enum_F_03,partner_f,C04,Interview took 15 minutes
+4ee079df-378b-44ba-a27e-a87581987b9b,5812,enum_F_14,partner_f,C03,Household already interviewed in an earlier submission
+7be5e6e3-a4c6-4b34-9ea2-7367361e5558,5941,enum_F_07,partner_f,C01,Respondent did not consent
+6a48ab69-0328-406c-83a5-13fd6f9b4ecb,5980,enum_E_07,partner_e,C06,Cluster had been reported inaccessible
+0a92fb7d-26dd-4903-a605-cc1be22244ff,5995,enum_E_14,partner_e,C01,Respondent did not consent
+0e8d30e3-b43e-4acc-98ab-5bdecd12f35e,6065,enum_F_19,partner_f,C01,Respondent did not consent
+eb3afb09-5987-42b1-a0a6-bff8d5b857df,6273,enum_F_03,partner_f,C04,Interview took 14 minutes
+4c7aa9d4-3879-4748-852a-68965215ee25,6400,enum_F_08,partner_f,C03,Household already interviewed in an earlier submission
+12ae0f7e-05c4-454a-819a-f6d7a3a43e66,6779,enum_E_14,partner_e,C03,Household already interviewed in an earlier submission
+0c479087-7408-4909-9b34-2c54c610c997,6876,enum_F_08,partner_f,C02,Same submission uploaded more than once
+a4681c75-3547-4709-bf13-8c09831c6de2,7234,enum_F_01,partner_f,C05,Cluster code not in the sample
+5ede8c24-7b65-4d93-85de-732c96b5980a,7342,enum_F_03,partner_f,C04,Interview took 15 minutes
+7edbf8f8-5094-4b11-b793-7d674041fff9,7403,enum_F_11,partner_f,C04,Interview took 10 minutes
+934f2647-7c27-4ca8-96bb-9c0b679475e3,7514,enum_E_17,partner_e,C01,Respondent did not consent
+0de4b2eb-2b78-461c-8da8-24a40d1eee2c,7555,enum_E_07,partner_e,C04,Interview took 8 minutes
+c924c943-10c8-4d18-8841-30b297ecea35,7633,enum_E_17,partner_e,C04,Interview took 6 minutes
+9b37b1d9-5822-4480-8cb6-72fe6eda868d,7640,enum_F_18,partner_f,C01,Respondent did not consent
+62732ff8-8fb8-453b-9332-f4217a100f37,7735,enum_F_11,partner_f,C04,Interview took 12 minutes
+1cdea86c-4fb6-4438-a7e5-358529de2435,7818,enum_F_04,partner_f,C01,Respondent did not consent
+e6363dc6-273a-4114-b743-8cae9076552d,7904,enum_E_12,partner_e,C02,Same submission uploaded more than once
+c7e2caa1-aafe-4b42-929a-d834bfe7aef3,7966,enum_E_17,partner_e,C01,Respondent did not consent
+37f0a298-de2b-4a53-b6ef-5234ad68e554,8400,enum_F_22,partner_f,C01,Respondent did not consent
+4c75efd4-f3a4-412a-bbec-60c643b04c74,8440,enum_F_17,partner_f,C01,Respondent did not consent
+6d1108d6-36bc-42fa-ada3-e83943abab5a,8656,enum_E_03,partner_e,C03,Household already interviewed in an earlier submission
+1eba0d79-d1a1-486e-94f5-5672a87be840,8916,enum_F_04,partner_f,C01,Respondent did not consent
+8a704f8a-2bbc-43c6-8c03-81bc36e3e865,8940,enum_E_16,partner_e,C04,Interview took 7 minutes
+ff019051-6e36-4e23-8f93-002677196031,8986,enum_F_21,partner_f,C01,Respondent did not consent
+3febb23f-c5e2-404a-8c04-c9f8de0116ce,8995,enum_E_07,partner_e,C04,Interview took 10 minutes
+068cb196-c86f-43ca-af70-8584bb554457,9158,enum_E_05,partner_e,C04,Interview took 11 minutes
+896cb7a0-8cef-4f3f-a5d3-7b44ee6455f4,9228,enum_E_16,partner_e,C04,Interview took 7 minutes
+3b4a9b22-c94d-4153-939b-025193dd529e,9327,enum_F_24,partner_f,C01,Respondent did not consent
+2ea67ade-0e99-460c-a7ee-f83961b8c765,9367,enum_F_18,partner_f,C06,Cluster had been reported inaccessible
+7fa09e6d-6939-4e0e-a5e1-9bb423debefa,9466,enum_F_08,partner_f,C04,Interview took 8 minutes
+324715ab-9b64-44d3-8844-e7956bfacf2e,9618,enum_F_04,partner_f,C01,Respondent did not consent
+f8c57e44-dea9-4d95-87f6-3407e63d968d,9675,enum_F_03,partner_f,C04,Interview took 14 minutes
+a41b1430-f7bd-43fc-950f-61cd89bd4121,9755,enum_E_04,partner_e,C02,Same submission uploaded more than once
+2d0b705a-179d-41fc-a0b1-55ad152ba5ee,9793,enum_F_18,partner_f,C01,Respondent did not consent
+ad746f0a-7e91-4e56-b6f0-04d260099bc4,9880,enum_F_14,partner_f,C01,Respondent did not consent
+4fe22452-16e0-4163-af59-bc0e4c00f9d2,9893,enum_F_08,partner_f,C04,Interview took 10 minutes
+04644a43-9c76-4971-9e13-33ad4e937b55,10000,enum_F_14,partner_f,C01,Respondent did not consent
+a61f7cd9-e998-4ede-9436-a520db7e712f,10044,enum_E_07,partner_e,C04,Interview took 9 minutes
+f27aa38b-76c4-40cf-a8c5-9b7798a378b2,10120,enum_F_03,partner_f,C04,Interview took 15 minutes
+f94a3d18-0a92-40c4-be3f-81f7ea8d22ea,10173,enum_E_09,partner_e,C04,Interview took 8 minutes
+ef6aabb2-0369-4d87-8ee5-4f4b40bbeb55,10241,enum_E_03,partner_e,C04,Interview took 11 minutes
+26e86af2-ea0a-407e-beff-c2f3d2e8e32a,10295,enum_F_23,partner_f,C04,Interview took 12 minutes
+c4e326fd-26f7-4933-8a07-23ac66635379,10360,enum_F_11,partner_f,C04,Interview took 10 minutes
+24bd4283-4ea7-4486-a518-9b72654aad09,10374,enum_E_17,partner_e,C04,Interview took 9 minutes
+3329d308-495e-48fd-89d4-52696621eb2f,10417,enum_F_07,partner_f,C04,Interview took 7 minutes
+9ee072fc-d786-496c-885c-0e01fd2f046c,10817,enum_F_20,partner_f,C04,Interview took 7 minutes
+7d4b7fc4-b7b6-4954-84e2-b23edde632f3,11136,enum_E_14,partner_e,C04,Interview took 6 minutes
+5edecfaa-9991-42e2-bfcc-b13dc41b02aa,11264,enum_E_12,partner_e,C04,Interview took 11 minutes
+a1d6ee9c-66ff-400d-984e-3e23c203a91f,11577,enum_F_05,partner_f,C05,Cluster code not in the sample
+84645477-ee6c-4be5-a821-2926f044c145,11581,enum_F_18,partner_f,C01,Respondent did not consent
+3f836dea-2f2e-4ca0-ac0d-4c9190706b43,11686,enum_F_16,partner_f,C03,Household already interviewed in an earlier submission
+f967a8fd-598d-44a5-bc6c-0a2abad8288b,11812,enum_F_03,partner_f,C04,Interview took 15 minutes
+5168e275-b662-4185-bd68-5c15c20904cd,11848,enum_F_13,partner_f,C04,Interview took 6 minutes
+fedfc672-cbdd-4985-b9bf-2c1059a3f02a,11916,enum_E_02,partner_e,C04,Interview took 10 minutes
+cfeddbde-ddad-457e-ab52-becedd92ab4e,12041,enum_F_22,partner_f,C05,Cluster code not in the sample
+04ed4a1b-34cb-43f9-b3e5-e8c6e1989e13,12047,enum_E_05,partner_e,C01,Respondent did not consent
+febe69c7-d6b1-466e-ba28-0e44ab819d80,12074,enum_F_21,partner_f,C06,Cluster had been reported inaccessible
+51e9c75d-5986-468f-b439-b784a3bbabc0,12382,enum_E_13,partner_e,C04,Interview took 7 minutes
+b82c8d92-699b-4867-b0c1-08a8827809df,12399,enum_F_11,partner_f,C06,Cluster had been reported inaccessible
+67cd074f-177e-4377-b23e-5a78f7770e1a,12400,enum_E_09,partner_e,C04,Interview took 8 minutes
+4f32e4bc-56e0-4fed-ac76-8d41f00bb559,12539,enum_F_03,partner_f,C01,Respondent did not consent
+cbbe460d-71d7-40f3-91e4-e19b4a1b6069,12628,enum_F_12,partner_f,C04,Interview took 9 minutes
+9ceb6031-8b9b-43a3-9f0f-1311377c6e29,12650,enum_E_08,partner_e,C03,Household already interviewed in an earlier submission
+5c78d793-4c01-41a5-bb03-b2fc4add4749,12656,enum_F_06,partner_f,C01,Respondent did not consent
+0e039821-c914-4d0d-88eb-6e5b7e3e7bda,12679,enum_F_03,partner_f,C04,Interview took 15 minutes
+76f5efb1-4d2f-4f88-8fff-56eada0f7611,12769,enum_F_14,partner_f,C01,Respondent did not consent
+8c2b2737-0c4d-4610-99d3-ef2ab475feb7,12776,enum_F_03,partner_f,C04,Interview took 14 minutes
+a44e1ab3-a7e7-4b21-b3a4-cf6a208f8e89,12787,enum_E_01,partner_e,C04,Interview took 8 minutes
+7887a043-c9e6-4491-a1f1-7db43c96f1aa,13097,enum_E_18,partner_e,C05,Cluster code not in the sample
+53c1d75e-ab44-4e33-8427-9660abba39cd,13160,enum_E_11,partner_e,C04,Interview took 6 minutes
+a61406b9-3cae-4188-a782-82d9a7b25bfc,13221,enum_F_10,partner_f,C01,Respondent did not consent
+8ae6a11d-8e38-45a8-9288-97c4ae3473ab,13636,enum_E_18,partner_e,C01,Respondent did not consent
+6d3ec111-4925-4826-bed4-df78e2a7c036,13841,enum_F_09,partner_f,C03,Household already interviewed in an earlier submission
+12193437-ea70-4004-8e15-3d4332aaf6e1,14039,enum_E_07,partner_e,C04,Interview took 9 minutes
+2a6e0743-b7fe-47d0-859a-993c8642e7eb,14050,enum_F_06,partner_f,C04,Interview took 5 minutes
+a4d95807-6ccb-4f8d-bc7d-8a98f0a430ac,14411,enum_F_07,partner_f,C04,Interview took 11 minutes
+1834af42-e1ec-4958-b6cd-cbb6bc9d3469,14516,enum_E_02,partner_e,C04,Interview took 7 minutes
+d43c6039-b622-4087-91fd-b542020dd587,14570,enum_E_15,partner_e,C04,Interview took 11 minutes
+73fda7f5-35e7-45e1-8548-7d2b2ce78162,14750,enum_E_05,partner_e,C03,Household already interviewed in an earlier submission
+9300bd2f-6619-43f8-a52b-7bcf74591c3a,14847,enum_F_07,partner_f,C05,Cluster code not in the sample
+08d6e171-711b-4680-92ce-68fc7e6ff89b,14899,enum_F_07,partner_f,C04,Interview took 7 minutes
+4844e4ae-cc44-46f9-9c7c-3af3a8608035,15008,enum_F_10,partner_f,C04,Interview took 10 minutes
+4da3d020-fbef-485f-8880-9f73733b25a1,15025,enum_E_15,partner_e,C04,Interview took 5 minutes
+764b78cc-01f1-4ebb-a401-fbf6aff1e82b,15042,enum_F_16,partner_f,C02,Same submission uploaded more than once
+93214f72-79b0-4d2b-aad0-164aa2efb932,15221,enum_E_05,partner_e,C01,Respondent did not consent
+ea336944-d975-490c-a4ca-65c507fe687a,15335,enum_E_05,partner_e,C04,Interview took 9 minutes
+3e5e6b08-08c9-4baa-a4b9-d70631eccd40,15425,enum_E_06,partner_e,C04,Interview took 6 minutes
+5a89e524-a756-46c7-80d0-857e359810b6,15433,enum_F_12,partner_f,C02,Same submission uploaded more than once
+529e61e9-5f98-483e-9bb2-e5ef67258cc8,15460,enum_F_14,partner_f,C06,Cluster had been reported inaccessible
+7be02f0e-1364-4427-aff7-1b33677c32b5,15509,enum_E_03,partner_e,C02,Same submission uploaded more than once
+0291e5f4-8673-4cea-a57a-629e3f391929,15621,enum_E_14,partner_e,C05,Cluster code not in the sample
+1d9d2c6f-430f-4a7f-b9cd-ee0f4a77a1cf,16186,enum_F_23,partner_f,C01,Respondent did not consent
+0c8b5ec3-9d60-470c-a7cc-b72ffec03ecc,16319,enum_F_24,partner_f,C04,Interview took 6 minutes
+72cf4c08-a1d5-46d4-a1a1-5c144ec680a7,16407,enum_F_23,partner_f,C01,Respondent did not consent
+03ac857b-25e0-4865-86fb-d593ff7becec,16718,enum_E_07,partner_e,C03,Household already interviewed in an earlier submission
+4c3a318b-231c-4c65-95c3-eaad04c5d5c9,17121,enum_E_01,partner_e,C04,Interview took 4 minutes
+c2acd9bb-3f83-4359-ab58-7d05112467fc,17266,enum_E_18,partner_e,C04,Interview took 7 minutes
+c0b90f5c-ce3c-49e5-ba4b-55564dbe3fd2,17378,enum_E_13,partner_e,C01,Respondent did not consent
+4fb25394-32b0-4af7-913d-b42b31df83be,17558,enum_E_18,partner_e,C04,Interview took 12 minutes
+6407e07e-d361-4a2a-9d04-73fa92756df6,17636,enum_F_23,partner_f,C04,Interview took 10 minutes
+a5859085-e307-4731-a17e-5974f23d7e32,17701,enum_F_01,partner_f,C04,Interview took 5 minutes
+2ab0ea70-30e9-4e1e-8e3a-7523cafe0b83,17708,enum_E_01,partner_e,C03,Household already interviewed in an earlier submission
+e09c2008-7a53-421f-aaa5-036eebea1c0e,17720,enum_E_18,partner_e,C04,Interview took 5 minutes
+de7bcab3-92b3-4e65-b600-98e7391487a3,17811,enum_F_08,partner_f,C01,Respondent did not consent
+59127dde-1658-4f96-9845-e8dd3e5695a3,17814,enum_E_12,partner_e,C04,Interview took 12 minutes
+aad924fa-e052-470f-aef0-aaf53f3feab0,18002,enum_E_14,partner_e,C04,Interview took 12 minutes
+7d4d4d43-d8e1-4fc7-8d53-96c022d4791b,18398,enum_F_14,partner_f,C04,Interview took 7 minutes
+b17fb6d7-ed5e-4f25-bec3-f0d8c81bc14b,18399,enum_F_06,partner_f,C04,Interview took 10 minutes
+dad0c40e-cdbc-47e4-82dd-3ea69c9ad0fb,18487,enum_E_08,partner_e,C04,Interview took 5 minutes
+94bc82c2-da49-4ea6-aa52-02ffc817db9d,18703,enum_E_17,partner_e,C04,Interview took 6 minutes
+457de4e0-5b09-4fea-8520-744d5f44e21b,18755,enum_F_22,partner_f,C05,Cluster code not in the sample
+0da668b3-8d10-47c6-b181-54a7f1d32c5a,19810,enum_E_10,partner_e,C01,Respondent did not consent
+adec5671-d6b0-477c-809f-3ee1fd4bac4f,19855,enum_E_08,partner_e,C04,Interview took 4 minutes
+6f0a8787-53e9-48d9-9210-1e9bb056701f,20394,enum_F_19,partner_f,C01,Respondent did not consent
+31ee3ebe-e49f-45cd-8774-3919c81bad2b,20703,enum_F_06,partner_f,C04,Interview took 7 minutes
+8ca76425-6351-418c-a6b0-ae9c1e7f4820,20771,enum_F_19,partner_f,C01,Respondent did not consent
+f2eaf3fe-dbd6-40e8-a825-44704df70a82,20885,enum_F_13,partner_f,C06,Cluster had been reported inaccessible
+3f72cbef-3fb7-4e91-87bd-4e0a0df3af5c,21114,enum_F_09,partner_f,C06,Cluster had been reported inaccessible
+88d5e13b-cca9-45b2-8efc-689a5a5de1b6,21170,enum_F_01,partner_f,C01,Respondent did not consent
+61ec16e2-38ab-4d06-abea-0c74bc1097f8,21195,enum_F_24,partner_f,C01,Respondent did not consent
+6241a125-6ea3-4b2e-8518-4ec43e65fb0b,21209,enum_E_02,partner_e,C04,Interview took 4 minutes
+027ab777-906c-4ee2-972c-92ee8d4b891f,21336,enum_F_24,partner_f,C02,Same submission uploaded more than once
+f47b64d7-0943-4029-bc82-dc2a93bcc317,21444,enum_E_07,partner_e,C06,Cluster had been reported inaccessible
+3c14e4df-105a-442e-a272-3e3e999620ce,21626,enum_F_16,partner_f,C05,Cluster code not in the sample
+3920e9b6-717d-45ec-91d6-feab17aecfc9,21638,enum_E_03,partner_e,C01,Respondent did not consent
+785c83d3-af70-40eb-bb53-33d6d255aa3b,22211,enum_E_16,partner_e,C01,Respondent did not consent
+304a6c38-51f5-40d5-9c07-b1b37a32bf4d,22238,enum_E_08,partner_e,C01,Respondent did not consent
+bff8eb4c-9e17-4ccf-b244-4c2f8fac2e84,22328,enum_E_06,partner_e,C04,Interview took 5 minutes
+ced763de-01bf-4a30-8888-ea1ce1fc27d7,22405,enum_F_16,partner_f,C04,Interview took 7 minutes
+469bb6d1-7cd9-483b-aa42-14e37b7f0ca6,22414,enum_E_01,partner_e,C02,Same submission uploaded more than once
+4d85ec15-57ea-43db-ad5f-1f5f628c9f7a,22489,enum_E_11,partner_e,C06,Cluster had been reported inaccessible
+813d1a8c-0004-49e4-bf74-cfce5ccd1add,22901,enum_F_16,partner_f,C01,Respondent did not consent
+f2fb5cb1-f868-4ddc-8dec-8a21dd1b2af7,23068,enum_F_15,partner_f,C04,Interview took 6 minutes
+3f566548-e5b4-4e20-b11c-3cc2f161f4d1,23091,enum_F_09,partner_f,C04,Interview took 9 minutes
+05ab5961-f0d1-45d5-ac34-f3503a64856f,23172,enum_E_15,partner_e,C02,Same submission uploaded more than once
+572bc9ef-3f2b-47a8-b866-c4426b05d9a8,23577,enum_E_08,partner_e,C06,Cluster had been reported inaccessible
+88bb787a-6f45-4884-9ed7-4ff389a0aad8,23641,enum_E_11,partner_e,C01,Respondent did not consent
+943fc4c1-f092-41af-96e4-d79adbadf9d3,23686,enum_E_13,partner_e,C01,Respondent did not consent
+8f53b1d0-98b2-46a6-9b06-93fbf33e61f4,23813,enum_E_02,partner_e,C01,Respondent did not consent
+709da7c7-ffaf-423c-a730-a325529c5863,23919,enum_E_02,partner_e,C04,Interview took 7 minutes
+7515d892-1292-4eef-bfcd-d7a0d20f380d,23954,enum_E_18,partner_e,C04,Interview took 10 minutes
+8ce55f8b-120f-4415-9875-d7618dbaf403,24016,enum_F_11,partner_f,C06,Cluster had been reported inaccessible
+a07febe2-6ee1-4a79-8322-b2c2fc2236f0,24090,enum_F_01,partner_f,C01,Respondent did not consent
+946bfe9c-63e8-4b90-9943-feb4e01dd5bf,24480,enum_E_18,partner_e,C04,Interview took 7 minutes
+05a2510c-7deb-486f-bbb8-d5eeaa25938b,24593,enum_E_17,partner_e,C01,Respondent did not consent
+0b88c61d-b47c-4041-bc55-3c3c515f8c0d,24611,enum_E_15,partner_e,C04,Interview took 9 minutes
+654e1a8d-2fa6-49a2-977e-beb711af9fd4,24736,enum_F_10,partner_f,C04,Interview took 8 minutes
+42aa51c0-0d17-4d05-ad84-7d3a2be85064,24743,enum_E_15,partner_e,C01,Respondent did not consent
+03396e38-a88b-4549-918a-efc15a26ec60,24991,enum_F_10,partner_f,C04,Interview took 10 minutes
+f08eee2d-2953-44cb-a80f-0fc8e801bbeb,24996,enum_F_22,partner_f,C01,Respondent did not consent
+456f8cb8-9e32-42d8-9951-2162751cff5f,25212,enum_E_10,partner_e,C01,Respondent did not consent
+ce0ef874-5112-4078-8ff6-f5eaf70957c5,25321,enum_F_23,partner_f,C06,Cluster had been reported inaccessible
+29deea06-b2e4-45be-8f47-81aa2ea56e5f,25351,enum_F_09,partner_f,C01,Respondent did not consent
+282c1d8b-2860-4a77-9725-15f442019c41,25939,enum_F_10,partner_f,C04,Interview took 8 minutes
+e9ca4f50-7067-4dd8-bd57-c8085979e3db,26033,enum_F_10,partner_f,C04,Interview took 12 minutes
+ae7335a6-a459-4f78-8d7b-fecf3aac8b8b,26260,enum_F_10,partner_f,C01,Respondent did not consent
+82f5d0c3-e8a6-4491-a49e-9e2b4432853c,26461,enum_F_09,partner_f,C04,Interview took 6 minutes
+4922fe5a-9084-4903-9b8c-493834411468,26791,enum_F_09,partner_f,C01,Respondent did not consent
+1a90a531-c552-4ba1-92b1-32a2363d0c15,181,enum_H_02,partner_h,C01,Respondent did not consent
+5233998b-436d-4efb-9bd1-08b761ace7ad,255,enum_G_11,partner_g,C01,Respondent did not consent
+68107570-354d-40e0-bc57-557d71d043d6,428,enum_G_16,partner_g,C01,Respondent did not consent
+797c1d65-6b8c-4b4b-b508-d42db8fea69b,536,enum_G_12,partner_g,C05,Cluster code not in the sample
+b0968cab-a0a8-4b53-908b-206c59c35bd7,569,enum_G_15,partner_g,C01,Respondent did not consent
+eecba11f-f83a-4bd7-b14a-c466fc84b234,961,enum_H_01,partner_h,C04,Interview took 10 minutes
+e2a82823-f04f-4a2a-9c90-7c0bc0a66b9b,1044,enum_G_16,partner_g,C02,Same submission uploaded more than once
+955df6e4-a520-48c8-9e36-1ff7b6959cf5,1498,enum_I_12,partner_i,C01,Respondent did not consent
+8339e903-5631-48bc-8170-d483d010ee94,1583,enum_I_06,partner_i,C04,Interview took 6 minutes
+c9755e70-b529-420e-ac45-790ca89ec535,1700,enum_I_14,partner_i,C04,Interview took 7 minutes
+c71ca197-8629-40bd-917e-e74964addcfe,1896,enum_G_09,partner_g,C04,Interview took 12 minutes
+ea95c20b-f9d4-41c0-ba29-bbb741f6089e,2213,enum_G_07,partner_g,C04,Interview took 5 minutes
+d4796907-2a3e-4647-b481-22aa7ab8496d,2246,enum_G_03,partner_g,C04,Interview took 8 minutes
+0b2733f6-4bad-4807-a91e-0ffbe278984a,2315,enum_G_08,partner_g,C02,Same submission uploaded more than once
+8a4091f8-ac12-4de6-871a-9b1ff44c0000,3424,enum_H_03,partner_h,C01,Respondent did not consent
+a7fe0dc5-9b38-441a-bd62-0c885349bd70,3586,enum_H_13,partner_h,C01,Respondent did not consent
+687dcbf0-1973-4607-b788-1b3890b0bf7e,3698,enum_I_12,partner_i,C03,Household already interviewed in an earlier submission
+eb502ede-7dcb-4317-ba10-48e539441f38,3708,enum_H_13,partner_h,C03,Household already interviewed in an earlier submission
+5b217319-e4c3-4901-ab2d-21422e694b6e,3840,enum_G_07,partner_g,C03,Household already interviewed in an earlier submission
+180d3549-7411-4561-965e-fe3951c6faac,4061,enum_G_12,partner_g,C01,Respondent did not consent
+4d5cca6a-b5fa-4320-8b80-8661099a8f9c,4090,enum_G_13,partner_g,C01,Respondent did not consent
+c68bc71a-2a69-4f1a-98a0-8e3b7dde342a,4311,enum_H_04,partner_h,C04,Interview took 11 minutes
+b5398214-060a-4071-8e6a-c49c1c2889b9,4578,enum_H_04,partner_h,C04,Interview took 7 minutes
+262fe423-488b-4563-a3fd-558f999718bb,4735,enum_G_15,partner_g,C04,Interview took 8 minutes
+733c38b6-0e3f-49a3-86ae-6652d6ead3f9,4769,enum_I_04,partner_i,C03,Household already interviewed in an earlier submission
+79c64b85-62df-494f-a66e-1846383aca81,4933,enum_G_15,partner_g,C04,Interview took 10 minutes
+ee74e773-a0e1-4dc0-b67c-0e582f90c785,4934,enum_H_08,partner_h,C04,Interview took 6 minutes
+329da80f-83d6-4d18-83ca-503fad24e854,5074,enum_H_12,partner_h,C04,Interview took 10 minutes
+91b2cd1c-34c8-4c0b-a8cc-15bbd4b45950,5130,enum_G_07,partner_g,C01,Respondent did not consent
+a5e76e44-828e-4881-b478-f846b97182b5,5202,enum_G_02,partner_g,C01,Respondent did not consent
+a6ef493e-d625-4c42-be88-757d91a4fa8b,5281,enum_H_01,partner_h,C01,Respondent did not consent
+4bfb93df-e72e-475d-994b-8e367bdea925,5529,enum_H_11,partner_h,C04,Interview took 11 minutes
+b266418f-811d-407e-93f9-fbd15d2e6151,5538,enum_G_01,partner_g,C01,Respondent did not consent
+db2cf752-e07f-4ea6-9924-80d43bb8da0f,5947,enum_G_13,partner_g,C06,Cluster had been reported inaccessible
+f5b511c8-02c4-425c-90e9-763f5d3d1c5e,6102,enum_G_07,partner_g,C04,Interview took 6 minutes
+2b156226-556c-4320-a36f-5e78ca2a8bfd,6122,enum_I_06,partner_i,C04,Interview took 7 minutes
+5cdd4946-53fd-4d28-95c7-4f6f4986ef80,6357,enum_H_05,partner_h,C01,Respondent did not consent
+78e09795-a611-43b1-a183-e72e861e3041,6745,enum_G_06,partner_g,C04,Interview took 10 minutes
+cdbed6ac-3d69-45a4-8dc4-035e898923e7,6762,enum_H_06,partner_h,C03,Household already interviewed in an earlier submission
+ffceed07-fd93-4b4e-85c9-0925c4299f61,7390,enum_I_01,partner_i,C03,Household already interviewed in an earlier submission
+a34a9ab7-e433-4f8a-8a95-953e4a89127f,7629,enum_G_09,partner_g,C01,Respondent did not consent
+89d47996-500e-44c9-88ff-908a2572bd22,7639,enum_G_13,partner_g,C01,Respondent did not consent
+3cde37bc-0396-4c1b-beae-ba01873bf0bc,7797,enum_H_13,partner_h,C05,Cluster code not in the sample
+85bcd7cb-d89d-400b-b221-5df7c80d137f,7852,enum_I_09,partner_i,C02,Same submission uploaded more than once
+f4400f0b-8bc0-4c13-87fb-cd904efd8352,8020,enum_I_11,partner_i,C04,Interview took 8 minutes
+f03c72a4-0710-4b3a-b4e1-fff02729b663,8178,enum_G_13,partner_g,C04,Interview took 9 minutes
+1ded508a-f864-4c5a-9efe-46f2a317d2dd,8181,enum_G_09,partner_g,C01,Respondent did not consent
+51cbf82e-98d9-44d3-a00c-6baf9bf246d2,8185,enum_I_14,partner_i,C01,Respondent did not consent
+d6df926d-d644-4abb-8766-2f0614a76848,8653,enum_G_13,partner_g,C06,Cluster had been reported inaccessible
+ae322ee6-65c6-49e2-89cd-7794205b3afd,9305,enum_G_16,partner_g,C04,Interview took 10 minutes
+3f7b3a70-2184-481a-96cc-60da997c44fc,9606,enum_I_12,partner_i,C03,Household already interviewed in an earlier submission
+d6332427-0df7-4325-9ffa-902d830c66f2,9666,enum_G_16,partner_g,C05,Cluster code not in the sample
+88e10402-b4f6-4201-ab9c-d6c782fd6332,9746,enum_G_01,partner_g,C06,Cluster had been reported inaccessible
+d6493bf7-ffe9-41a5-afb5-5bbaea8f4611,9747,enum_G_15,partner_g,C06,Cluster had been reported inaccessible
+24de6caa-b725-4784-a4ce-b9e3c4beed81,9887,enum_H_10,partner_h,C04,Interview took 10 minutes
+eae90be5-4477-447f-8cef-855a6910f500,9965,enum_H_05,partner_h,C01,Respondent did not consent
+8762616a-8018-4e86-9509-e1bbc03cec72,10366,enum_G_13,partner_g,C01,Respondent did not consent
+ca5490d1-0771-4326-a17e-34a2372428f4,10602,enum_G_04,partner_g,C01,Respondent did not consent
+4c497b2d-f25c-4def-895e-17b0797ea80b,10703,enum_G_09,partner_g,C03,Household already interviewed in an earlier submission
+ff08610f-2f67-4f85-a04a-c4fcf878cbd7,10755,enum_G_08,partner_g,C02,Same submission uploaded more than once
+3d074740-96de-45e1-bbe0-d3fe174d8afe,10865,enum_G_04,partner_g,C04,Interview took 5 minutes
+bc2b3b96-ba91-4246-9d04-10bb831521e1,10912,enum_I_07,partner_i,C04,Interview took 10 minutes
+52350370-2dc7-47b1-86f0-1a64b172e7c5,10917,enum_G_05,partner_g,C01,Respondent did not consent
+64edc995-a705-4c6e-9889-66aaf81b859b,10952,enum_G_10,partner_g,C04,Interview took 10 minutes
+0676f963-7dae-4c8a-9e50-37a25dc8eca2,11121,enum_I_16,partner_i,C05,Cluster code not in the sample
+e66cdc5b-e751-4133-9327-7155a7add222,11400,enum_H_02,partner_h,C04,Interview took 6 minutes
+18693ef7-202f-40e4-8ed6-7bcafaede329,11603,enum_I_08,partner_i,C01,Respondent did not consent
+8f5fe86c-50eb-46e1-8692-c00437da1a20,11612,enum_G_16,partner_g,C01,Respondent did not consent
+b23dc89d-642d-4f9b-8f33-b6b588c45cb6,11915,enum_H_04,partner_h,C02,Same submission uploaded more than once
+4dd117ae-1e40-47f4-9b33-49034bdb08b4,11958,enum_I_10,partner_i,C01,Respondent did not consent
+8756c080-34f5-497e-99b9-9683b292687c,12194,enum_G_10,partner_g,C04,Interview took 8 minutes
+6613e557-26fd-4c6f-8dec-d3bb96411ac4,12251,enum_G_09,partner_g,C02,Same submission uploaded more than once
+0fc37113-e3fc-4e95-99a4-bba041ec7519,12374,enum_I_13,partner_i,C01,Respondent did not consent
+45db6026-e1c0-4d8f-add8-4f5b050348a5,12594,enum_H_08,partner_h,C02,Same submission uploaded more than once
+aa5cd841-10c8-47fb-b17e-c74a7364160a,12822,enum_I_15,partner_i,C01,Respondent did not consent
+6e3c69c3-fbf4-4fb2-b2c0-290128e88754,12873,enum_H_05,partner_h,C04,Interview took 12 minutes
+96077a2f-52b9-4239-b450-149a1cf5b737,13069,enum_G_14,partner_g,C04,Interview took 5 minutes
+5b086ec0-95e4-4bf7-addf-92555897196d,13113,enum_G_13,partner_g,C05,Cluster code not in the sample
+be94bc55-7ae1-49af-b55c-5c5284855d59,13323,enum_I_10,partner_i,C01,Respondent did not consent
+5a7462f1-e7fa-4cfb-bcda-f174078d6187,13339,enum_H_03,partner_h,C01,Respondent did not consent
+d5f3aab1-6730-426d-9ce6-5fec5160f042,13441,enum_G_06,partner_g,C01,Respondent did not consent
+42c80b25-4cc8-48d1-b9dc-b77f33cb3fd1,13509,enum_H_07,partner_h,C04,Interview took 8 minutes
+88654f65-d0e3-4c23-b009-f0240c0a256b,13534,enum_I_04,partner_i,C04,Interview took 8 minutes
+7c179aef-f80a-4ea7-b1f6-7168d42d3d6f,13743,enum_G_14,partner_g,C04,Interview took 11 minutes
+58a898e0-18b7-4188-9f8f-42ecc596ae94,13803,enum_H_02,partner_h,C04,Interview took 10 minutes
+17f94304-95a0-43c0-90a4-208fc14cfe09,13873,enum_I_12,partner_i,C04,Interview took 10 minutes
+ad6f7768-e888-482b-b3b8-4c2632f16c79,13881,enum_I_08,partner_i,C04,Interview took 10 minutes
+948ff210-91c7-4666-af4d-deb429eb6bd3,13963,enum_H_09,partner_h,C05,Cluster code not in the sample
+a8771afd-d0b6-4d70-8de5-1e74900a8074,14035,enum_G_14,partner_g,C05,Cluster code not in the sample
+b7080f4c-e98b-4926-abd5-70950001acf7,14057,enum_I_15,partner_i,C01,Respondent did not consent
+19a27590-52c7-4112-bdbc-a21c51b38593,14153,enum_I_01,partner_i,C05,Cluster code not in the sample
+8888b66c-8d74-4ca1-b200-189cf367f719,14249,enum_G_06,partner_g,C04,Interview took 4 minutes
+775a778e-cff9-469e-96fd-710d2556a84b,14267,enum_G_07,partner_g,C04,Interview took 4 minutes
+8ba81f2d-3efd-4c84-89bf-3906299e63ab,14404,enum_G_16,partner_g,C01,Respondent did not consent
+752db6b4-dc10-4599-b291-c3aa207ea1b3,14656,enum_G_13,partner_g,C04,Interview took 11 minutes
+04a81564-d8db-47d5-97c4-3964cf286f0f,14787,enum_G_12,partner_g,C01,Respondent did not consent
+17ce4c14-1347-4f82-8729-ed787de9f89f,14867,enum_G_16,partner_g,C03,Household already interviewed in an earlier submission
+0ef45317-1778-44ee-aeb2-a17453be3056,14990,enum_H_14,partner_h,C01,Respondent did not consent
+bbf63ec5-5b44-4f65-b510-1b2d95f78e80,15388,enum_H_04,partner_h,C01,Respondent did not consent
+1d9aa607-c526-4070-860a-5ccb77e44d10,15489,enum_H_04,partner_h,C04,Interview took 7 minutes
+aa07bd67-5f25-40f9-9ba2-687c26b072cd,15584,enum_H_03,partner_h,C04,Interview took 9 minutes
+4ad87939-218c-4d93-a569-f1d90c879f04,15991,enum_H_02,partner_h,C04,Interview took 10 minutes
+63f0eceb-46f4-4921-9a13-ae82b2b5a307,16046,enum_G_02,partner_g,C01,Respondent did not consent
+c900825f-68c4-4b0f-9ee9-a8c9ad22b772,16113,enum_H_07,partner_h,C04,Interview took 8 minutes
+3a715926-61ca-4ee9-8e45-c741f8b71f91,16128,enum_I_05,partner_i,C04,Interview took 8 minutes
+1be1886f-d22a-4e35-8cae-391b04d001cf,16187,enum_G_02,partner_g,C01,Respondent did not consent
+7067969f-8a77-45b0-94e4-ad091103f224,16405,enum_G_05,partner_g,C01,Respondent did not consent
+a7ab1a93-4d48-44cd-a2af-3eeccfa75199,16652,enum_G_14,partner_g,C01,Respondent did not consent
+92a5c2ff-640a-4e03-94de-43814de47251,16695,enum_H_10,partner_h,C01,Respondent did not consent
+3491320f-29f9-41a2-81d8-52041cd4b7dc,16920,enum_G_16,partner_g,C01,Respondent did not consent
+fe3b3e6f-072c-4a4b-8d04-96206ed0ac78,17072,enum_G_12,partner_g,C04,Interview took 11 minutes
+27c9392c-9e23-4507-acd2-3f06b671fcfc,17797,enum_G_10,partner_g,C01,Respondent did not consent
+e87acc90-674e-4c84-a0c4-ffe0e51cb1fd,17807,enum_G_10,partner_g,C03,Household already interviewed in an earlier submission
+055cb165-2941-4b6c-b780-b7ee91ff82f9,17818,enum_I_12,partner_i,C01,Respondent did not consent
+4c5fd306-f71b-4053-89ab-b2b9f804a07d,17935,enum_G_01,partner_g,C04,Interview took 10 minutes
+62554722-f05a-4818-801f-27ed8ddb146b,18201,enum_G_14,partner_g,C03,Household already interviewed in an earlier submission
+402c38d7-ac53-4961-8f2e-216af2cf877d,18372,enum_G_05,partner_g,C04,Interview took 8 minutes
+04076ae2-e454-4249-b6a4-ce66b10abeaa,18406,enum_G_01,partner_g,C01,Respondent did not consent
+0ec20613-7062-4a1d-9168-ef98c30a7d4f,18606,enum_G_12,partner_g,C04,Interview took 8 minutes
+44d82de1-ea66-4752-a6a1-aa559f1d04c1,18709,enum_I_11,partner_i,C02,Same submission uploaded more than once
+deac42a7-a078-437e-9a63-a5eadad56444,18917,enum_I_09,partner_i,C03,Household already interviewed in an earlier submission
+778bd4b4-92b2-4116-abd0-32945dbe85b6,18998,enum_G_12,partner_g,C01,Respondent did not consent
+9d56a6da-bb5c-4617-b21d-786394f55147,19089,enum_I_12,partner_i,C04,Interview took 6 minutes
+5bf99530-eb03-4fef-b70f-0f5f4f15e1b9,19188,enum_G_05,partner_g,C04,Interview took 9 minutes
+abd7b64f-ef74-4b91-b53c-60ef5652fe6e,19262,enum_H_14,partner_h,C01,Respondent did not consent
+865ff030-5339-41e8-9a18-4706de37d606,19365,enum_G_11,partner_g,C01,Respondent did not consent
+823e19e0-7fcb-4f57-a410-27192b25d560,19538,enum_H_14,partner_h,C01,Respondent did not consent
+a08624f9-edad-4499-8be6-cb6fd09c7e16,19605,enum_I_11,partner_i,C04,Interview took 11 minutes
+3679da35-41a2-4b7b-8f25-c30f05aa8123,19728,enum_G_01,partner_g,C01,Respondent did not consent
+e1aff30f-264d-4c95-b421-6b581f3c87cc,19768,enum_G_13,partner_g,C04,Interview took 5 minutes
+2fe1cb2a-dcfc-438f-8ac9-9f90023915ad,19824,enum_G_11,partner_g,C01,Respondent did not consent
+c23bacc1-4b9e-4964-8a89-f27b16923a07,19826,enum_H_14,partner_h,C05,Cluster code not in the sample
+6c06c38a-eb27-4537-8865-f2b9d6868de5,19852,enum_H_03,partner_h,C04,Interview took 11 minutes
+a77882f4-e881-4ed3-9ff0-1cf3c145b22b,19869,enum_G_06,partner_g,C04,Interview took 11 minutes
+da4ae190-6800-4d70-9670-d0b781b62455,19978,enum_H_13,partner_h,C01,Respondent did not consent
+96eee691-57f2-4a0d-97b2-d25d553063f7,20034,enum_I_10,partner_i,C01,Respondent did not consent
+fd41688d-c6b5-419b-a6a4-b6066317806f,20051,enum_I_04,partner_i,C05,Cluster code not in the sample
+6412409b-4d7f-4109-aae0-82238454bfbc,20057,enum_G_07,partner_g,C01,Respondent did not consent
+5dfc28c5-424d-4365-9a53-9f92ee7ca8df,20301,enum_H_13,partner_h,C04,Interview took 10 minutes
+39383458-59c3-4900-bd2b-6940a2c44cae,20342,enum_I_02,partner_i,C01,Respondent did not consent
+93868bdd-c182-49cb-a3ee-1c656bf79eae,20435,enum_I_04,partner_i,C04,Interview took 10 minutes
+7be991f5-e210-4b8b-989c-15bbc6abd77b,20453,enum_I_02,partner_i,C04,Interview took 10 minutes
+bb6e89e1-4bd9-4950-84b5-c4833d2bc13d,20531,enum_G_06,partner_g,C04,Interview took 8 minutes
+9695fa8b-9cca-4ba6-9798-d826d4b1cd65,20667,enum_H_09,partner_h,C04,Interview took 6 minutes
+fe330125-6b1e-409c-901e-f12fc4597412,20791,enum_H_04,partner_h,C04,Interview took 12 minutes
+7c564cd6-91cc-4259-b537-01eae2dbdd90,20869,enum_H_01,partner_h,C04,Interview took 6 minutes
+07fa95d0-e423-4e5f-aac5-ccd8ef6d7b85,20921,enum_H_14,partner_h,C04,Interview took 10 minutes
+6b55f953-78de-4570-bffd-a8d1beb8c549,21013,enum_I_02,partner_i,C04,Interview took 9 minutes
+abb5ac31-92bc-4702-9b97-b0e1e8e0ce6a,21140,enum_I_02,partner_i,C01,Respondent did not consent
+e47391d8-92ea-4d5f-9864-be272cc6e11f,21206,enum_I_01,partner_i,C04,Interview took 8 minutes
+13e510d7-2bff-4281-8b22-d03d7bb63719,21256,enum_G_02,partner_g,C04,Interview took 6 minutes
+e443faee-8c0c-4d85-b48b-41844dca3084,21613,enum_G_06,partner_g,C02,Same submission uploaded more than once
+1ccf539c-49b7-4179-a48e-120c1832137d,21631,enum_I_07,partner_i,C01,Respondent did not consent
+2e140c65-ada1-4caa-9159-461843f3e1fe,21643,enum_H_12,partner_h,C01,Respondent did not consent
+1b91d3e1-fe52-4298-a857-3c47e9745a10,21891,enum_H_12,partner_h,C04,Interview took 10 minutes
+5103da63-7a6c-4620-8025-ade7d6d1724c,22433,enum_H_05,partner_h,C02,Same submission uploaded more than once
+77f0e140-5535-4520-8e5f-865f7ebb050d,22751,enum_G_06,partner_g,C04,Interview took 11 minutes
+38b1b408-7ae8-4dd2-8acc-997c864b4cb5,22832,enum_G_14,partner_g,C04,Interview took 12 minutes
+9160686a-52b9-4cb0-a2ef-b159287f2e81,22835,enum_I_10,partner_i,C05,Cluster code not in the sample
+3bce7284-a7b7-44ae-9254-7791af682526,22904,enum_H_06,partner_h,C04,Interview took 12 minutes
+296f3cbc-8180-434b-a88d-621fe6d689c3,22908,enum_G_06,partner_g,C06,Cluster had been reported inaccessible
+d602786f-dd65-453c-a2ef-42d2bef8500a,22978,enum_I_05,partner_i,C01,Respondent did not consent
+7b6ed507-afc1-4753-9b45-d1ab3b75951e,23169,enum_I_09,partner_i,C04,Interview took 7 minutes
+80132fe1-7312-45cd-ab41-e56076d4286f,23180,enum_G_09,partner_g,C02,Same submission uploaded more than once
+1b40a403-8970-4622-8aae-99747679572a,23205,enum_G_13,partner_g,C05,Cluster code not in the sample
+b2ca9799-bb06-49b1-b33d-0fba33de9996,23228,enum_G_01,partner_g,C01,Respondent did not consent
+d718c2b9-57cf-43a0-b2f3-e2fae7ba8ea2,23293,enum_G_01,partner_g,C06,Cluster had been reported inaccessible
+c69d2f62-d93c-417d-b139-25600f09068c,23447,enum_I_09,partner_i,C01,Respondent did not consent
+c7c74f6c-44b6-42f7-975e-4858e9e60d57,23542,enum_I_03,partner_i,C04,Interview took 9 minutes
+e04495fd-7cd5-4673-9dec-de0fafbfaab2,23645,enum_G_01,partner_g,C01,Respondent did not consent
+a937917e-1b6e-49e0-b8f5-70da961d4e0b,23693,enum_H_14,partner_h,C04,Interview took 11 minutes
+f64ac8b1-fdc8-46af-a837-60b1ca307589,23785,enum_G_13,partner_g,C04,Interview took 9 minutes
+2fd9fca5-cbad-46eb-b720-747dc9c7b5da,23792,enum_G_05,partner_g,C05,Cluster code not in the sample
+6dfe4a35-1e30-49e8-a2ed-f085668963f6,23815,enum_G_06,partner_g,C02,Same submission uploaded more than once
+31621a8a-504c-47b9-942d-3181dc4d8bf0,23842,enum_H_03,partner_h,C02,Same submission uploaded more than once
+3b98a693-ee1f-4767-8cd5-0083f8195724,24154,enum_G_14,partner_g,C01,Respondent did not consent
+a7b16df6-652d-4514-b2bf-95566025a1f8,24290,enum_H_09,partner_h,C05,Cluster code not in the sample
+1110203a-3d6e-4ed5-a129-877da778d5d0,24297,enum_G_15,partner_g,C04,Interview took 7 minutes
+30202d1b-a82f-46e4-9e17-c663d53ef231,24321,enum_H_13,partner_h,C02,Same submission uploaded more than once
+8f1767a2-97eb-412e-adbf-7483153836ff,24494,enum_I_05,partner_i,C01,Respondent did not consent
+2eb5a477-b005-47c3-bb55-723a0ca99e70,24712,enum_G_13,partner_g,C03,Household already interviewed in an earlier submission
+8b483bde-91bf-4590-8d1d-9c50932541ea,24714,enum_H_03,partner_h,C01,Respondent did not consent
+e787d249-1c07-4793-b58c-b000c211edfd,24726,enum_H_04,partner_h,C04,Interview took 10 minutes
+6a096cf1-b082-4182-8866-16e11defbc81,24734,enum_G_05,partner_g,C04,Interview took 4 minutes
+38221a76-cf4c-4f4d-bad8-40215a84e44d,24881,enum_G_08,partner_g,C01,Respondent did not consent
+ea4bd568-46f0-41e6-bb5b-d3674a5c8345,24933,enum_G_14,partner_g,C03,Household already interviewed in an earlier submission
+620df62a-c322-46d0-9137-d04a67c175d7,25227,enum_I_04,partner_i,C01,Respondent did not consent
+e3c62fc9-4852-4876-9eef-9abb040948bf,25252,enum_G_14,partner_g,C01,Respondent did not consent
+8286ad82-772b-4cbe-9ec8-d2c13296fde7,25278,enum_G_08,partner_g,C02,Same submission uploaded more than once
+14433028-8cb5-49ea-b3d1-4ae91710f4a3,25302,enum_I_10,partner_i,C02,Same submission uploaded more than once
+51999ef1-f505-4f04-a667-b71f090b344b,25389,enum_H_09,partner_h,C01,Respondent did not consent
+e99b8ed6-d738-4ffe-a22f-9719c5677a6c,25438,enum_H_03,partner_h,C04,Interview took 8 minutes
+ef3590a0-dd46-4841-858a-07f1b3a7e47b,25475,enum_I_03,partner_i,C05,Cluster code not in the sample
+5b380dd0-d969-46c5-a925-1d99b58c043d,25539,enum_G_13,partner_g,C03,Household already interviewed in an earlier submission
+a78399cb-d6b5-4bf3-bd4d-cff541109935,25625,enum_H_10,partner_h,C04,Interview took 6 minutes
+0e3a2bd9-535d-4987-9859-aa09eaf2e025,25689,enum_H_05,partner_h,C04,Interview took 11 minutes
+27e79203-454b-4a88-a86a-3051db0b05d2,25699,enum_I_02,partner_i,C04,Interview took 12 minutes
+79584518-01b4-4ce2-8906-143a9eb559aa,25767,enum_I_15,partner_i,C04,Interview took 6 minutes
+dbddefe5-e649-4a02-bae1-663e9a53b6b7,25797,enum_H_10,partner_h,C01,Respondent did not consent
+379c0a7a-ac49-4f55-993a-c174005b401a,25833,enum_H_10,partner_h,C04,Interview took 11 minutes
+7b668056-d715-473f-9e04-f0a68586a2bd,26064,enum_I_08,partner_i,C02,Same submission uploaded more than once
+dcf3e234-2795-4cba-a178-d2135cc9dd2c,26114,enum_I_15,partner_i,C04,Interview took 6 minutes
+550a568b-418a-49dc-8208-697f606295c1,26285,enum_I_03,partner_i,C04,Interview took 7 minutes
+c31af34d-59ed-416e-8466-409a480b67eb,26330,enum_H_03,partner_h,C01,Respondent did not consent
+6eeb6b35-f19f-4178-8298-11cd0a5d05fd,26443,enum_G_06,partner_g,C01,Respondent did not consent
+824a3a87-aa60-4dec-9d0d-e21ea39db2c7,26657,enum_G_06,partner_g,C04,Interview took 7 minutes
+d2f57ce7-533b-4e32-b7eb-d3fc286a1b4a,26679,enum_I_03,partner_i,C01,Respondent did not consent
+46773004-a5b0-4b40-8051-92a25a96fd66,26701,enum_G_06,partner_g,C01,Respondent did not consent
+78b956cf-cbe8-46f4-9d77-bef8c7118b5b,26848,enum_I_01,partner_i,C04,Interview took 9 minutes
+283c4cc6-0b50-4e81-88f0-17a229c211cc,26894,enum_I_02,partner_i,C02,Same submission uploaded more than once
+875949be-0e96-4c26-9255-cbc6b651bcdc,231,enum_J_05,partner_j,C04,Interview took 12 minutes
+032a73d9-7fce-42f1-85de-74f7a03580ea,322,enum_K_08,partner_k,C04,Interview took 9 minutes
+645fdaf6-8970-42e4-a8bd-4ecbae40832d,554,enum_L_18,partner_l,C01,Respondent did not consent
+81db087d-fe24-4d7d-a2cc-837f9bc72e58,657,enum_J_04,partner_j,C03,Household already interviewed in an earlier submission
+0e02d7b6-d053-4db5-88c3-207d2d045e43,697,enum_K_13,partner_k,C04,Interview took 10 minutes
+fd716a7c-a106-4fc9-88b4-755d92e0eb44,804,enum_J_05,partner_j,C04,Interview took 8 minutes
+72e49162-7e53-48f0-9f04-b153c5f9e20a,833,enum_K_14,partner_k,C04,Interview took 11 minutes
+6bdd6b9e-8ab0-4289-9e51-c91a2da07d9f,1073,enum_L_17,partner_l,C04,Interview took 5 minutes
+56a54e51-fc99-4384-8ab9-f237d087e9c9,1477,enum_L_16,partner_l,C04,Interview took 5 minutes
+188370a0-8c7d-4f5e-b549-60175b4ad95f,1607,enum_L_16,partner_l,C01,Respondent did not consent
+abc65c5a-753f-463c-a208-9b15bc6ece84,1737,enum_J_08,partner_j,C04,Interview took 9 minutes
+83cbee84-ba34-4d79-9d7c-04fefcbb6111,1740,enum_L_18,partner_l,C01,Respondent did not consent
+42862f9f-4edb-4257-ac36-3b368e9ef48d,1815,enum_J_12,partner_j,C04,Interview took 6 minutes
+8ab147b9-2b57-4175-a99d-9b6926c5d519,1878,enum_K_09,partner_k,C02,Same submission uploaded more than once
+fb6bdd8c-259c-4bb7-bba2-44420772a7fb,1985,enum_J_08,partner_j,C01,Respondent did not consent
+339ae2b6-5f6a-4146-acc9-86cb5da1313b,1990,enum_J_11,partner_j,C04,Interview took 10 minutes
+24ab14c0-cc18-4168-a8ee-bf5b1fa709a5,2057,enum_J_03,partner_j,C04,Interview took 7 minutes
+ade71242-552e-456d-9cd3-c97957fa5bd4,2074,enum_L_03,partner_l,C05,Cluster code not in the sample
+b4d63713-2c2f-4306-8d85-43992f629684,2082,enum_L_02,partner_l,C01,Respondent did not consent
+53f51b10-0c9d-47e4-8037-03f1065e39d5,2179,enum_J_07,partner_j,C02,Same submission uploaded more than once
+7fc1d681-9bfd-484e-9535-4ab628cf16de,2211,enum_J_06,partner_j,C04,Interview took 10 minutes
+4c25c729-74e7-4a88-a683-3c8f86ca9370,2277,enum_L_01,partner_l,C01,Respondent did not consent
+dd93b545-dbb3-4686-b21a-0735be4cd9d3,2435,enum_J_07,partner_j,C04,Interview took 9 minutes
+bca676be-08ff-4219-8568-4e173de2ef4f,2471,enum_L_18,partner_l,C01,Respondent did not consent
+b6f64f24-649b-4b07-a8aa-36119dce4102,2483,enum_K_14,partner_k,C04,Interview took 12 minutes
+2ac47763-0bbb-4dcb-94f4-209ce63f4574,2517,enum_L_06,partner_l,C04,Interview took 12 minutes
+3516cc0a-259d-4389-a21c-9d75d6c8325e,2597,enum_J_07,partner_j,C04,Interview took 7 minutes
+88665cda-b88b-4111-8af5-a3762eafeea6,2599,enum_K_03,partner_k,C01,Respondent did not consent
+927c0872-fed5-4935-ba35-c4daf5d48f09,2604,enum_J_12,partner_j,C04,Interview took 6 minutes
+d302fea1-28e2-49aa-b8ff-c881be8ab0de,2606,enum_K_06,partner_k,C04,Interview took 8 minutes
+f54a3c2f-a312-4753-a89c-48a7a802e66e,2607,enum_K_12,partner_k,C01,Respondent did not consent
+128b1d9a-336a-4527-8408-20aea90a6538,2856,enum_L_02,partner_l,C04,Interview took 4 minutes
+401d687b-902f-462b-9863-332365b12b93,2954,enum_L_06,partner_l,C01,Respondent did not consent
+c01c2bf8-f2a1-4504-bb5b-4b9a39963626,2999,enum_K_05,partner_k,C04,Interview took 6 minutes
+aec0fef8-54fe-48b4-95af-143bf8075ad1,3067,enum_K_07,partner_k,C04,Interview took 10 minutes
+eec9e1b9-916f-4533-a892-6d69ee0be13e,3146,enum_L_18,partner_l,C02,Same submission uploaded more than once
+f2a3ff3b-25ff-46ef-ba1e-7841e31bca58,3292,enum_J_11,partner_j,C01,Respondent did not consent
+b199b0ea-d94c-4a3d-a884-6722207c7fa5,3697,enum_L_15,partner_l,C03,Household already interviewed in an earlier submission
+e8661294-23e0-4e0b-a9b3-b0f1dafcf79d,3759,enum_K_04,partner_k,C04,Interview took 6 minutes
+89ddb5ad-98ed-4b4b-b48c-78d7fd885838,3876,enum_L_06,partner_l,C04,Interview took 11 minutes
+ceeb5a6a-9ea0-4b6c-9cd6-c669e0aa8c56,3889,enum_L_18,partner_l,C03,Household already interviewed in an earlier submission
+a075232b-cbc3-40f6-8254-c1af765293b2,3980,enum_L_14,partner_l,C04,Interview took 5 minutes
+750444ac-9357-4121-84e5-f4ee237b1dfd,4000,enum_L_18,partner_l,C01,Respondent did not consent
+2f888fc4-69e8-458c-abbe-916cf7ad5a8f,4048,enum_J_02,partner_j,C04,Interview took 8 minutes
+7f1b7ada-12c7-44bf-a382-af18d403ad6e,4050,enum_K_15,partner_k,C04,Interview took 10 minutes
+b985bd96-e367-4e6f-b776-ae9ec8d13497,4065,enum_K_02,partner_k,C04,Interview took 11 minutes
+97504c44-bd6a-4dae-8ab6-f32225fbe435,4075,enum_K_11,partner_k,C04,Interview took 8 minutes
+89197c8e-4072-4790-8ab9-fb0a32e954da,4132,enum_J_14,partner_j,C01,Respondent did not consent
+18b12687-0a7a-44cf-a591-d1b6785bbb8c,4204,enum_K_10,partner_k,C04,Interview took 10 minutes
+03d1d744-888f-4057-aca7-b95f0e48a9ec,4292,enum_L_18,partner_l,C02,Same submission uploaded more than once
+a81ce663-d39d-4815-bb88-229300506322,4462,enum_K_08,partner_k,C04,Interview took 7 minutes
+13e6e801-124f-46af-ab44-337cded0b46e,4488,enum_K_12,partner_k,C04,Interview took 6 minutes
+31240ebc-cd99-42bc-838b-f12dfe65b54a,4590,enum_L_17,partner_l,C02,Same submission uploaded more than once
+b50315a2-2176-4e60-9d9f-1d1484df5ea5,4661,enum_L_17,partner_l,C04,Interview took 8 minutes
+d159a404-4d57-46d9-8270-9e5114fc87f6,4829,enum_K_16,partner_k,C03,Household already interviewed in an earlier submission
+03bede2f-a2e2-4d08-aaaa-77b1b6156d2d,4887,enum_K_07,partner_k,C04,Interview took 8 minutes
+af962005-128c-4947-8056-9aa46983c93d,4899,enum_K_10,partner_k,C02,Same submission uploaded more than once
+16c91550-4b5b-4a43-8e08-6963722f4f6e,4930,enum_K_15,partner_k,C04,Interview took 6 minutes
+3d0db34b-0434-4054-8aca-d3c18fe09236,5073,enum_L_08,partner_l,C01,Respondent did not consent
+8864cced-8049-4fce-9dd2-5d8ae8b00739,5195,enum_K_15,partner_k,C04,Interview took 9 minutes
+09b7a3c9-6f08-43ec-b5c6-69fc50150fff,5372,enum_J_20,partner_j,C04,Interview took 11 minutes
+b4cc4c6d-2275-4e9a-9abc-f94b3aee50a3,5392,enum_J_12,partner_j,C04,Interview took 9 minutes
+bfbfce47-8b99-45a0-aa43-41563e7cc1fd,5446,enum_L_14,partner_l,C04,Interview took 7 minutes
+5c3c11f8-54fe-4845-9a8b-d9c1bf93972d,5587,enum_L_08,partner_l,C02,Same submission uploaded more than once
+7c57b995-4010-4f43-b4b5-1c132e2ddf23,5632,enum_K_13,partner_k,C02,Same submission uploaded more than once
+1e8c1286-0880-4be0-93f1-562543fb0da8,5727,enum_K_15,partner_k,C01,Respondent did not consent
+6eb0a738-0e2d-4744-b0e8-8eafa073d850,5872,enum_L_18,partner_l,C01,Respondent did not consent
+f4156118-0007-47e9-9a0e-f20c215bd1cf,5926,enum_K_18,partner_k,C04,Interview took 5 minutes
+00604f38-b48a-42f9-9b65-1eb9d7195d9f,5957,enum_J_08,partner_j,C04,Interview took 7 minutes
+eb3b4d86-af96-45c7-a6e5-6b36144f00d5,6269,enum_K_13,partner_k,C01,Respondent did not consent
+60e79d2c-9cb1-4822-8735-6f34c918cf06,6280,enum_J_15,partner_j,C04,Interview took 11 minutes
+149144b9-729d-473a-afa6-e716ea94cccc,6386,enum_K_17,partner_k,C04,Interview took 6 minutes
+87fbbc55-a2fa-4f75-b824-d1585013f40f,6469,enum_L_02,partner_l,C01,Respondent did not consent
+25699613-a877-4843-8d0f-84df8b0742b1,6624,enum_K_12,partner_k,C01,Respondent did not consent
+1ade5d18-b69f-4880-85ac-2edb0da0d824,6728,enum_J_09,partner_j,C01,Respondent did not consent
+a1747dd8-e267-4115-8c98-125d96a47006,6753,enum_K_04,partner_k,C04,Interview took 9 minutes
+89aab4fd-9aeb-4bf3-995b-2b5a436c43e2,6766,enum_K_07,partner_k,C03,Household already interviewed in an earlier submission
+b426d633-2aeb-4633-aee5-61e06a78aab4,6869,enum_K_12,partner_k,C03,Household already interviewed in an earlier submission
+e3f16fe8-914a-41f5-ac43-0ebe9743f3b6,6976,enum_J_03,partner_j,C04,Interview took 10 minutes
+a0c1ed49-56bf-494b-b912-832cee61f452,7067,enum_J_04,partner_j,C04,Interview took 6 minutes
+ecedac5f-e2d5-43bd-8e4e-4b33cc9ada0e,7076,enum_K_12,partner_k,C04,Interview took 6 minutes
+bd61413f-af7b-480c-8c18-9244f0c66afe,7765,enum_L_11,partner_l,C03,Household already interviewed in an earlier submission
+5e8f9807-dc21-4e9b-8589-f9654932f7ed,7785,enum_J_02,partner_j,C01,Respondent did not consent
+88aaa8e3-2928-494e-9f23-d67ad3c05a7e,7857,enum_K_20,partner_k,C01,Respondent did not consent
+c5826cc4-a399-4c16-b893-8ddb88e58509,7947,enum_L_16,partner_l,C03,Household already interviewed in an earlier submission
+2973a7ca-edab-4b3b-a733-aa5b29721675,8408,enum_K_12,partner_k,C01,Respondent did not consent
+0217d1bc-5939-4d47-aae7-7a44b7db9386,8485,enum_K_07,partner_k,C01,Respondent did not consent
+f1a5250c-54db-4d16-ad71-d7d796e84678,8723,enum_L_04,partner_l,C01,Respondent did not consent
+488d7b91-4b3d-4907-88de-dd9ef94ccbd0,8759,enum_L_04,partner_l,C01,Respondent did not consent
+1739a7aa-3497-4a6e-9c89-65d405a22a52,8944,enum_K_18,partner_k,C04,Interview took 12 minutes
+d6d5cefc-94d4-420c-9b11-01bc9b2fabe1,9105,enum_K_18,partner_k,C01,Respondent did not consent
+a5f5eade-8fd7-44ee-a4db-2d435dcb278d,9239,enum_K_12,partner_k,C04,Interview took 11 minutes
+bf6035eb-db70-4e3e-a149-28e5ad7e815c,9310,enum_K_18,partner_k,C01,Respondent did not consent
+90f38f3c-b27d-4af1-b2fb-b543c4ce956a,9320,enum_L_01,partner_l,C01,Respondent did not consent
+77a7df8d-40e6-4d35-a9b1-2adb5acc0f9d,9511,enum_K_17,partner_k,C01,Respondent did not consent
+70baf6de-2683-452c-a01b-04dd1a913012,9805,enum_J_07,partner_j,C04,Interview took 9 minutes
+048c77d6-915d-4ca5-b1bc-f012569676ab,9818,enum_J_04,partner_j,C04,Interview took 10 minutes
+8ee4fcf8-82e3-45f7-ada7-17ae05c230b0,9968,enum_L_09,partner_l,C01,Respondent did not consent
+4749262b-55aa-454e-b45b-784f823c029d,9999,enum_J_19,partner_j,C01,Respondent did not consent
+52cb8d94-217d-4ea5-9c3d-ae2651ec03ff,10021,enum_J_04,partner_j,C04,Interview took 6 minutes
+2629f6be-1b1f-4afc-b5f4-193a53bcd52f,10222,enum_L_10,partner_l,C04,Interview took 11 minutes
+53772e18-9ff8-4fb5-84e1-766c87e34d4a,10269,enum_J_03,partner_j,C04,Interview took 9 minutes
+6cdfa458-431c-447f-93b0-39bf4a9f95f7,10282,enum_L_04,partner_l,C01,Respondent did not consent
+5562022a-ffdd-4e0e-b5a1-5952b529ad92,10398,enum_L_10,partner_l,C01,Respondent did not consent
+5b330ef1-8d62-41c5-a10f-81184131df7f,10411,enum_L_06,partner_l,C02,Same submission uploaded more than once
+98f0ad6b-642e-4bd2-8a86-6a5da7272987,10442,enum_K_15,partner_k,C03,Household already interviewed in an earlier submission
+a7e59324-70a0-452c-a413-d6792cf29e9f,10508,enum_K_09,partner_k,C01,Respondent did not consent
+b49ceb20-3bca-4dcc-941d-5e0b3942262c,10530,enum_J_08,partner_j,C04,Interview took 7 minutes
+0f9f0370-e508-4e97-85d5-154ef2aed251,10646,enum_K_01,partner_k,C04,Interview took 10 minutes
+7a949411-dfa0-4ee8-b1c3-dd64aa01ea62,10927,enum_K_18,partner_k,C04,Interview took 5 minutes
+4c872885-0440-49c7-b95c-538555799420,11007,enum_J_06,partner_j,C04,Interview took 9 minutes
+cdfd47d7-fddf-486c-a814-7135b7e35104,11248,enum_J_02,partner_j,C01,Respondent did not consent
+94672367-5e89-48dc-816e-716325d88c17,11451,enum_L_17,partner_l,C01,Respondent did not consent
+87a51015-c5ca-41ab-8536-f8f76a9c403d,11576,enum_J_18,partner_j,C01,Respondent did not consent
+1f799abe-e1c5-44b9-a42b-a7625dcf89f1,11643,enum_J_18,partner_j,C04,Interview took 11 minutes
+dd1ce632-3cc4-4e3a-a35e-06b2c778feae,11784,enum_J_05,partner_j,C04,Interview took 10 minutes
+29ab24dd-cafc-4472-9b06-66a1e9205318,11828,enum_J_12,partner_j,C03,Household already interviewed in an earlier submission
+67aea952-5ea1-4cf1-bb52-83d3fb225ecd,11849,enum_L_16,partner_l,C01,Respondent did not consent
+70fa5290-aa34-4837-a316-9609e7e26abf,12007,enum_J_02,partner_j,C01,Respondent did not consent
+c0392ee6-2c61-4c5f-a9dc-bcbbd954382a,12036,enum_K_03,partner_k,C02,Same submission uploaded more than once
+691e2c43-5d45-4f6b-9e82-cf1cb3bdb192,12086,enum_K_16,partner_k,C04,Interview took 5 minutes
+c3771f75-d9d3-42b1-9dc2-5645dc9bc523,12301,enum_J_05,partner_j,C01,Respondent did not consent
+2cdb8f93-99ee-445a-b8f4-324d154b3cfa,12358,enum_K_15,partner_k,C01,Respondent did not consent
+afbca77d-3d4c-4c89-941d-cf941b85641b,12362,enum_L_15,partner_l,C04,Interview took 7 minutes
+0c4d2575-6cb9-40ba-88f5-ba438e32e73c,12472,enum_K_20,partner_k,C01,Respondent did not consent
+6d6ea813-2000-4880-8d30-170ac31536bf,12534,enum_K_15,partner_k,C02,Same submission uploaded more than once
+abd8e6a1-1e47-4b36-837b-8c483c40cf04,12600,enum_K_19,partner_k,C03,Household already interviewed in an earlier submission
+398b0bc0-1f2b-4a08-b875-961e2dbbd18d,12821,enum_J_11,partner_j,C03,Household already interviewed in an earlier submission
+0d05c445-f3a1-497a-bac0-18689997ccd7,12891,enum_J_01,partner_j,C04,Interview took 9 minutes
+8fae3e0a-2008-496e-9de4-4a2acb6cc20a,13114,enum_K_16,partner_k,C01,Respondent did not consent
+bb802f49-582b-4e04-bb70-09cbbe85bb6e,13286,enum_K_20,partner_k,C01,Respondent did not consent
+9ebcef2f-4631-47db-9ece-30533ef70fda,13443,enum_L_05,partner_l,C05,Cluster code not in the sample
+73fe5a02-ab2a-419c-99b5-37c9839a353a,13455,enum_L_15,partner_l,C04,Interview took 5 minutes
+51c6ccb5-2045-41f7-abd2-13594e17420f,13513,enum_K_11,partner_k,C04,Interview took 10 minutes
+dae15f25-e194-4691-9900-2208ebd0a907,13516,enum_J_01,partner_j,C02,Same submission uploaded more than once
+7ab5d59e-4c4f-4a61-9abb-7f2de110a591,13519,enum_J_13,partner_j,C01,Respondent did not consent
+29399af3-2e4a-43eb-95d4-9b88d8d2f8aa,13603,enum_L_08,partner_l,C01,Respondent did not consent
+c3c66714-3956-4978-86d4-94213d75b3e7,13828,enum_L_10,partner_l,C04,Interview took 11 minutes
+07c80afe-e7e2-4f6b-bc70-bce7e59c8725,13877,enum_L_04,partner_l,C01,Respondent did not consent
+be10a4fc-66ce-4ea2-ad7e-a17565323cf2,13965,enum_K_10,partner_k,C04,Interview took 9 minutes
+23456b76-44ba-495c-a477-fd95dc869429,13979,enum_K_18,partner_k,C04,Interview took 8 minutes
+9e63f998-a3cb-4eb9-b652-b50460efd66d,14202,enum_J_02,partner_j,C04,Interview took 10 minutes
+ad666481-70f0-4108-bb52-4b7083bec3f7,14219,enum_J_15,partner_j,C01,Respondent did not consent
+c44ef10c-7d83-4520-9451-7e865d52019f,14276,enum_K_18,partner_k,C04,Interview took 5 minutes
+b4671bef-c388-4e60-b17f-f1f2c917538a,14438,enum_L_16,partner_l,C01,Respondent did not consent
+6c6f8692-8b0b-440c-a08b-d70e0d13cccb,14484,enum_K_15,partner_k,C04,Interview took 7 minutes
+1bab2552-1601-42b0-8f8c-2921286b5dc9,14504,enum_J_15,partner_j,C01,Respondent did not consent
+6c9b60ba-6bb2-4719-82d9-ab271da8e8d8,14605,enum_L_01,partner_l,C02,Same submission uploaded more than once
+a7398a7f-ffc2-43fa-be3e-558c5eae03da,14917,enum_J_01,partner_j,C01,Respondent did not consent
+7aca21c8-d605-4960-8882-438ed8cefa26,14919,enum_J_11,partner_j,C02,Same submission uploaded more than once
+15f4366b-5f85-43dc-a3e4-43cda36f67d9,15007,enum_K_14,partner_k,C04,Interview took 10 minutes
+0391e51f-fd8a-4e6f-ae0a-7802feba4b01,15034,enum_J_16,partner_j,C01,Respondent did not consent
+5bc125c0-3bda-4178-85d9-d1e43cedfc3c,15047,enum_K_13,partner_k,C04,Interview took 4 minutes
+29f42494-22ff-4176-ac6f-b1cd3c40d44a,15251,enum_L_12,partner_l,C04,Interview took 10 minutes
+f35c85f6-d099-4884-9afc-8a334248f171,15531,enum_L_18,partner_l,C01,Respondent did not consent
+eda766f7-6709-43a0-a575-9521407a78c7,15544,enum_J_16,partner_j,C04,Interview took 7 minutes
+8a106a6f-c8e5-433f-9dc5-db845d5d700d,15574,enum_L_13,partner_l,C01,Respondent did not consent
+390f7950-9247-48bd-a0bf-4423a8264d57,15652,enum_K_09,partner_k,C01,Respondent did not consent
+1971f488-f4d3-4a7a-9b0b-1e6955bb7b1a,15683,enum_L_08,partner_l,C02,Same submission uploaded more than once
+d4cefb75-f0d3-43d4-bead-508f19f15a38,15902,enum_L_16,partner_l,C04,Interview took 8 minutes
+630985ad-93ea-4dea-8246-a29543c92d9b,16141,enum_K_15,partner_k,C01,Respondent did not consent
+877e82b1-a703-4b9d-ad8b-202155a9e1cb,16216,enum_L_02,partner_l,C04,Interview took 9 minutes
+f8e2de05-a227-48bd-b2a9-d8bfcb016ac9,16278,enum_J_07,partner_j,C04,Interview took 6 minutes
+ac611169-e6aa-4566-85b2-d56d184ed362,16519,enum_J_06,partner_j,C03,Household already interviewed in an earlier submission
+aa2b0574-0a2c-4504-a192-2190735fea6c,16546,enum_J_05,partner_j,C04,Interview took 11 minutes
+d0536f1e-1d53-4a23-b3c2-01c4f2ab64d9,16736,enum_K_06,partner_k,C01,Respondent did not consent
+a84831d2-d683-4a8d-9b21-9b4260d5f3c7,16750,enum_L_13,partner_l,C04,Interview took 5 minutes
+fb140d78-9a5f-44f1-8770-7559e0027f67,16915,enum_L_12,partner_l,C01,Respondent did not consent
+47afccc5-9fd4-497e-9175-215538291ff8,17009,enum_K_03,partner_k,C01,Respondent did not consent
+0c41ed68-1ebc-4a54-a0d8-541a35f0ab28,17138,enum_L_12,partner_l,C04,Interview took 5 minutes
+942246c8-0020-4804-802a-2b8ed237acc9,17153,enum_K_19,partner_k,C04,Interview took 5 minutes
+5bad2cd6-3482-4a92-adc4-2076e280ee68,17234,enum_K_11,partner_k,C01,Respondent did not consent
+1ed72b44-56cd-4151-8ecf-e272781fe330,17427,enum_J_20,partner_j,C04,Interview took 8 minutes
+7ae1f592-91a2-43fb-88d3-5221b16dd5db,17442,enum_L_16,partner_l,C03,Household already interviewed in an earlier submission
+d932e1b8-309f-4a6e-a81b-0fce41a5b08a,17648,enum_K_13,partner_k,C04,Interview took 9 minutes
+771d13eb-d1ba-4f28-ae7c-5982d712de73,17734,enum_L_12,partner_l,C01,Respondent did not consent
+0945f3bb-fdae-4101-aae3-96f7946a566c,17902,enum_K_20,partner_k,C01,Respondent did not consent
+9bb0c08c-a51f-4e7e-ba97-2b06ca16dff1,17975,enum_K_11,partner_k,C04,Interview took 8 minutes
+473e5880-cec4-40dc-a614-25b4b67f9481,18073,enum_K_18,partner_k,C05,Cluster code not in the sample
+341738f9-03e1-47d3-ae44-7c42191b46dd,18163,enum_J_16,partner_j,C01,Respondent did not consent
+1fed250f-2b2b-42f4-8947-3234a2ec1282,18167,enum_K_02,partner_k,C04,Interview took 11 minutes
+7e597554-1ef1-4e01-b075-1947773135ad,18474,enum_J_20,partner_j,C01,Respondent did not consent
+186626b8-dab6-4706-9543-26c9d9b905d6,18693,enum_K_19,partner_k,C04,Interview took 6 minutes
+25f5d8ef-4195-4b25-9437-0931d17f41c1,18697,enum_J_20,partner_j,C01,Respondent did not consent
+9e57a114-7f4a-4a13-91b2-a3e5e12a0f28,18773,enum_L_13,partner_l,C01,Respondent did not consent
+cc7a261a-ad8f-4949-b297-fb419a025e81,18842,enum_J_15,partner_j,C02,Same submission uploaded more than once
+f7aa331a-84e8-47a4-95c3-7bfc123678e7,18849,enum_L_15,partner_l,C04,Interview took 12 minutes
+e4592be6-c54c-4c07-a81e-4d9db8174bf9,18950,enum_K_05,partner_k,C01,Respondent did not consent
+8f990ada-e61a-41d3-a156-8e54c33492ba,19025,enum_K_12,partner_k,C02,Same submission uploaded more than once
+2547ab69-1cd8-48e1-bad6-5f8cf18feac6,19136,enum_J_06,partner_j,C01,Respondent did not consent
+de9563f2-a707-4c8d-81ab-26610908a0d7,19338,enum_L_05,partner_l,C04,Interview took 9 minutes
+9abad599-0f7b-432a-837e-fedfeffaee24,19339,enum_K_06,partner_k,C04,Interview took 7 minutes
+1894aed5-79c2-4dc7-9b1d-2a23913cab57,19358,enum_J_06,partner_j,C04,Interview took 5 minutes
+b5cb10bc-c1e8-40d3-aee7-367271f9f8b2,19392,enum_J_19,partner_j,C01,Respondent did not consent
+875951f6-dcda-474e-98df-a8685594745b,19402,enum_J_20,partner_j,C03,Household already interviewed in an earlier submission
+544b8323-fd10-4c20-ab55-e4340c507885,19513,enum_J_09,partner_j,C04,Interview took 11 minutes
+eb4513ac-b1b6-4f76-8df0-3662de8845c5,19700,enum_K_04,partner_k,C04,Interview took 5 minutes
+532fbe1d-c22a-42c8-b894-5b63b0fca989,19960,enum_L_10,partner_l,C01,Respondent did not consent
+63bb5143-616a-4a54-9b0e-164666e09e64,20148,enum_L_03,partner_l,C01,Respondent did not consent
+cc1ed5f5-e690-4df6-8fdc-a1d9bd50600c,20196,enum_L_03,partner_l,C04,Interview took 10 minutes
+035c6317-ba05-4898-9531-4e6cb545e087,20221,enum_J_06,partner_j,C04,Interview took 6 minutes
+a1930535-1f33-41c8-840c-e33791bb30f1,20242,enum_J_16,partner_j,C01,Respondent did not consent
+e600bc97-ca51-405e-b383-adccc364456e,20286,enum_J_04,partner_j,C04,Interview took 6 minutes
+bddc7072-7389-4868-904c-9ab6ec04594f,20316,enum_L_16,partner_l,C04,Interview took 10 minutes
+682839f5-d647-4b4b-b8ad-ecf0c3e853c1,20328,enum_K_01,partner_k,C01,Respondent did not consent
+16a57b90-5ae6-4da3-9abd-47ff9726d6c6,20361,enum_K_04,partner_k,C01,Respondent did not consent
+60e25964-6b85-482b-96c1-c8de2def591c,20395,enum_J_10,partner_j,C04,Interview took 7 minutes
+74033f5c-dbeb-4029-bb0f-8628ecf36011,20528,enum_K_08,partner_k,C05,Cluster code not in the sample
+34691047-7fe6-4e39-8a7e-462ca7af3dca,20896,enum_K_07,partner_k,C01,Respondent did not consent
+38a903d4-b684-4967-b807-818deb498e75,20918,enum_K_15,partner_k,C02,Same submission uploaded more than once
+153849c2-01cb-4ba9-a2e7-4cdf94373964,21031,enum_K_16,partner_k,C03,Household already interviewed in an earlier submission
+e145b506-67d9-4062-a647-c9a37cd77e36,21097,enum_K_07,partner_k,C04,Interview took 7 minutes
+8624f629-0881-4d84-bee5-31e04f1ad5a5,21137,enum_L_14,partner_l,C03,Household already interviewed in an earlier submission
+0c4dd4ab-b232-4727-83ba-2738b5ccb8c4,21152,enum_K_01,partner_k,C04,Interview took 5 minutes
+797a3ce2-01b6-467b-a3d4-69eb57b4116e,21196,enum_J_03,partner_j,C01,Respondent did not consent
+0a3417c9-e6bf-427c-8577-6cc2f003641f,21201,enum_J_15,partner_j,C04,Interview took 5 minutes
+d8a4ab4c-4fc0-43dd-a10f-7b0014246654,21250,enum_K_02,partner_k,C01,Respondent did not consent
+6c2f1b06-d2dd-4cdf-ab98-1253bc78b143,21357,enum_L_18,partner_l,C01,Respondent did not consent
+fc796ebe-b66b-4ea5-be87-9c27335c1681,21527,enum_K_06,partner_k,C01,Respondent did not consent
+cc2e1852-05a9-4ada-b886-f996de3f5939,21603,enum_K_05,partner_k,C04,Interview took 9 minutes
+2567c1a8-52d7-4660-98a8-5ef843317c7e,21614,enum_L_17,partner_l,C01,Respondent did not consent
+52b7d8b9-0fdb-4dea-ad35-1d5ebdebef27,21653,enum_K_07,partner_k,C01,Respondent did not consent
+6ca47855-5088-494a-a1fe-f46afeb0d1cf,21711,enum_J_09,partner_j,C02,Same submission uploaded more than once
+fa44d764-a291-4e2d-aef7-1a0d0f08342a,21717,enum_J_19,partner_j,C04,Interview took 5 minutes
+117d42ab-4d8f-49c8-861a-f4e92b349877,21897,enum_J_11,partner_j,C03,Household already interviewed in an earlier submission
+e3b2d243-9176-47a8-80f3-2e9ed98bae57,21942,enum_K_05,partner_k,C03,Household already interviewed in an earlier submission
+34faae7d-e6c4-47fa-9688-1725eba81c17,22102,enum_L_15,partner_l,C04,Interview took 11 minutes
+c1f98bfd-f20c-4e28-ae63-4029e20942c8,22179,enum_K_17,partner_k,C01,Respondent did not consent
+de0c9bb0-6384-45fb-9ca0-394a9b0eb870,22255,enum_L_13,partner_l,C04,Interview took 12 minutes
+de9c5cb9-5439-47c6-9e52-5203084cf822,22278,enum_L_01,partner_l,C02,Same submission uploaded more than once
+a2838065-ebe5-48c1-9579-8977f916f28f,22429,enum_L_02,partner_l,C01,Respondent did not consent
+db7db2b7-4853-4e79-aeb7-d2620e911ee3,22479,enum_J_06,partner_j,C05,Cluster code not in the sample
+83d7e3f9-4f6f-42bc-8078-3576cdacab01,22838,enum_J_01,partner_j,C01,Respondent did not consent
+6de0d67d-b4b4-440e-ac01-9cde49cd69aa,22841,enum_L_11,partner_l,C01,Respondent did not consent
+094f76c8-318f-4b29-a402-2cbfb182451c,22851,enum_J_15,partner_j,C01,Respondent did not consent
+bbeaa9d8-8a1e-4cc9-bd0b-6a88a0539c35,23016,enum_J_13,partner_j,C01,Respondent did not consent
+792d16fc-47a4-4cf9-82f5-cf525537c540,23067,enum_L_09,partner_l,C04,Interview took 9 minutes
+4235a910-f41d-4528-8d1a-3fe5c4462d7b,23135,enum_J_12,partner_j,C01,Respondent did not consent
+fc550ea5-c7f9-465c-96c7-056347fedad2,23197,enum_L_02,partner_l,C05,Cluster code not in the sample
+205c50d4-430f-4e84-9c1a-3ed53d1fde42,23374,enum_L_02,partner_l,C01,Respondent did not consent
+eae88522-e1e4-4e81-a06f-18144bf05610,23377,enum_J_14,partner_j,C04,Interview took 6 minutes
+684e096f-b6b5-4786-a47e-2fdaed9eba51,23394,enum_K_17,partner_k,C02,Same submission uploaded more than once
+e99c01d3-e3dc-4370-83fe-123abc906fa0,23563,enum_J_10,partner_j,C04,Interview took 7 minutes
+b03719b9-9f30-4d69-ab27-b2297893cc5f,23807,enum_J_09,partner_j,C04,Interview took 10 minutes
+f751161a-bcb3-4d42-a688-3ab8fa982026,23819,enum_J_05,partner_j,C04,Interview took 6 minutes
+f95f4533-68a9-4eef-81b1-7b6afee1d0f1,24078,enum_L_13,partner_l,C04,Interview took 12 minutes
+6a20c115-cfed-49b8-a955-27a818504346,24125,enum_K_04,partner_k,C04,Interview took 5 minutes
+75aa33c8-5179-42c0-b873-7eaadb9272ee,24190,enum_K_18,partner_k,C04,Interview took 10 minutes
+db7049b1-e4de-43be-8c50-a9de1a64b880,24217,enum_K_04,partner_k,C04,Interview took 10 minutes
+5e2a5e2b-10df-4b53-8572-1dd58a5a03f8,24370,enum_K_15,partner_k,C01,Respondent did not consent
+ab5a6d90-9f7f-4d62-aa65-860a32febb7e,24730,enum_K_12,partner_k,C01,Respondent did not consent
+9cf3a0c0-13c0-4856-a4e7-5ef1aa3d38c0,24859,enum_K_17,partner_k,C02,Same submission uploaded more than once
+38e95e12-b24f-43e6-b7cf-119b18d866a3,25194,enum_L_11,partner_l,C03,Household already interviewed in an earlier submission
+467290fe-413e-4bab-94a4-b9fd7a52763e,25206,enum_L_11,partner_l,C01,Respondent did not consent
+4875e7c4-5c86-40ea-9ada-ff24a2d2b604,25373,enum_L_02,partner_l,C01,Respondent did not consent
+4d407ad3-2858-4cae-a506-99c0ce00dc98,25391,enum_K_04,partner_k,C04,Interview took 7 minutes
+8c570050-9074-409e-bdf0-1dbe924ef19e,25631,enum_K_11,partner_k,C04,Interview took 7 minutes
+0b3a9af1-a338-44b7-b723-044430248739,25720,enum_K_18,partner_k,C04,Interview took 8 minutes
+cf90d74f-88f1-4d1e-aeb7-917fe506778d,25848,enum_L_12,partner_l,C04,Interview took 4 minutes
+0469e7c3-4f2c-4431-8c25-20ffb0995166,25856,enum_K_18,partner_k,C02,Same submission uploaded more than once
+de929a9c-c855-4520-902a-057d4d8856c4,25897,enum_K_17,partner_k,C05,Cluster code not in the sample
+65b85f82-e862-4842-9ac2-0edb92d73fcc,26122,enum_L_07,partner_l,C04,Interview took 5 minutes
+a3ea0bdc-909b-47dc-8473-a3e6bc50ec08,26162,enum_L_01,partner_l,C04,Interview took 7 minutes
+48e2e393-8336-4507-97c1-3350094a060f,26246,enum_J_14,partner_j,C04,Interview took 10 minutes
+b37470dc-82cb-4389-a9cb-7e67df2cf967,26316,enum_L_12,partner_l,C04,Interview took 9 minutes
+0c906d50-c4d9-4ee5-8c2e-46056f87e14a,26458,enum_L_02,partner_l,C04,Interview took 10 minutes
+69c49061-bdfa-4def-a0db-d1e646120a85,26877,enum_L_07,partner_l,C04,Interview took 7 minutes
+ae21c350-8bbe-4913-9bf5-809a1c950b98,430,enum_N_13,partner_n,C01,Respondent did not consent
+96b4d9e3-77f1-497a-9ce7-8d19e9b42021,529,enum_N_04,partner_n,C05,Cluster code not in the sample
+eed110b4-bf2c-464c-8d88-3b9983084f2b,567,enum_N_06,partner_n,C04,Interview took 11 minutes
+8d1e2fc0-40e2-49e8-9606-06988b22ea79,721,enum_M_03,partner_m,C05,Cluster code not in the sample
+2cdbdcb1-0541-4150-a28c-6b3d81a5d9c3,919,enum_N_11,partner_n,C03,Household already interviewed in an earlier submission
+e5648a5d-0658-4ba6-9c90-0f64f9a16689,1172,enum_M_03,partner_m,C01,Respondent did not consent
+b9870707-2a52-44f2-acdd-8e3c5d6f0445,1291,enum_N_06,partner_n,C01,Respondent did not consent
+8dbbb72f-d508-464c-a885-5cc0a9e522b8,1299,enum_N_14,partner_n,C04,Interview took 5 minutes
+b1d32f6c-c14b-4ea7-a815-8bef4bdc34e2,1450,enum_N_04,partner_n,C03,Household already interviewed in an earlier submission
+faf91cc2-c0c6-41ff-b34b-9a2a98eb496a,2000,enum_N_12,partner_n,C04,Interview took 7 minutes
+1144fa52-0208-431c-ac0d-ece007da9451,2002,enum_N_14,partner_n,C04,Interview took 7 minutes
+36802c7e-c183-4f34-853b-96a2ec2cfec5,2135,enum_N_10,partner_n,C01,Respondent did not consent
+328a153a-d292-40b2-9d76-df6f25bd3361,2592,enum_N_10,partner_n,C04,Interview took 11 minutes
+49088c6f-e263-4cc4-8841-4040fa888a1e,2871,enum_M_05,partner_m,C04,Interview took 10 minutes
+11919eb1-776f-4c20-8f90-5dd15e9ec12e,3035,enum_M_06,partner_m,C04,Interview took 11 minutes
+7c790d88-4cde-4d7a-87c6-e5497e07005b,3269,enum_N_03,partner_n,C01,Respondent did not consent
+4868ac8a-1120-4701-9e79-94ae9cc27e2c,3414,enum_M_03,partner_m,C04,Interview took 6 minutes
+feee824b-8475-4db6-98c7-1d9521dcb795,3440,enum_M_04,partner_m,C05,Cluster code not in the sample
+239860e0-9e9c-4e69-aeac-c2058083437e,3581,enum_M_16,partner_m,C04,Interview took 11 minutes
+5c5c275a-c162-4339-8e2c-d2a8a7753488,3916,enum_M_12,partner_m,C04,Interview took 9 minutes
+95b5573b-3e12-4444-8439-86e43d699acd,3920,enum_N_05,partner_n,C04,Interview took 6 minutes
+125bc952-db67-461f-97da-b9b5ef8a15e4,3964,enum_N_10,partner_n,C04,Interview took 10 minutes
+767b47cc-e678-401d-a035-8cc7b85b9dfa,4144,enum_M_07,partner_m,C04,Interview took 9 minutes
+dc301c07-adce-405c-9db3-8c21e01dafdb,4268,enum_M_16,partner_m,C04,Interview took 8 minutes
+3e47d573-deac-4b2d-88c3-94f21009f0b9,4456,enum_N_03,partner_n,C04,Interview took 11 minutes
+735a4fe4-5b4d-4fef-8884-325bd2c159a9,4679,enum_N_15,partner_n,C04,Interview took 11 minutes
+f2509abe-7736-4cae-a370-ea7a4d3f2880,5367,enum_M_11,partner_m,C04,Interview took 4 minutes
+4bd63d28-1839-4b65-96e9-98178ea60c92,5412,enum_N_05,partner_n,C04,Interview took 7 minutes
+269c0231-de71-4548-9fe2-7f01979a3d2b,5456,enum_M_01,partner_m,C04,Interview took 10 minutes
+7b16db92-854c-4f5d-9aa8-a561d117dd54,5559,enum_N_10,partner_n,C04,Interview took 9 minutes
+66577dfc-632c-4296-acc6-e9a1d6574760,5662,enum_M_11,partner_m,C01,Respondent did not consent
+7b78e233-6fe5-405b-8777-650dd90b4173,5932,enum_N_01,partner_n,C01,Respondent did not consent
+0307b19b-4324-480f-b54a-4116a22bf50d,6015,enum_M_13,partner_m,C01,Respondent did not consent
+20cc0283-929d-47b6-a4f6-f05062d4c474,6284,enum_M_11,partner_m,C01,Respondent did not consent
+b1dc7170-0d16-4f2c-a50c-c47e1c4e2f2d,6445,enum_N_14,partner_n,C01,Respondent did not consent
+c29fcdb4-be9e-488c-a473-491af1d57640,6891,enum_N_15,partner_n,C01,Respondent did not consent
+2afefbcf-e356-4cf4-a721-5aaacc027277,7406,enum_N_05,partner_n,C06,Cluster had been reported inaccessible
+c778f5bb-0f63-45b9-a25a-63f387fb0750,7408,enum_N_01,partner_n,C02,Same submission uploaded more than once
+83f51331-3d9a-4529-aacd-936c2313ea32,7960,enum_N_14,partner_n,C01,Respondent did not consent
+77a5bcd0-28a0-40bd-ba0c-c73b7ee5b1e7,8414,enum_M_08,partner_m,C04,Interview took 7 minutes
+58e0cb39-e0a1-4d97-a385-c676b4761091,8578,enum_N_05,partner_n,C04,Interview took 7 minutes
+273b29da-6698-4b68-841f-61991cc5c5bb,8618,enum_M_14,partner_m,C02,Same submission uploaded more than once
+b69c8253-9c8a-43ca-98f7-78ad6b6b2f8e,8906,enum_M_10,partner_m,C04,Interview took 6 minutes
+cac8ebed-e5a8-46bd-b0f3-007d38a24630,9035,enum_N_02,partner_n,C01,Respondent did not consent
+b561af8d-97ec-4f11-a7e0-bdeaec2e5ae0,9117,enum_M_02,partner_m,C05,Cluster code not in the sample
+a16d31da-5100-4f12-a53f-035f8f5ab81d,9144,enum_M_07,partner_m,C01,Respondent did not consent
+239e4e62-cadd-4761-9f45-11ab67e06a98,9235,enum_M_02,partner_m,C04,Interview took 11 minutes
+5ad0cdf3-cb9d-43b2-9d81-0fce7ccb26f5,9522,enum_N_05,partner_n,C01,Respondent did not consent
+b447211d-d19e-4bd6-90bd-742a12684d92,9653,enum_N_05,partner_n,C04,Interview took 8 minutes
+2e19e656-007b-4782-b87a-fafd666055a7,9676,enum_N_12,partner_n,C04,Interview took 9 minutes
+e3702900-a6be-489f-a4f7-0f9e7de51926,10138,enum_N_06,partner_n,C05,Cluster code not in the sample
+dc988b1c-0d51-41f4-94b2-e96bb9814e3c,10403,enum_N_15,partner_n,C01,Respondent did not consent
+ecceaede-2095-4f76-ae8b-27141b757c67,10636,enum_N_03,partner_n,C03,Household already interviewed in an earlier submission
+01b33114-2282-435f-8453-17bdb9c7820f,11161,enum_M_02,partner_m,C01,Respondent did not consent
+b29f2b47-1415-446c-b226-e34ad2a2c397,11807,enum_N_12,partner_n,C04,Interview took 4 minutes
+e9ff3560-679c-44da-b665-2b91845e5ce0,11853,enum_N_03,partner_n,C01,Respondent did not consent
+01638b3c-f3e2-490a-ae00-cc0b34d7a808,11858,enum_N_16,partner_n,C04,Interview took 8 minutes
+369ec6c5-b3b4-46dd-9ffa-84d4056b3979,12017,enum_M_01,partner_m,C02,Same submission uploaded more than once
+794744e6-6804-4786-8502-e8e156783703,12048,enum_M_12,partner_m,C04,Interview took 5 minutes
+9420cfd8-4bf9-485e-8d84-5c5cdc1bff68,12057,enum_N_07,partner_n,C04,Interview took 12 minutes
+05de21e6-0b8f-4b56-a3a1-647ee26c0933,12431,enum_N_16,partner_n,C01,Respondent did not consent
+3bc9367c-2a07-4525-934d-0f7949fd9a5e,12683,enum_N_11,partner_n,C03,Household already interviewed in an earlier submission
+40dc12d4-4921-4455-9082-caa1ea9ac135,12801,enum_N_05,partner_n,C02,Same submission uploaded more than once
+2f93c4ab-e57a-4e4a-88fe-d8f56fe100a5,12885,enum_N_15,partner_n,C01,Respondent did not consent
+72bec835-df41-4984-9d5c-659cf2389994,12953,enum_M_14,partner_m,C04,Interview took 9 minutes
+32b76c70-9a36-453c-bf54-dfe39301b4ba,13065,enum_M_13,partner_m,C04,Interview took 7 minutes
+d8e0b820-b014-4666-a3a8-cb24c3f172b1,13140,enum_N_01,partner_n,C04,Interview took 4 minutes
+8aa1eb9a-d620-41f7-8522-19f48792c37a,13301,enum_M_06,partner_m,C01,Respondent did not consent
+93532f82-d0ba-49b2-b662-e95b3e87fb3e,13475,enum_M_12,partner_m,C03,Household already interviewed in an earlier submission
+fa0fd51d-3e23-4827-84f5-3eb27bcf77fc,13607,enum_M_08,partner_m,C03,Household already interviewed in an earlier submission
+06a813bd-61cd-4af3-b8f0-faedd0e94d05,13713,enum_M_08,partner_m,C04,Interview took 7 minutes
+41e328da-8b76-445b-9822-a8a7575d6d26,13728,enum_M_05,partner_m,C01,Respondent did not consent
+cfbeaf2b-a553-4810-ac6e-0a2b61b42787,13751,enum_N_01,partner_n,C06,Cluster had been reported inaccessible
+2dd0657d-7430-4a30-8a8e-2f0c5cdd501d,13882,enum_M_01,partner_m,C01,Respondent did not consent
+c90d1827-2e64-47c7-9ae0-34d89aa26ca3,13898,enum_M_11,partner_m,C04,Interview took 11 minutes
+cd38317d-28d8-4ca2-9d98-8cecdb237009,14301,enum_M_13,partner_m,C04,Interview took 12 minutes
+8a430f68-44cb-48bd-b965-084fff0503a1,14421,enum_N_10,partner_n,C03,Household already interviewed in an earlier submission
+9f37c802-fd10-402f-93d6-7d9dabcaa9aa,14428,enum_M_14,partner_m,C04,Interview took 11 minutes
+c79175b3-6e09-4d50-b798-4e2357be5781,15275,enum_N_04,partner_n,C04,Interview took 6 minutes
+27bb71ec-b11e-4874-807a-084efed8e440,15585,enum_M_10,partner_m,C01,Respondent did not consent
+e632013a-7815-4553-b532-e60f5a55a719,15885,enum_N_10,partner_n,C04,Interview took 9 minutes
+ef2c78f6-f672-44f8-a444-0e5d1e99f4a9,15952,enum_M_12,partner_m,C04,Interview took 7 minutes
+46eee384-c560-4658-b464-1608b34cd8f4,16051,enum_M_03,partner_m,C04,Interview took 7 minutes
+5796a6e7-e18c-4fa0-8212-5f3c2eb48b43,16202,enum_N_11,partner_n,C04,Interview took 10 minutes
+de70df9d-c100-4475-bd41-e87010add07e,16208,enum_M_04,partner_m,C04,Interview took 5 minutes
+a9731c9d-26ee-422e-a4a8-818acca097d9,16571,enum_M_09,partner_m,C04,Interview took 4 minutes
+f50bfe88-c765-4c1f-a8fd-c79e0bbf6004,16625,enum_N_01,partner_n,C02,Same submission uploaded more than once
+b1adf574-901e-4047-919a-719d89494099,16717,enum_M_07,partner_m,C03,Household already interviewed in an earlier submission
+2e6a49a4-6719-420c-b89f-455a5b5b81d8,17000,enum_M_08,partner_m,C01,Respondent did not consent
+26922825-1c7f-4965-9495-05f779541a97,17021,enum_M_16,partner_m,C01,Respondent did not consent
+22e9c7ed-c04b-402b-8dc9-db7d6db28896,17039,enum_N_02,partner_n,C01,Respondent did not consent
+4ad09765-5fff-40b9-98f1-7c5d20b2977a,17204,enum_N_14,partner_n,C02,Same submission uploaded more than once
+5204f978-6d6f-4953-b7aa-55a1c4f8818e,17261,enum_M_09,partner_m,C04,Interview took 8 minutes
+153ebe92-4df9-48ff-bd78-b0b3c6e66624,17476,enum_M_14,partner_m,C01,Respondent did not consent
+879267cd-f21f-4df5-b17e-3fa7bcfef5c2,17541,enum_M_14,partner_m,C01,Respondent did not consent
+dc8af758-9eb8-4f50-90ca-42e53dabe2be,17736,enum_N_14,partner_n,C01,Respondent did not consent
+734adb77-0ffd-4e00-8937-bff9eb0fbd9e,17981,enum_N_10,partner_n,C04,Interview took 10 minutes
+b74e525d-9f04-4772-b87a-b24b210b775f,18402,enum_M_08,partner_m,C01,Respondent did not consent
+46ab59dc-ccd0-4bbe-9214-a65dd5eb9702,18423,enum_M_07,partner_m,C01,Respondent did not consent
+e19a74c0-7523-49f3-947e-b0d6726aeb7f,18489,enum_M_06,partner_m,C04,Interview took 12 minutes
+a8be8658-392f-4f53-8c97-917fc592a465,18770,enum_M_08,partner_m,C04,Interview took 9 minutes
+a6e58c1d-85ca-4085-94b2-53282dd8f785,18894,enum_M_03,partner_m,C04,Interview took 8 minutes
+7b20b636-1b72-47a2-bcb0-d12eb0cbe74a,18988,enum_N_10,partner_n,C04,Interview took 8 minutes
+fddc324a-2793-4670-8e72-85b3cd91bf99,19041,enum_M_08,partner_m,C01,Respondent did not consent
+24709d98-e027-47ab-adca-121f2c6f8a3d,19448,enum_M_06,partner_m,C01,Respondent did not consent
+6214f13a-9813-4e17-ae81-8e5cffcb3e87,19617,enum_N_07,partner_n,C01,Respondent did not consent
+153ae386-43b0-43b6-a8e7-8e29a26c9438,19651,enum_M_15,partner_m,C04,Interview took 8 minutes
+4b227a1a-b0ba-4737-afbc-baa384168d07,20068,enum_M_13,partner_m,C04,Interview took 10 minutes
+f1901f7e-31f3-467f-aef8-15b2cf71e4ec,20186,enum_N_16,partner_n,C01,Respondent did not consent
+6ed2792e-7278-4248-9a10-aeec1fcf31a8,20707,enum_N_15,partner_n,C04,Interview took 8 minutes
+f0d624aa-f866-46cb-9d97-c172f7adcc60,21347,enum_M_15,partner_m,C01,Respondent did not consent
+fc03daee-1e98-46cf-97e9-788de8c76960,21394,enum_M_07,partner_m,C01,Respondent did not consent
+37c3ef3e-b9e3-4ec8-b488-c098c11b24cd,21488,enum_M_12,partner_m,C04,Interview took 11 minutes
+119d6464-2dbe-48ce-ad12-c2de93425319,21504,enum_M_04,partner_m,C04,Interview took 4 minutes
+627735d9-e2db-40a9-80d0-a209037238dd,22097,enum_M_07,partner_m,C04,Interview took 8 minutes
+5656eb69-eb92-4fa5-89ae-3f5ba43d5c26,22253,enum_N_01,partner_n,C01,Respondent did not consent
+3f808435-88ed-4004-9e40-ec9f178dcf17,22726,enum_M_10,partner_m,C01,Respondent did not consent
+4fdce18a-f15a-4e88-9d43-37deea949c0a,22772,enum_N_16,partner_n,C02,Same submission uploaded more than once
+9ef33658-c114-4abb-8615-5c1ec69d92d5,23104,enum_M_13,partner_m,C04,Interview took 9 minutes
+af0274a4-dfba-465a-8e14-63b06228c9aa,23425,enum_N_06,partner_n,C05,Cluster code not in the sample
+c536ca96-6640-4e5a-af4a-808138eae759,23472,enum_N_06,partner_n,C01,Respondent did not consent
+c44d02b7-9794-4466-ac40-8c185d93b42a,23485,enum_M_02,partner_m,C01,Respondent did not consent
+ab62d5df-a911-401c-83d0-a379bc033744,23955,enum_M_06,partner_m,C04,Interview took 4 minutes
+0c45b5cf-e884-48cb-b663-6a0c3865e36d,24223,enum_M_14,partner_m,C05,Cluster code not in the sample
+baf915e1-fd6d-42a1-829a-95ba4538e6e9,24267,enum_M_05,partner_m,C02,Same submission uploaded more than once
+5b0d01d7-e276-4b82-ad8e-4cb8c8f01fbe,24356,enum_N_06,partner_n,C05,Cluster code not in the sample
+850a32d8-e303-49bb-9eab-67dbe524ef1f,24454,enum_N_09,partner_n,C06,Cluster had been reported inaccessible
+8d02093f-898d-4966-a9a5-2d81bbc0f49a,24655,enum_M_05,partner_m,C03,Household already interviewed in an earlier submission
+d0a025cd-7f14-4db9-b4a3-607138f881bc,24737,enum_M_13,partner_m,C04,Interview took 11 minutes
+9cfde32c-755a-420b-96ae-1316ad7f3dff,24783,enum_M_07,partner_m,C05,Cluster code not in the sample
+e5064142-a0a7-41de-adfe-1d19ad4cbd12,25114,enum_N_07,partner_n,C05,Cluster code not in the sample
+91ba2bfe-9d1c-451a-858d-17d5bb384b06,25478,enum_N_07,partner_n,C01,Respondent did not consent
+2d089354-9050-4c49-80d7-608b546a3ef9,26030,enum_M_16,partner_m,C04,Interview took 5 minutes
+cec6d336-c4e5-4e72-8604-bd192c93fc46,26057,enum_N_07,partner_n,C01,Respondent did not consent
+592d88b2-924b-4927-a38b-d255f358552e,26618,enum_M_02,partner_m,C04,Interview took 6 minutes
+548e9ffd-ef06-4a93-86ef-fd74b31ac060,26705,enum_M_09,partner_m,C01,Respondent did not consent
+1f954ea2-5d4a-4528-8c39-5885e97e2ec1,26722,enum_M_10,partner_m,C01,Respondent did not consent
+361cc7b6-4eaa-4472-b085-e6487bdb27b1,26768,enum_N_01,partner_n,C04,Interview took 5 minutes
+61342066-3bcf-43c3-b80c-a890ed580998,26828,enum_N_11,partner_n,C06,Cluster had been reported inaccessible
+a0a9882f-998a-4842-a2de-2d6120c7269c,26830,enum_N_07,partner_n,C06,Cluster had been reported inaccessible
+9aafcb81-79bb-4d24-a1aa-f898f9dee86c,26895,enum_N_03,partner_n,C06,Cluster had been reported inaccessible
+add23455-5c57-40e2-b34e-e7e3ae110eb0,26936,enum_M_10,partner_m,C04,Interview took 10 minutes
+d0d6acb2-3543-4626-8c97-ba2f19a3c7dd,26974,enum_N_02,partner_n,C04,Interview took 11 minutes
+3541cbb1-7d7d-41d0-82a9-c943330ce838,97,enum_O_05,partner_o,C04,Interview took 7 minutes
+6352cf22-a6b5-4d5a-8b3b-4fcbb07cc798,261,enum_O_07,partner_o,C01,Respondent did not consent
+38f1b1b0-a49d-462f-8a25-c627354d1f7a,319,enum_O_05,partner_o,C01,Respondent did not consent
+2fc6abfd-9e5e-4495-b36d-b2dcc66161b0,339,enum_O_05,partner_o,C01,Respondent did not consent
+8938ab0f-8493-41f7-a4ae-26d53f3ecfe3,422,enum_O_03,partner_o,C05,Cluster code not in the sample
+dc597bab-eb74-4a2c-9e29-1e8c950344b2,518,enum_O_15,partner_o,C01,Respondent did not consent
+66ac0d7e-4df3-4a39-a8ab-e9f29f2b4859,777,enum_O_15,partner_o,C04,Interview took 11 minutes
+2d51dfd2-8874-48f6-8f59-d998d525b976,1495,enum_O_05,partner_o,C01,Respondent did not consent
+1c0c80c3-e1ae-40b3-8f8c-63997e80a788,1909,enum_O_09,partner_o,C01,Respondent did not consent
+1350ff1a-7818-437b-aeda-3a7722164f3c,2413,enum_O_10,partner_o,C01,Respondent did not consent
+ce61e255-07a9-42e2-a4c6-638102065e87,2627,enum_O_15,partner_o,C01,Respondent did not consent
+4f58d3aa-61de-47a6-a6eb-485776e883c7,3396,enum_O_04,partner_o,C04,Interview took 7 minutes
+c87d5e38-4235-4870-ae10-3223043de1ea,3583,enum_O_18,partner_o,C02,Same submission uploaded more than once
+5be055f2-8772-476a-a443-618464de67bb,4046,enum_O_15,partner_o,C01,Respondent did not consent
+887a0dd5-dd5a-4017-8408-f1511aa14dd4,4230,enum_O_18,partner_o,C04,Interview took 8 minutes
+e1bb6931-15ea-41f3-b492-024679d00ba0,4276,enum_O_04,partner_o,C04,Interview took 10 minutes
+b8ce859f-b68b-4d01-9b4f-3601e41fb606,5180,enum_O_11,partner_o,C03,Household already interviewed in an earlier submission
+659ab0f7-43c1-4e38-8269-76e2a5c79ae1,5259,enum_O_10,partner_o,C02,Same submission uploaded more than once
+9d47f1d4-2946-4184-bba0-8c49e69d0dad,5574,enum_O_05,partner_o,C01,Respondent did not consent
+d18282e6-a9c4-4f7e-8dbd-c56f7bed9106,6127,enum_O_01,partner_o,C04,Interview took 9 minutes
+f79952e8-f0e3-4e68-b4f7-9b51f457e34f,6131,enum_O_18,partner_o,C01,Respondent did not consent
+1eddb072-6f82-48d4-876c-3eaf5e6d0b7d,6190,enum_O_04,partner_o,C01,Respondent did not consent
+ee04743f-4926-4a35-b408-fa02fc752148,6438,enum_O_04,partner_o,C01,Respondent did not consent
+a02d670a-c1ab-40a7-aee7-0693d300417d,6504,enum_O_14,partner_o,C03,Household already interviewed in an earlier submission
+43f5080a-eade-45c0-a215-6946c5efc9c4,6956,enum_O_12,partner_o,C01,Respondent did not consent
+9b9c75b8-0f91-48e5-a511-75f6cdf16f74,7005,enum_O_04,partner_o,C04,Interview took 9 minutes
+9bce642a-d9a7-4241-b038-cd2a5b9a9130,7694,enum_O_03,partner_o,C01,Respondent did not consent
+d54cad03-72a5-44af-acda-5091ccdf847d,8057,enum_O_11,partner_o,C01,Respondent did not consent
+987cdf6b-67a8-492d-ac70-76c560efec21,8095,enum_O_12,partner_o,C01,Respondent did not consent
+e64187b1-dff2-4cde-bdc7-a3d88bb147e9,8256,enum_O_06,partner_o,C01,Respondent did not consent
+118df7b4-9a16-44c1-a104-471ff670423a,8393,enum_O_12,partner_o,C05,Cluster code not in the sample
+6a92470f-74e2-4b07-9cf7-b88fc34c9d57,8725,enum_O_05,partner_o,C01,Respondent did not consent
+c47a8b81-26f8-4f1e-8b9d-6bba41a5278b,9306,enum_O_15,partner_o,C04,Interview took 11 minutes
+76eaf109-90a3-481a-8fc8-81e548687d0a,9753,enum_O_12,partner_o,C04,Interview took 9 minutes
+3b41ae14-9a73-4782-8c19-597ba7efeee2,10277,enum_O_03,partner_o,C01,Respondent did not consent
+4687e25f-825d-4bc2-bfe0-c124e5b7f32e,11215,enum_O_06,partner_o,C04,Interview took 8 minutes
+2b4f0b13-e2a9-44db-9db1-7378f0a30159,11875,enum_O_07,partner_o,C04,Interview took 12 minutes
+21f2e9bc-6bf7-4468-b522-c95766a3d5d4,11954,enum_O_14,partner_o,C04,Interview took 10 minutes
+b92426ee-8ea4-429f-87e7-6e1df173ca4a,12149,enum_O_12,partner_o,C04,Interview took 9 minutes
+5d07c87a-227c-4202-9b20-69056223e7e2,12371,enum_O_12,partner_o,C01,Respondent did not consent
+ee47b786-5f16-42da-b339-0303e9918da2,12761,enum_O_10,partner_o,C03,Household already interviewed in an earlier submission
+ff77f454-f1f4-4630-941e-90e53d796543,13053,enum_O_10,partner_o,C04,Interview took 8 minutes
+6b9f2391-ec34-4b68-9135-cd5b18a42c66,13374,enum_O_09,partner_o,C01,Respondent did not consent
+87936a63-697d-474d-a5c0-281c97827c87,14126,enum_O_18,partner_o,C01,Respondent did not consent
+8a91638f-9efa-416f-a0b7-8e5e57b29e53,15813,enum_O_10,partner_o,C02,Same submission uploaded more than once
+ff970795-9ca9-44aa-97c5-34918212b1a2,15928,enum_O_10,partner_o,C01,Respondent did not consent
+a577c971-11b0-4b9e-ab57-d084213c9fa5,16786,enum_O_17,partner_o,C03,Household already interviewed in an earlier submission
+abb93298-3287-45e1-81be-24ccd2d001d2,18036,enum_O_15,partner_o,C04,Interview took 6 minutes
+023f0aa4-c13a-4e6e-b9da-75bcc5dce1e0,18298,enum_O_08,partner_o,C03,Household already interviewed in an earlier submission
+d612c45a-9778-4239-ac03-48d7bc9ad224,18537,enum_O_04,partner_o,C04,Interview took 10 minutes
+95dec4f0-03d4-4a4e-83fe-3365504e8758,18863,enum_O_02,partner_o,C01,Respondent did not consent
+ed7f0656-e9a5-4d65-ab6e-e94a47dca77e,18997,enum_O_07,partner_o,C04,Interview took 5 minutes
+2873a594-f10b-4605-9a99-6a73239243b9,19071,enum_O_02,partner_o,C04,Interview took 6 minutes
+c3160257-7776-4f7c-b7bd-6a047bb4c3cc,19462,enum_O_08,partner_o,C01,Respondent did not consent
+2ee95cef-9449-4837-9475-c97350b17789,19570,enum_O_03,partner_o,C01,Respondent did not consent
+25d8a502-8d98-4a3f-b937-fba9b039e23e,20664,enum_O_12,partner_o,C01,Respondent did not consent
+5eac8b40-3262-4380-abd2-47e3df0a94c1,21130,enum_O_02,partner_o,C03,Household already interviewed in an earlier submission
+9a69833b-74bd-44b2-a1b2-ee4c839ec741,21173,enum_O_14,partner_o,C01,Respondent did not consent
+e4e78209-32ef-4b47-814a-5132498d7d4b,21180,enum_O_15,partner_o,C04,Interview took 9 minutes
+f9dfad1a-d532-4c07-b1c8-f24e06a7a0df,21236,enum_O_14,partner_o,C04,Interview took 8 minutes
+a251b402-3feb-4d93-bb45-7a01f6b6a1c4,21482,enum_O_02,partner_o,C04,Interview took 6 minutes
+410f25a0-fd9b-444a-90cb-69d57d823af0,22045,enum_O_13,partner_o,C01,Respondent did not consent
+2dba0d7d-a20e-4fbd-aa76-e1a0d287ecce,22339,enum_O_12,partner_o,C04,Interview took 7 minutes
+d9892fbe-b940-4a67-a324-398aecd5d822,22845,enum_O_01,partner_o,C01,Respondent did not consent
+193ecc67-cf06-4b02-8ef1-0ee246b64c1c,23636,enum_O_07,partner_o,C01,Respondent did not consent
+6aaba155-b156-4fe7-ae77-d411b994a4f0,24468,enum_O_11,partner_o,C01,Respondent did not consent
+8c2ffaa8-017a-4113-861b-dc1283332d90,25522,enum_O_18,partner_o,C01,Respondent did not consent
+14684d82-7023-4a95-a4d6-4208bb48b177,25600,enum_O_13,partner_o,C04,Interview took 8 minutes
+662c12f1-68ec-42bd-a575-d61f0307a49e,25766,enum_O_14,partner_o,C04,Interview took 8 minutes
+3da7853f-4bf5-4285-84f0-5a40b30e69f2,26429,enum_O_08,partner_o,C04,Interview took 10 minutes
+cfbbaea8-38b3-486a-95e6-01a0d1aa5c8a,26450,enum_O_08,partner_o,C04,Interview took 10 minutes
+b6c8a872-99b6-4a3a-ae2e-38d7bfc18697,201,enum_P_11,partner_p,C04,Interview took 8 minutes
+82f0a63b-1627-4be5-bf8d-d0936653b7bf,412,enum_P_12,partner_p,C04,Interview took 4 minutes
+e41b6008-4b71-49c4-8134-3e7b736e9786,476,enum_P_11,partner_p,C04,Interview took 8 minutes
+3ee124f1-c218-4e19-9e7b-c0286c105dc0,733,enum_P_18,partner_p,C01,Respondent did not consent
+48b213bb-6252-411d-8741-090d34f8f6a3,898,enum_P_17,partner_p,C04,Interview took 11 minutes
+cf4d950c-b57f-4e63-a244-e9cfe596770f,1625,enum_P_12,partner_p,C04,Interview took 11 minutes
+da6184d4-43dd-456c-860e-af62dc6070be,2090,enum_P_11,partner_p,C04,Interview took 5 minutes
+ca67804a-1af2-45a4-b23d-edb86a5c62df,2558,enum_P_21,partner_p,C02,Same submission uploaded more than once
+67c04101-045d-409d-bc89-737372f7b214,3093,enum_P_11,partner_p,C03,Household already interviewed in an earlier submission
+0fd26250-b1a4-4af6-a3d8-350695101f9b,3160,enum_P_21,partner_p,C01,Respondent did not consent
+6044172c-2c3f-48ae-bf4d-2b35c3565128,3238,enum_P_11,partner_p,C01,Respondent did not consent
+47caae65-38e4-449d-b996-73633c29a637,3310,enum_P_26,partner_p,C01,Respondent did not consent
+1b9e848e-d827-4571-8281-325b87ad1b8d,4444,enum_P_04,partner_p,C06,Cluster had been reported inaccessible
+a0035526-0b55-40d6-bb09-4d33a8cd9168,5227,enum_P_13,partner_p,C01,Respondent did not consent
+973d4459-0191-4b34-bea6-f269c900fb88,5229,enum_P_17,partner_p,C04,Interview took 11 minutes
+9c060e6c-4a35-4c5d-9ce4-d86eae4ed5ea,5236,enum_P_18,partner_p,C05,Cluster code not in the sample
+b0d16223-6d60-4a99-8178-65d23a01e617,5263,enum_P_22,partner_p,C02,Same submission uploaded more than once
+369e8053-e4a4-4ad9-a980-fed6911e0d84,5627,enum_P_16,partner_p,C01,Respondent did not consent
+6a8c26f9-0424-4018-8141-bfa6c7c0ef45,5634,enum_P_13,partner_p,C02,Same submission uploaded more than once
+5efd5433-1778-4c0d-bf71-616118fce993,5889,enum_P_26,partner_p,C04,Interview took 8 minutes
+7ffc08c5-196d-441d-a4bd-d1dfc76ba0d1,6061,enum_P_17,partner_p,C01,Respondent did not consent
+1fa94a53-3e41-4a2a-ab89-acf60c47a33f,6081,enum_P_06,partner_p,C04,Interview took 8 minutes
+ae1c6945-726d-4d3e-bd67-7c1475e3b805,6271,enum_P_10,partner_p,C01,Respondent did not consent
+f041e650-34f3-411a-a134-af32fbecee64,6288,enum_P_12,partner_p,C03,Household already interviewed in an earlier submission
+bddac4ea-a108-460e-8991-d14f989fa375,6540,enum_P_15,partner_p,C02,Same submission uploaded more than once
+a7fb47e0-d0eb-4a36-a797-6b82020f339c,6687,enum_P_09,partner_p,C02,Same submission uploaded more than once
+070a616c-7cce-401a-984e-7acad2a61269,7177,enum_P_10,partner_p,C05,Cluster code not in the sample
+680cb647-b555-400d-89e7-6c14f22823b5,7206,enum_P_12,partner_p,C04,Interview took 11 minutes
+8daa9b3d-fe93-44a8-99cd-a60cbf75692f,7586,enum_P_05,partner_p,C04,Interview took 6 minutes
+9fd22e79-554b-4d94-975f-ab432d5c402c,7709,enum_P_04,partner_p,C04,Interview took 12 minutes
+39dfdffa-22ec-406f-a80a-6a4d84692a42,8016,enum_P_24,partner_p,C01,Respondent did not consent
+c7f6d0c2-745b-4a66-b0e4-bbc18058e112,8071,enum_P_20,partner_p,C04,Interview took 11 minutes
+380e2acf-598e-462d-b447-2cd6203d9040,8299,enum_P_07,partner_p,C06,Cluster had been reported inaccessible
+9bb828ac-9bdf-4a55-b20b-a4411aa30f58,8362,enum_P_04,partner_p,C04,Interview took 7 minutes
+5ef5c7a9-57eb-4955-bc81-c8119db2eaf3,8831,enum_P_14,partner_p,C01,Respondent did not consent
+6b91a835-1cdf-435b-8ca3-34f96ff2ad9c,8880,enum_P_21,partner_p,C03,Household already interviewed in an earlier submission
+42399178-b76a-4be2-a2b4-1fb027983046,9514,enum_P_04,partner_p,C03,Household already interviewed in an earlier submission
+c9909cd1-fc83-4a3d-a23f-5fa8763d9bff,9769,enum_P_11,partner_p,C04,Interview took 6 minutes
+ee3b9a20-78fe-4e45-86a6-9160ca9f59cb,9864,enum_P_13,partner_p,C03,Household already interviewed in an earlier submission
+d80ea200-5fcd-42ea-841f-83a5db218697,9873,enum_P_11,partner_p,C03,Household already interviewed in an earlier submission
+35cdae05-c2f7-4316-8c8c-c106f3afd2da,9906,enum_P_25,partner_p,C04,Interview took 8 minutes
+593d3bb2-fc14-4a7b-a815-0ca726acbd52,10092,enum_P_25,partner_p,C04,Interview took 11 minutes
+3ff4dbcd-72d2-441c-95f2-8fe33f650be6,10247,enum_P_23,partner_p,C04,Interview took 11 minutes
+5b5a1e26-e0d5-4b74-96b4-91e13d7524c5,10432,enum_P_16,partner_p,C04,Interview took 9 minutes
+686b7447-5459-4182-bb09-06cb91bf7ff7,10701,enum_P_11,partner_p,C02,Same submission uploaded more than once
+2ecb7200-aa2f-4d97-b48c-b38a7bcf6917,10724,enum_P_18,partner_p,C04,Interview took 7 minutes
+be8a2d33-98f1-422f-9e15-bed0ea187f21,10807,enum_P_08,partner_p,C01,Respondent did not consent
+5d2133ad-30da-493f-a7d8-22d86438fd61,10851,enum_P_14,partner_p,C04,Interview took 5 minutes
+389af034-4315-4146-9063-9b6aa0ad054e,11028,enum_P_18,partner_p,C04,Interview took 7 minutes
+dd7c5228-2d95-4ec5-ae8f-c5a21d1e9cc2,11361,enum_P_07,partner_p,C04,Interview took 8 minutes
+9e781397-d0c4-4d54-82d9-e1626b29639b,11896,enum_P_05,partner_p,C04,Interview took 5 minutes
+09d1c264-1189-4014-b4bd-ff87c80d8cca,12482,enum_P_22,partner_p,C01,Respondent did not consent
+f5174fa2-fd19-4837-a124-9ab5db422624,12880,enum_P_11,partner_p,C02,Same submission uploaded more than once
+913bc1db-bc68-4540-9cc4-54eabb43c157,12996,enum_P_21,partner_p,C04,Interview took 6 minutes
+82f587fe-b2da-4163-8cae-08a805b21788,13169,enum_P_09,partner_p,C01,Respondent did not consent
+6f78538e-fa64-4b51-81f4-299492cfe2e8,13862,enum_P_17,partner_p,C04,Interview took 7 minutes
+12a90c1c-e4b5-4d40-a7ba-2800ea7f2ffb,13921,enum_P_21,partner_p,C04,Interview took 12 minutes
+dbd1d849-c1db-479a-a658-c4f0db7167db,13977,enum_P_01,partner_p,C01,Respondent did not consent
+00b79609-e377-4498-b8b8-d76c36a8fec1,14108,enum_P_23,partner_p,C04,Interview took 12 minutes
+89254064-b35e-4d42-9f3c-db385e42386e,14424,enum_P_03,partner_p,C01,Respondent did not consent
+0229860e-9a6d-45ef-86c6-fa68d40453c9,14813,enum_P_06,partner_p,C04,Interview took 8 minutes
+27c0364d-3b26-4610-88fd-85e4fb1ed229,14828,enum_P_21,partner_p,C01,Respondent did not consent
+aa6288b4-dbcc-4f17-9474-a5ee476e1bca,15185,enum_P_21,partner_p,C04,Interview took 8 minutes
+7c1567c1-bfa9-419b-9975-e11fbe7a5e20,15291,enum_P_10,partner_p,C02,Same submission uploaded more than once
+3e1ecdfa-897f-4428-ae40-df90ecf9ff47,15521,enum_P_15,partner_p,C02,Same submission uploaded more than once
+156112d9-0adc-4e98-88b1-7cc31f007dd7,15567,enum_P_16,partner_p,C03,Household already interviewed in an earlier submission
+0dc52ad3-83e9-4380-94be-910dc51609d1,15608,enum_P_13,partner_p,C01,Respondent did not consent
+dad7f912-0073-436d-aa1d-f1c466ad645f,15651,enum_P_01,partner_p,C04,Interview took 7 minutes
+4a2df21c-5b3b-4c48-aeb5-edfcdf941a99,15815,enum_P_08,partner_p,C04,Interview took 9 minutes
+bbd4c34a-4878-4b80-8c99-b8d2639562fc,15916,enum_P_22,partner_p,C01,Respondent did not consent
+4357260c-9ad2-440c-849d-0fbf7d1f7e9d,15956,enum_P_11,partner_p,C01,Respondent did not consent
+17325959-d15c-4a58-992b-118ab159f927,16121,enum_P_04,partner_p,C01,Respondent did not consent
+da3bda51-9a31-4d0a-a4d7-86e4886b6576,16170,enum_P_21,partner_p,C04,Interview took 8 minutes
+342b8226-bb16-4a30-8500-df22ed3d79a1,16490,enum_P_15,partner_p,C04,Interview took 10 minutes
+d83cc1be-f205-4681-b646-0489eeaca072,16925,enum_P_23,partner_p,C04,Interview took 6 minutes
+c7caffa2-c4fb-4a29-992e-1029fc098542,17106,enum_P_23,partner_p,C04,Interview took 9 minutes
+77089e6f-a6b2-4551-9eb3-30c1dda151b1,17107,enum_P_22,partner_p,C01,Respondent did not consent
+3038bd27-0615-4822-b630-4d05d92983be,17205,enum_P_11,partner_p,C04,Interview took 10 minutes
+6c62b75b-eb86-49f0-b2f2-a0c0c3bd0d38,17450,enum_P_11,partner_p,C04,Interview took 5 minutes
+db0f1e7b-2be2-4f97-bd06-66fcffe1f93e,17569,enum_P_14,partner_p,C04,Interview took 8 minutes
+41d7f11a-b490-4166-8a56-046dfd4239f5,17965,enum_P_07,partner_p,C04,Interview took 5 minutes
+662980b0-946d-4bbe-85a7-576da84010b3,18133,enum_P_18,partner_p,C04,Interview took 7 minutes
+5f96dc77-c6c5-404c-a466-b9dedfd4146d,18242,enum_P_09,partner_p,C01,Respondent did not consent
+6437dcee-c6a1-4f7d-bf32-f1ec5d2b1fa2,18254,enum_P_05,partner_p,C03,Household already interviewed in an earlier submission
+da653fe6-cde8-41ea-b982-41e7309505cf,18371,enum_P_24,partner_p,C04,Interview took 6 minutes
+7db046d2-8d65-4ed9-9d13-545d4ebfd023,18605,enum_P_08,partner_p,C04,Interview took 9 minutes
+f5eae67e-3b11-460e-9cc4-9a302559f29d,18687,enum_P_21,partner_p,C04,Interview took 9 minutes
+1bf2fb4c-e573-497d-be1f-4bd5c04c4db0,18818,enum_P_05,partner_p,C04,Interview took 4 minutes
+2c282a1f-5435-47b7-8820-f4bb6f72257a,18857,enum_P_08,partner_p,C02,Same submission uploaded more than once
+bb9d0aa0-802f-42f2-bf48-ee6d9840feab,18929,enum_P_15,partner_p,C04,Interview took 6 minutes
+36f0f2ba-60f3-411d-81eb-cc6c9be59ffc,19159,enum_P_15,partner_p,C01,Respondent did not consent
+4820ed37-0e86-4889-815b-32b548442c12,19562,enum_P_23,partner_p,C04,Interview took 5 minutes
+2bffceb5-1204-4dc8-9817-8dcb4d524ca8,19569,enum_P_15,partner_p,C01,Respondent did not consent
+3af57587-8ab4-46e6-ba16-c236ffdb9ea3,19759,enum_P_16,partner_p,C01,Respondent did not consent
+c1817ed7-4f46-433c-a8e0-7fac10b0a7be,20107,enum_P_14,partner_p,C01,Respondent did not consent
+732b5da3-6d4e-4efd-9181-e72c2be85cbb,20199,enum_P_24,partner_p,C01,Respondent did not consent
+f1cc833d-093e-496e-9156-c0b626a7b953,20469,enum_P_20,partner_p,C04,Interview took 5 minutes
+30c30c99-881b-4af0-ba34-7b6fba284321,20811,enum_P_12,partner_p,C04,Interview took 9 minutes
+04254a75-dc30-4712-aa98-912db2e7983f,20959,enum_P_17,partner_p,C02,Same submission uploaded more than once
+2b0c8cb6-8499-46ab-87df-25370ea5bd79,21006,enum_P_05,partner_p,C04,Interview took 11 minutes
+1a1bef9b-d235-4b4b-b91d-b0a6896f5b07,21177,enum_P_03,partner_p,C01,Respondent did not consent
+bd852528-6e87-4711-bf61-8613f422098b,21232,enum_P_13,partner_p,C04,Interview took 7 minutes
+02a8e27e-04fe-4ce7-8eac-b73da3d02a0e,21294,enum_P_22,partner_p,C04,Interview took 10 minutes
+0c26e533-8d0a-423a-93fe-1d256ccd8c5e,21908,enum_P_19,partner_p,C04,Interview took 8 minutes
+b66a7367-093c-4901-9e99-0d82595de209,22012,enum_P_14,partner_p,C06,Cluster had been reported inaccessible
+aa73bfb9-0909-4990-a5f8-83bb06776b3e,22017,enum_P_10,partner_p,C01,Respondent did not consent
+e7663cfb-e4db-4a0f-8437-fb4e1f12f774,22066,enum_P_07,partner_p,C05,Cluster code not in the sample
+1adf66a8-77dd-4786-a0ba-c170d0fcf7ac,22124,enum_P_13,partner_p,C04,Interview took 5 minutes
+6781080f-e4b2-4d28-8a09-c400a8631896,22247,enum_P_20,partner_p,C06,Cluster had been reported inaccessible
+97c62010-831e-4f02-9ea7-357ef882b8bf,22460,enum_P_25,partner_p,C05,Cluster code not in the sample
+e46d88db-6612-45b3-9e6a-ff28113e03e9,22471,enum_P_01,partner_p,C06,Cluster had been reported inaccessible
+235f23ac-ed02-48d1-b270-35e3c5c10857,22804,enum_P_23,partner_p,C04,Interview took 9 minutes
+aa0c7763-649b-4042-bdd0-906ff1bc23f4,22808,enum_P_01,partner_p,C04,Interview took 10 minutes
+ea61a8a1-212a-491e-aaf4-fd4b54aa888e,23177,enum_P_17,partner_p,C06,Cluster had been reported inaccessible
+73cd2567-709a-4022-b2de-5233b5695c0e,23397,enum_P_09,partner_p,C04,Interview took 9 minutes
+f79e282c-c5cc-42e5-b086-4ba13d22e3c3,23510,enum_P_20,partner_p,C04,Interview took 6 minutes
+30423768-60af-40f7-acb8-dafad327bcb1,23647,enum_P_04,partner_p,C01,Respondent did not consent
+4c5902eb-2fbb-443a-bc5e-4ca090c3e81c,23674,enum_P_03,partner_p,C04,Interview took 8 minutes
+7799023d-62af-4d53-9c1d-5c19c4ba93a2,23755,enum_P_16,partner_p,C01,Respondent did not consent
+df54caea-0412-4bd4-b0eb-63ed06df20e4,24387,enum_P_03,partner_p,C02,Same submission uploaded more than once
+4e3b59d1-bfcd-4124-a834-03eab6d67c5b,24715,enum_P_26,partner_p,C04,Interview took 5 minutes
+f96b087e-9f08-450e-ae3a-98bf9103577d,24831,enum_P_16,partner_p,C04,Interview took 5 minutes
+38db84e9-321f-4641-9b19-59f71845214c,26680,enum_P_20,partner_p,C01,Respondent did not consent
+566b7134-71fd-4925-a668-6c5313bb89a2,188,enum_Q_01,partner_q,C02,Same submission uploaded more than once
+d683e0b3-55e7-41c6-ad08-0f0d53dbd28c,1059,enum_Q_06,partner_q,C04,Interview took 5 minutes
+4fc72141-8e01-49d8-a4fb-5a3b61fd7b41,1134,enum_Q_20,partner_q,C01,Respondent did not consent
+cf4a5a1b-d920-4c98-b8ae-65750ddac0ed,1154,enum_Q_13,partner_q,C04,Interview took 6 minutes
+3e235357-7c28-4279-b92e-805ffa85f925,1174,enum_Q_01,partner_q,C01,Respondent did not consent
+cf636711-89b4-4e47-85db-9af5403c6424,1530,enum_Q_20,partner_q,C04,Interview took 10 minutes
+9e633714-c602-4336-8163-7b41b2079836,1632,enum_Q_10,partner_q,C04,Interview took 12 minutes
+d77085ab-f12c-4e86-baae-86fca6896d68,1779,enum_Q_10,partner_q,C01,Respondent did not consent
+47b68be7-2d35-4f77-9095-084f977298d5,2103,enum_Q_04,partner_q,C04,Interview took 11 minutes
+dd1cc39f-1181-4dc7-a587-c2a56aefa9b2,2460,enum_Q_14,partner_q,C01,Respondent did not consent
+d62887bc-8a2f-497a-af54-b776edc003a4,2728,enum_Q_19,partner_q,C01,Respondent did not consent
+3d3532cf-52bc-4e35-b381-a1113ff4adbc,2800,enum_Q_20,partner_q,C01,Respondent did not consent
+7b4147e3-c7ea-4718-a98f-98c0f796bff8,3420,enum_Q_20,partner_q,C01,Respondent did not consent
+04fcfa30-d9ea-413b-aada-52b486c48415,3589,enum_Q_20,partner_q,C04,Interview took 12 minutes
+2f385dd0-ddc2-42ad-a55f-535f61992723,4115,enum_Q_09,partner_q,C04,Interview took 4 minutes
+e7828a98-ff0e-4a05-9b55-0adcecd0f6d4,4327,enum_Q_23,partner_q,C01,Respondent did not consent
+79e24928-e340-497b-a954-2711aed44aeb,4422,enum_Q_02,partner_q,C04,Interview took 5 minutes
+2524fd85-6c00-48a2-b9df-11d9c4efa9af,4668,enum_Q_08,partner_q,C04,Interview took 6 minutes
+ea27f8fd-57b2-4f3f-ae9d-c5cce7bf69c4,4761,enum_Q_19,partner_q,C03,Household already interviewed in an earlier submission
+a4312822-46c1-4627-99fd-0f55fa12d573,4843,enum_Q_10,partner_q,C01,Respondent did not consent
+14e64a0a-3a3a-465f-8112-3da06a1a348e,4961,enum_Q_07,partner_q,C02,Same submission uploaded more than once
+08ede736-ad82-4c78-a822-998ffd681521,5138,enum_Q_17,partner_q,C02,Same submission uploaded more than once
+5147ed72-23cd-4d71-a2e1-31f5410e1eb8,5269,enum_Q_02,partner_q,C04,Interview took 5 minutes
+88e6da2b-d053-4bcd-b423-24e680788fdc,5513,enum_Q_20,partner_q,C04,Interview took 5 minutes
+0256e61d-708a-4fd2-adeb-c7a4f2378466,5742,enum_Q_07,partner_q,C04,Interview took 12 minutes
+85f04f3b-4d1c-4f77-b3d4-5e1b23e63551,5773,enum_Q_23,partner_q,C02,Same submission uploaded more than once
+019ade44-d976-4349-ba51-8b7f0eae4908,5834,enum_Q_09,partner_q,C03,Household already interviewed in an earlier submission
+d9209f16-7596-4d7c-9b0b-ce00f6ac4977,5918,enum_Q_15,partner_q,C04,Interview took 7 minutes
+05ce5bec-e5f2-4234-888b-b4625601b9b3,6187,enum_Q_06,partner_q,C05,Cluster code not in the sample
+e074ae17-c7b7-47f1-a18c-20a8de4ea958,6410,enum_Q_24,partner_q,C03,Household already interviewed in an earlier submission
+dc700251-becf-4191-8c50-2407f841a884,7219,enum_Q_08,partner_q,C04,Interview took 8 minutes
+101382e1-f859-4a80-87ce-c93aef9c1400,7510,enum_Q_12,partner_q,C04,Interview took 10 minutes
+7b405f89-21ed-4a43-928e-eb2322b796cc,8070,enum_Q_08,partner_q,C04,Interview took 10 minutes
+f2b60547-5272-4e5a-bd89-654c0b93ddf2,8122,enum_Q_18,partner_q,C01,Respondent did not consent
+459a6010-8792-41ca-b698-b857946fc46c,8719,enum_Q_08,partner_q,C03,Household already interviewed in an earlier submission
+18787aa5-afb7-4d9a-9e3e-3bdce7a2e8bf,8919,enum_Q_13,partner_q,C04,Interview took 9 minutes
+9eec0924-86aa-4e39-ac8e-ced8a0184d14,8937,enum_Q_01,partner_q,C05,Cluster code not in the sample
+40f3db25-436c-4534-96ad-7fea8433acfa,9383,enum_Q_22,partner_q,C01,Respondent did not consent
+c9799df9-2053-4640-9fd9-58e33ff9fcb1,9497,enum_Q_08,partner_q,C02,Same submission uploaded more than once
+c55c0008-97b4-4433-bed1-6b3bae3d0463,9783,enum_Q_08,partner_q,C04,Interview took 9 minutes
+bc428d2f-ad10-421a-9ea2-bac9a2ca169b,10036,enum_Q_02,partner_q,C04,Interview took 5 minutes
+f6db5cca-a954-4bd6-894f-69f36f266b75,10047,enum_Q_21,partner_q,C01,Respondent did not consent
+e851732b-b109-43d2-96ac-d761b17ee3ca,10643,enum_Q_23,partner_q,C03,Household already interviewed in an earlier submission
+2ed455e1-f937-4809-902b-b3823642134b,10675,enum_Q_02,partner_q,C05,Cluster code not in the sample
+19c91baa-3831-472f-a551-5909dc97cebc,10776,enum_Q_19,partner_q,C01,Respondent did not consent
+5fd9d2d8-8a96-4329-9706-5ba26126cffb,10859,enum_Q_21,partner_q,C01,Respondent did not consent
+b44fcc3e-a0cf-4b62-b9ce-1931ec61e7ae,10890,enum_Q_23,partner_q,C01,Respondent did not consent
+763c6037-41e5-47e7-88fa-f4771237b415,10980,enum_Q_09,partner_q,C05,Cluster code not in the sample
+2ac12273-71d2-441d-8c84-1ae0237d7440,11256,enum_Q_08,partner_q,C04,Interview took 6 minutes
+2dc5cc81-5072-476a-825a-679f41c7f24a,11473,enum_Q_03,partner_q,C04,Interview took 12 minutes
+46c9b044-62f7-43ae-86c6-5892563d4b69,11827,enum_Q_03,partner_q,C02,Same submission uploaded more than once
+32e92dec-7a3e-417b-83b5-a61accbf096e,11986,enum_Q_09,partner_q,C04,Interview took 12 minutes
+95152001-ec72-468c-bf55-d01cf501ba13,13023,enum_Q_02,partner_q,C01,Respondent did not consent
+63dcfc82-4735-42f3-a174-83badb723a6a,13025,enum_Q_01,partner_q,C01,Respondent did not consent
+d2168cf8-06fc-45c4-bbc1-ca3002e97510,13224,enum_Q_03,partner_q,C04,Interview took 9 minutes
+38bdaddb-5147-4d88-bfe0-f9daad81517c,13242,enum_Q_05,partner_q,C04,Interview took 10 minutes
+5bd38002-b4a3-4082-92e4-740d334f0708,13252,enum_Q_23,partner_q,C04,Interview took 7 minutes
+33085ca2-98ea-4437-9661-edf47d1b91ac,13798,enum_Q_02,partner_q,C05,Cluster code not in the sample
+6494158a-1e84-4ea1-b1f1-c7202f56723a,13907,enum_Q_17,partner_q,C04,Interview took 4 minutes
+27c65313-8602-4da3-a27e-22c330a8724a,14049,enum_Q_05,partner_q,C01,Respondent did not consent
+4eb00668-c253-4b07-9c0f-8aa0cd0426cc,14204,enum_Q_09,partner_q,C01,Respondent did not consent
+2fa687b8-9383-4739-9ffe-517d0a84170b,14569,enum_Q_23,partner_q,C04,Interview took 6 minutes
+c1884e31-9c02-41dd-b3d3-2f116472f856,14669,enum_Q_12,partner_q,C01,Respondent did not consent
+4bd7ee54-7df5-4ff4-bae8-9ab6f7582c9c,15010,enum_Q_24,partner_q,C01,Respondent did not consent
+3bfb6647-d323-4afe-83ab-f61297b4ee7b,15338,enum_Q_16,partner_q,C04,Interview took 4 minutes
+b36d9fcb-504a-4da4-b03c-a2d912a7e4e5,15529,enum_Q_03,partner_q,C03,Household already interviewed in an earlier submission
+d6a85c2a-105c-42d7-aa5a-96444b79c7b6,15606,enum_Q_22,partner_q,C03,Household already interviewed in an earlier submission
+c92926a3-eed0-496a-a0c7-45b9e892ba1f,15965,enum_Q_13,partner_q,C01,Respondent did not consent
+4016735b-3dd3-4d26-b1ef-af18c4deea6d,16167,enum_Q_08,partner_q,C04,Interview took 10 minutes
+d39c7655-0c3b-44b6-a874-e776ea19441f,16456,enum_Q_04,partner_q,C04,Interview took 11 minutes
+780df966-6448-4b36-aee5-deb04226d7e4,16534,enum_Q_03,partner_q,C04,Interview took 12 minutes
+86f0f8b4-55f3-4543-bed6-df45da225385,16909,enum_Q_07,partner_q,C04,Interview took 10 minutes
+ec28c623-3693-48c8-82f6-1786f8a324bf,16913,enum_Q_03,partner_q,C05,Cluster code not in the sample
+df48ddbe-073a-4a68-b9b8-6298f483cf45,17129,enum_Q_21,partner_q,C04,Interview took 6 minutes
+0d653f46-f3f6-49b4-9506-381bb0db3b0c,17679,enum_Q_17,partner_q,C01,Respondent did not consent
+5afaa8a6-329e-40da-ba6b-3c5802f91837,18187,enum_Q_12,partner_q,C04,Interview took 5 minutes
+4c2b081a-bdc8-40e3-ac61-d83385240120,18798,enum_Q_07,partner_q,C04,Interview took 6 minutes
+a0417f89-f27a-4007-9276-ba30de291b51,19490,enum_Q_17,partner_q,C01,Respondent did not consent
+3af542ec-41ff-4215-835c-e8162526b619,19875,enum_Q_22,partner_q,C01,Respondent did not consent
+685e1649-73b5-4898-a18b-a316b199178c,20378,enum_Q_21,partner_q,C04,Interview took 12 minutes
+d423a652-b941-4d3d-aeee-7da26694cdbc,21159,enum_Q_20,partner_q,C04,Interview took 5 minutes
+47fb4f78-d56f-48ad-b17a-96dfb8555363,21499,enum_Q_14,partner_q,C03,Household already interviewed in an earlier submission
+24d2c5b3-3c3f-4340-b656-49a084e21c67,21570,enum_Q_19,partner_q,C04,Interview took 8 minutes
+ffecb1c1-bb09-4c48-9424-28120626fb68,22113,enum_Q_15,partner_q,C02,Same submission uploaded more than once
+94311830-daa9-46f5-9574-0557596b0c6f,22587,enum_Q_14,partner_q,C04,Interview took 8 minutes
+fecbfc0f-6407-4111-9674-fe95c5be6f6e,23834,enum_Q_21,partner_q,C04,Interview took 5 minutes
+8254accc-63f6-4f6f-807d-814d79ca9e54,24362,enum_Q_21,partner_q,C04,Interview took 11 minutes
+4df169f0-1018-4426-8dd2-c09ea5dd6960,24647,enum_Q_14,partner_q,C04,Interview took 7 minutes
+222eb40a-e778-40b8-bef0-9dba744529ca,24719,enum_Q_08,partner_q,C01,Respondent did not consent
+eeb01e17-f786-4364-a8b1-fc371e03cbf0,25207,enum_Q_07,partner_q,C01,Respondent did not consent
+54b108df-3414-4caf-a3bd-6eb80086c4d4,25613,enum_Q_17,partner_q,C04,Interview took 5 minutes
+4f2d7086-32c2-485a-8b12-d068cbc06cd1,25621,enum_Q_08,partner_q,C01,Respondent did not consent
+40beb3b2-c7e5-4c74-a56a-4785aa1d4896,26448,enum_Q_18,partner_q,C01,Respondent did not consent
+3cb3fcee-c489-4774-8825-d00dd9d98721,26633,enum_Q_11,partner_q,C01,Respondent did not consent
+bce2a2be-76a5-4be4-b870-5b8112fbf0b9,26635,enum_Q_12,partner_q,C04,Interview took 11 minutes
+4c3f45c2-6be4-4a90-956a-2a5cabf56a40,123,enum_S_04,partner_s,C04,Interview took 4 minutes
+dc196719-fb20-462c-95c6-786a29519dd1,146,enum_R_02,partner_r,C01,Respondent did not consent
+e2952087-af40-48a4-a117-c50ee2cf01ab,327,enum_S_17,partner_s,C04,Interview took 4 minutes
+4983850f-ab78-4b74-97cc-2d0038873142,359,enum_S_08,partner_s,C04,Interview took 8 minutes
+e1c1d368-2630-433e-b504-19809b9a90a4,431,enum_S_03,partner_s,C01,Respondent did not consent
+6cb08556-ee4a-4d45-88bf-49ca8c864008,438,enum_R_01,partner_r,C04,Interview took 11 minutes
+4e28cea8-e12c-4dbe-b7fa-c4b20bb84498,457,enum_R_09,partner_r,C01,Respondent did not consent
+2ed8b528-c66d-4e05-b8a1-2aa39d9fe30e,653,enum_S_04,partner_s,C01,Respondent did not consent
+88e96176-6b99-4f69-8560-047af3411a19,658,enum_R_02,partner_r,C03,Household already interviewed in an earlier submission
+35d64954-9853-460a-9672-cfa0d9abd671,725,enum_R_09,partner_r,C04,Interview took 6 minutes
+0928d8e4-219d-406f-bc2b-edfcfefc4228,838,enum_R_10,partner_r,C04,Interview took 12 minutes
+162dfa15-6385-4484-8166-ec886ff02514,1066,enum_R_09,partner_r,C03,Household already interviewed in an earlier submission
+f0cd9f13-23f1-4a98-bd68-2feb99bf30cf,1155,enum_S_07,partner_s,C04,Interview took 6 minutes
+cd83ca21-29a4-4f5f-92eb-843f4ee9f477,1577,enum_R_01,partner_r,C04,Interview took 5 minutes
+9d82f735-b6bc-4f67-9ec4-d57d2bdc50a5,1781,enum_R_14,partner_r,C04,Interview took 6 minutes
+fe6f5fea-a011-4e7b-aa98-df4d51f0aa9b,1958,enum_S_08,partner_s,C02,Same submission uploaded more than once
+f58b8f6e-6819-42b0-a7c9-c284354c72b9,2190,enum_S_04,partner_s,C01,Respondent did not consent
+bebd13c7-7ecd-4474-840f-459e420ec4de,2376,enum_R_11,partner_r,C03,Household already interviewed in an earlier submission
+57dd42ed-84b0-4a41-97ba-d7e9705c8f95,2386,enum_R_10,partner_r,C04,Interview took 9 minutes
+b0165856-28bc-4b30-9f85-44ccf6296763,3184,enum_R_13,partner_r,C03,Household already interviewed in an earlier submission
+778f4d39-879b-4947-9994-4ddd381dec83,3277,enum_R_08,partner_r,C01,Respondent did not consent
+91c2b887-8db0-4388-970b-26c3d0bac152,3280,enum_R_02,partner_r,C04,Interview took 7 minutes
+ca02741e-b481-4b4d-a8e4-a400c1befe3f,3361,enum_R_11,partner_r,C01,Respondent did not consent
+a12e8306-290c-488b-8dde-767c1a7e2daf,3509,enum_R_11,partner_r,C01,Respondent did not consent
+8d3321aa-0c50-463d-89e3-31cb91060ee5,3764,enum_R_06,partner_r,C05,Cluster code not in the sample
+7f27553c-7510-424a-8b7f-6a1eb2e1661e,4511,enum_R_08,partner_r,C04,Interview took 8 minutes
+a1596b49-1ad9-4742-a26e-8b8097bbd3e5,4865,enum_R_11,partner_r,C01,Respondent did not consent
+f5c93d67-7969-4868-9640-6a8b2ce1a6b6,4878,enum_R_07,partner_r,C01,Respondent did not consent
+f5391cb5-1bb6-4a4a-8765-2c09e0b42762,4910,enum_R_06,partner_r,C01,Respondent did not consent
+41b03efc-16d7-4d6a-aa75-4a7baf2492a2,4976,enum_R_11,partner_r,C04,Interview took 9 minutes
+adf4b302-188e-4b28-83f4-d6f3908713fa,5221,enum_R_10,partner_r,C01,Respondent did not consent
+83f4541b-093d-4ec3-b5df-dbe0111003eb,5507,enum_R_11,partner_r,C01,Respondent did not consent
+eac38f6d-4e1e-40e6-b647-fe580134dbf9,5867,enum_S_14,partner_s,C04,Interview took 6 minutes
+6216b654-1076-472c-a80e-d841c30bc0f5,6331,enum_R_16,partner_r,C01,Respondent did not consent
+9c10fcfb-c2c9-4733-a985-74c1dade87c3,6446,enum_R_02,partner_r,C01,Respondent did not consent
+a8ee269e-424d-4938-98ca-55bcc3728580,6578,enum_S_05,partner_s,C01,Respondent did not consent
+fb27e08f-0354-4470-8bad-1491b2b57768,6717,enum_S_18,partner_s,C03,Household already interviewed in an earlier submission
+2bfefcf1-f230-4a11-ba08-d9dc68d9e2f9,6924,enum_R_12,partner_r,C04,Interview took 8 minutes
+0b2b3c7a-aeb0-458e-a1a3-7c07b21defb4,6981,enum_S_13,partner_s,C04,Interview took 7 minutes
+68e3b06e-0a14-45ed-a587-2b7c9509dfb4,7009,enum_S_11,partner_s,C01,Respondent did not consent
+a04b0696-65c0-473f-81e3-555c14847da1,7117,enum_R_06,partner_r,C04,Interview took 7 minutes
+46d929ee-914b-4c08-ad05-5e374971b601,7156,enum_R_04,partner_r,C04,Interview took 11 minutes
+87e0dd1d-be5c-4337-b9de-8a1e1d4412d5,7769,enum_R_13,partner_r,C03,Household already interviewed in an earlier submission
+82e4b553-ead0-4395-be11-ef323a12f6ac,7873,enum_R_16,partner_r,C04,Interview took 12 minutes
+8b916c17-35fe-429a-9d7a-9d9f40318927,8200,enum_S_03,partner_s,C02,Same submission uploaded more than once
+b19814ce-f8a6-480f-be77-a4c2800df2e3,8357,enum_S_16,partner_s,C04,Interview took 9 minutes
+41be14d0-31ea-4a5c-bddb-c2b2b8d1c39d,8481,enum_R_16,partner_r,C04,Interview took 8 minutes
+480a70b2-18af-4f67-a466-c2fd65c7274a,8575,enum_S_08,partner_s,C01,Respondent did not consent
+8e9f6def-1956-4913-bbb1-7c393fae1b11,8894,enum_S_08,partner_s,C04,Interview took 12 minutes
+dfd63b27-0d57-4778-8cea-2c7cd9b817ed,8898,enum_R_18,partner_r,C01,Respondent did not consent
+7098b5de-85fa-4f0e-a045-9db3d9a6e291,8951,enum_S_02,partner_s,C02,Same submission uploaded more than once
+9f78072e-564c-4b01-9e76-f253bfe6cb8f,8978,enum_S_10,partner_s,C04,Interview took 7 minutes
+bdee5029-1ca2-46fe-83a7-a7105f72915f,9024,enum_S_04,partner_s,C04,Interview took 9 minutes
+f5ca123d-6f78-44c7-bc02-89e9e4f71f39,9196,enum_R_09,partner_r,C01,Respondent did not consent
+30209fc8-ecb3-4b0d-b6c1-2f9fafcf965e,9205,enum_S_06,partner_s,C04,Interview took 11 minutes
+a7e98422-0f3c-4ae1-929a-2579d55b0ddd,9260,enum_R_14,partner_r,C01,Respondent did not consent
+98231408-712a-4e1c-9300-491a6bcecbb3,9586,enum_S_09,partner_s,C01,Respondent did not consent
+71393a1e-1a1c-44dc-8345-984164269d89,9607,enum_S_01,partner_s,C04,Interview took 10 minutes
+2c485e29-370d-40b7-a758-8d55baac33cd,9646,enum_S_04,partner_s,C01,Respondent did not consent
+3d269707-c44c-44be-9566-06e4ccb393eb,9876,enum_S_03,partner_s,C01,Respondent did not consent
+0c338df4-fc5d-4b7d-8530-fc43894e51ce,10056,enum_S_16,partner_s,C05,Cluster code not in the sample
+6b43a151-ee63-4250-8c72-a435e94cfd78,10187,enum_S_14,partner_s,C01,Respondent did not consent
+5bcb2f99-3bce-4940-984f-8b4cf3082869,10267,enum_S_01,partner_s,C04,Interview took 6 minutes
+efc9f9ce-231b-4376-ace4-429b96c376a1,10317,enum_R_15,partner_r,C04,Interview took 5 minutes
+a29224dc-0ea0-47b9-b60a-5ffc8a6cfd31,10352,enum_S_12,partner_s,C04,Interview took 11 minutes
+190c4785-25f9-4ab7-b69c-6637dfd820f9,10505,enum_S_11,partner_s,C01,Respondent did not consent
+1f736818-4251-4680-8fab-1af79c46e6de,10548,enum_S_05,partner_s,C04,Interview took 5 minutes
+c5cb103d-30bc-4a72-aa5c-d774766a7655,10695,enum_R_16,partner_r,C01,Respondent did not consent
+f3917c95-1596-4940-9cb3-a4aca6803cbf,10937,enum_S_14,partner_s,C04,Interview took 8 minutes
+4c1102ab-d00c-45a9-b36a-5f5c05aa9a10,10981,enum_S_11,partner_s,C04,Interview took 10 minutes
+edb00d99-a675-464b-8e10-5be28af84889,11539,enum_S_15,partner_s,C01,Respondent did not consent
+e76737ec-bc10-47c6-86d1-d0f3a3d5e3ce,11823,enum_R_12,partner_r,C01,Respondent did not consent
+6360e12c-ce08-4526-b870-6d71271cad38,11825,enum_S_12,partner_s,C04,Interview took 9 minutes
+083cfaa6-0ea9-4d6c-9f4f-8418c6a38606,11976,enum_R_03,partner_r,C05,Cluster code not in the sample
+afb15a48-36bb-4e4f-98ec-648005912dec,12061,enum_S_18,partner_s,C04,Interview took 10 minutes
+f876c0a9-3ecc-4bf3-b6f3-b0bf2160fc54,12223,enum_R_18,partner_r,C01,Respondent did not consent
+c2c504c1-11f9-4b8e-831e-c4578b7615d6,12409,enum_S_15,partner_s,C04,Interview took 9 minutes
+2832209e-64be-4879-8e75-2269db35015f,12425,enum_R_18,partner_r,C02,Same submission uploaded more than once
+25dc12af-3b50-4b43-9afc-afe52a302772,12799,enum_R_06,partner_r,C04,Interview took 9 minutes
+526a226c-7a2f-4d6b-b45f-73aba29fd1f2,13054,enum_S_05,partner_s,C04,Interview took 12 minutes
+061c1806-bd3d-4b8c-9573-a54103d185da,13148,enum_R_15,partner_r,C01,Respondent did not consent
+7dad385e-0fe3-4d5f-b7b9-7307411ce201,13253,enum_R_14,partner_r,C01,Respondent did not consent
+ab3c60d7-a8bd-4cba-9779-a618e7d88de8,13601,enum_S_11,partner_s,C01,Respondent did not consent
+9808be97-264e-4e67-b7b0-860966812ee4,13687,enum_R_10,partner_r,C04,Interview took 11 minutes
+efdc6950-9ff6-441e-8b57-4970a48baaeb,13769,enum_S_08,partner_s,C03,Household already interviewed in an earlier submission
+4ed00fa9-e435-408e-9030-e123646d6a1e,13961,enum_R_03,partner_r,C04,Interview took 10 minutes
+b5c431ce-ed8e-452f-8ec0-03f0e77f111f,13973,enum_R_08,partner_r,C04,Interview took 12 minutes
+9b8aa718-b6a4-4b18-b412-07adc145fc04,14211,enum_S_14,partner_s,C01,Respondent did not consent
+a7fe5ebd-85fc-4b15-9395-22ea3063857f,14547,enum_R_05,partner_r,C04,Interview took 5 minutes
+d94bd375-5a90-4ba8-b147-b420071156e6,14662,enum_R_16,partner_r,C01,Respondent did not consent
+61bfa975-465e-4d4e-8b50-d0886e43487a,14666,enum_S_10,partner_s,C04,Interview took 11 minutes
+cbf49167-ccfb-4101-b6df-3c823c46bbfe,14914,enum_S_04,partner_s,C04,Interview took 5 minutes
+0dfbd5bf-d69c-4034-8688-2106110d50b7,15154,enum_S_03,partner_s,C04,Interview took 11 minutes
+636c52ce-7b75-41a8-828b-376195b87852,15190,enum_R_10,partner_r,C01,Respondent did not consent
+25495cf7-8cb3-42e1-b09f-edda22b86c2a,15230,enum_S_01,partner_s,C01,Respondent did not consent
+bf70b474-fe9a-4c9a-b975-5f20a0dbd6e2,15676,enum_R_05,partner_r,C03,Household already interviewed in an earlier submission
+949374e2-05d1-4caa-bf39-c1dc40ab8c0c,16023,enum_R_04,partner_r,C04,Interview took 7 minutes
+f752e271-3548-4e97-9dc4-e34c12aef245,16340,enum_S_01,partner_s,C03,Household already interviewed in an earlier submission
+901d8488-a6dd-4c45-9cff-48b09e3d4101,16356,enum_R_18,partner_r,C04,Interview took 11 minutes
+2c7232e1-f2a9-461b-b3d0-88ca27b46d41,16943,enum_S_05,partner_s,C01,Respondent did not consent
+a3c94e9b-07bb-4879-af8c-d8fa929c4d88,17005,enum_R_14,partner_r,C04,Interview took 12 minutes
+e4972b58-ade8-49e7-88ef-585a49d9f901,17466,enum_R_14,partner_r,C04,Interview took 6 minutes
+78965987-9b92-4f7f-a6e4-8c1600d37e05,17842,enum_S_18,partner_s,C01,Respondent did not consent
+6acd1510-6f98-4b7c-83ca-3fd4aebeec10,17966,enum_R_02,partner_r,C04,Interview took 7 minutes
+31183f5d-ae87-45d4-9544-dddfaeb0ae00,17977,enum_S_09,partner_s,C04,Interview took 7 minutes
+43977bc4-434a-4368-badf-35168fb12814,18307,enum_S_16,partner_s,C04,Interview took 9 minutes
+3a813259-16a0-40e8-8b8b-a727fb4085e7,18347,enum_R_04,partner_r,C04,Interview took 8 minutes
+856f70a5-1876-4dec-8774-7aa5bd9cfb34,18800,enum_S_18,partner_s,C01,Respondent did not consent
+e0922582-08d8-4752-afeb-9262acb165aa,18937,enum_R_15,partner_r,C04,Interview took 6 minutes
+ef42ffd7-23b1-4d17-86df-a7e9a4385715,19613,enum_S_14,partner_s,C04,Interview took 11 minutes
+51fbe71b-a1d3-4873-876a-824933451315,19850,enum_R_07,partner_r,C04,Interview took 8 minutes
+b29076f6-3fa4-4134-bf1c-9d8414c15f1d,20110,enum_R_08,partner_r,C04,Interview took 6 minutes
+a46e08b5-42e5-4cfd-a65d-2d2def78f6b2,20170,enum_S_10,partner_s,C03,Household already interviewed in an earlier submission
+192f837c-993b-4b84-8830-efbd9f6cd697,20236,enum_S_06,partner_s,C01,Respondent did not consent
+176d2827-74b6-4afb-940e-1b634e6d60ba,20573,enum_R_04,partner_r,C01,Respondent did not consent
+76d84aa6-8f50-4c5a-8095-f7b2c358dc8d,20972,enum_S_14,partner_s,C04,Interview took 11 minutes
+0fe5c484-0716-4ce6-a2b1-bb196ff31b1d,21109,enum_R_08,partner_r,C01,Respondent did not consent
+e7260143-60f7-464d-a359-39ba10ff6eb8,21361,enum_R_04,partner_r,C04,Interview took 11 minutes
+9f41a522-d121-44cf-a8da-93e1d43bab35,21525,enum_S_18,partner_s,C04,Interview took 9 minutes
+ca97b50a-b61b-4802-9a91-2cd915ea4d8b,21932,enum_S_12,partner_s,C01,Respondent did not consent
+f402bc4e-9194-40a2-905c-0bc750b3327f,21999,enum_S_17,partner_s,C04,Interview took 10 minutes
+30c9ffe9-7d4a-47e0-a563-fb1e7981c9e1,22007,enum_S_10,partner_s,C01,Respondent did not consent
+76bfcde5-85fb-46ed-9422-c49a79eaff15,22312,enum_S_16,partner_s,C04,Interview took 8 minutes
+5f4a4d68-1ba0-41fa-9840-6536f734c72b,22511,enum_R_05,partner_r,C01,Respondent did not consent
+dca7fcdf-350b-4183-997d-950651da3d61,22520,enum_S_06,partner_s,C01,Respondent did not consent
+858be0d9-e117-4083-9c7e-417fd562ea77,22750,enum_R_02,partner_r,C04,Interview took 10 minutes
+de5ee080-bbde-4d03-9aed-97ae9d3292f6,22806,enum_R_08,partner_r,C01,Respondent did not consent
+528e8150-d476-411f-9e35-959b8fc026ed,22883,enum_R_18,partner_r,C01,Respondent did not consent
+53e64bf6-cbc0-43f5-b030-febc199e60c0,22952,enum_S_14,partner_s,C04,Interview took 9 minutes
+3f62aee8-4095-49fe-8038-0f2c0271ad71,22963,enum_S_15,partner_s,C04,Interview took 8 minutes
+ddb612fc-ed18-410d-a260-78094dce5fee,22985,enum_R_18,partner_r,C03,Household already interviewed in an earlier submission
+d06e3e4b-e7aa-4166-b950-b29f2fdbdf4e,23003,enum_S_03,partner_s,C04,Interview took 6 minutes
+1573ee50-0574-4b49-ac05-6011d15cfd5c,23220,enum_S_03,partner_s,C01,Respondent did not consent
+0eb76645-e346-4a5e-9dfe-deeb2d80d0b1,23344,enum_S_04,partner_s,C05,Cluster code not in the sample
+ab973afe-c48c-4ad3-98ae-65b65238fc03,23373,enum_S_17,partner_s,C03,Household already interviewed in an earlier submission
+bd08c1a8-60f7-467a-bec2-76980da248f7,23431,enum_R_03,partner_r,C04,Interview took 7 minutes
+8f7a6fee-a5e1-4897-9bb2-5bb82675af87,23527,enum_S_12,partner_s,C01,Respondent did not consent
+13f5f2a0-ed4a-401b-953e-ffbb7d7b8681,23746,enum_S_18,partner_s,C01,Respondent did not consent
+78769ebc-d96d-4452-b000-0847fcc1e8ae,23767,enum_S_16,partner_s,C01,Respondent did not consent
+8b29272f-7c35-473a-9756-ae7d14e879bd,23958,enum_R_07,partner_r,C01,Respondent did not consent
+ec0e9694-fe0f-4190-ac05-5e44d9aaa015,24336,enum_S_16,partner_s,C01,Respondent did not consent
+e1936316-ec80-4fd3-88d5-e9f4f5c18b67,24776,enum_R_03,partner_r,C04,Interview took 6 minutes
+ca4859be-a96a-42be-8748-b2c3e6ac99d9,24927,enum_S_04,partner_s,C04,Interview took 6 minutes
+30ceacf5-30fd-432a-9dcd-3940a27fde6c,25205,enum_R_15,partner_r,C01,Respondent did not consent
+01c0440d-176c-4252-8f0a-82dbfd4277fb,25251,enum_R_16,partner_r,C01,Respondent did not consent
+4cdfb3ee-3695-4428-943e-bd78a399d187,25495,enum_S_09,partner_s,C01,Respondent did not consent
+c7fef9c1-4bdd-4d49-80c4-54f1f03f2016,25782,enum_S_04,partner_s,C01,Respondent did not consent
+0c470a7b-a65c-400f-a460-a25164a0793d,25810,enum_R_15,partner_r,C01,Respondent did not consent
+737121f1-31d6-4a3e-9b7b-4f5a84b1a7cb,26098,enum_S_09,partner_s,C03,Household already interviewed in an earlier submission
+b5074704-729f-449d-b6cc-547ace62bc51,26167,enum_R_15,partner_r,C02,Same submission uploaded more than once
+0676cec8-0b17-4ed1-9c94-b6dea4b66c24,26241,enum_R_16,partner_r,C04,Interview took 6 minutes
+811ef676-465a-4713-ad5c-8c95346350c9,26259,enum_R_16,partner_r,C04,Interview took 10 minutes
+a234081f-ab17-4454-9aea-6ebdf3e63619,26282,enum_R_05,partner_r,C01,Respondent did not consent
+169537eb-692c-4ce2-88c3-90bcea7081d4,26308,enum_R_17,partner_r,C01,Respondent did not consent
+bf7c77cf-b7fa-4454-a9b1-e1c5d8eb1320,26319,enum_S_09,partner_s,C04,Interview took 10 minutes
+d145d991-cf2e-43ee-9b7c-cfec6e88ef6e,26367,enum_R_15,partner_r,C04,Interview took 7 minutes
+75728770-c30f-45d0-9516-10668a5e25af,26539,enum_S_04,partner_s,C01,Respondent did not consent
+4b26b27e-b819-442d-bf23-9d40b08a440d,26651,enum_S_10,partner_s,C02,Same submission uploaded more than once
+77d08883-c289-4f83-b9b0-e7cefaeb4adf,26674,enum_R_18,partner_r,C04,Interview took 8 minutes
+057f8080-e70e-43e4-a88a-ff42e53f5b24,26810,enum_R_05,partner_r,C01,Respondent did not consent
+f78b3908-1051-44b0-8e68-64d9e5b09912,26897,enum_R_05,partner_r,C04,Interview took 5 minutes
+38b97d32-f002-4b15-bc21-e8e9896b1676,100,enum_T_20,partner_t,C02,Same submission uploaded more than once
+54921ea3-571d-43da-ab39-9b5952f5ae0e,141,enum_T_32,partner_t,C04,Interview took 13 minutes
+99d10087-442f-43c7-9567-5f32362f509a,344,enum_T_29,partner_t,C04,Interview took 6 minutes
+a149cc9e-056d-4cb0-adce-940658825b4d,459,enum_T_19,partner_t,C04,Interview took 9 minutes
+53caed12-4ccf-48d7-835a-8bf3f80f617d,527,enum_T_27,partner_t,C04,Interview took 10 minutes
+a7436ec5-4d9b-4291-bb70-46ef1e1b9ea7,969,enum_T_20,partner_t,C03,Household already interviewed in an earlier submission
+b7c4295c-22c2-4177-8915-7abb303ecceb,979,enum_T_32,partner_t,C04,Interview took 15 minutes
+4cc3578d-8894-4baa-8af2-48f9bec9b656,1019,enum_T_10,partner_t,C04,Interview took 10 minutes
+b611f6ac-cef2-4688-b8ac-50194e07f001,1050,enum_T_32,partner_t,C04,Interview took 14 minutes
+f4a63093-0f62-4e35-9dd9-434b21a9c6b3,1313,enum_T_28,partner_t,C01,Respondent did not consent
+b62c0367-a019-43ae-8760-e5903a6dee02,1524,enum_T_09,partner_t,C01,Respondent did not consent
+c374a5ce-eed3-4545-b450-369446f6c515,2253,enum_T_05,partner_t,C01,Respondent did not consent
+928e6b46-b7a2-42e2-a65d-c5bf55d1fb13,2791,enum_T_16,partner_t,C04,Interview took 8 minutes
+6d017cde-7ee8-44ff-9d95-4ab6baa0bf34,3267,enum_T_12,partner_t,C03,Household already interviewed in an earlier submission
+8edf70f5-a87f-43a3-910e-46f71046545f,3272,enum_T_32,partner_t,C04,Interview took 12 minutes
+aee74c2d-e544-4680-a623-d9b854b0c6ff,3482,enum_T_03,partner_t,C05,Cluster code not in the sample
+7f8d8eb9-91f0-4a17-8ac8-7e9d527a4fd6,3556,enum_T_15,partner_t,C01,Respondent did not consent
+a597c53e-8d87-4fa0-b887-c878ce0b99c9,3575,enum_T_23,partner_t,C01,Respondent did not consent
+ead187e5-d293-4d6b-8993-afca02949fc4,4017,enum_T_12,partner_t,C03,Household already interviewed in an earlier submission
+3c928525-59aa-44d8-8341-df70cca0d884,4037,enum_T_03,partner_t,C03,Household already interviewed in an earlier submission
+1c6b42de-cab5-4a01-91da-401356abc719,4177,enum_T_05,partner_t,C04,Interview took 8 minutes
+5fc60800-ee7a-4be7-8515-bdc40e1f6de4,4753,enum_T_14,partner_t,C03,Household already interviewed in an earlier submission
+62f97101-5fc9-4a05-b68c-655531865d9a,4808,enum_T_25,partner_t,C01,Respondent did not consent
+06b82ab7-1eca-4675-b51c-81eb2e7815a8,4810,enum_T_15,partner_t,C01,Respondent did not consent
+82b17241-2101-4ad3-9e91-66a1096c0ef2,4852,enum_T_10,partner_t,C01,Respondent did not consent
+c7557cc3-5129-4f5d-a615-068f78c5f172,4969,enum_T_20,partner_t,C04,Interview took 7 minutes
+b8de41a4-b9fd-43da-9a59-0ae88f437f86,4981,enum_T_30,partner_t,C01,Respondent did not consent
+e66d84cc-676a-4a72-a354-44f5a7c20218,5007,enum_T_29,partner_t,C04,Interview took 12 minutes
+4dc56b72-94de-4164-8dac-c225f8f04dcb,5243,enum_T_15,partner_t,C04,Interview took 5 minutes
+83f594ce-f021-410e-ac71-d6b45b723527,5273,enum_T_29,partner_t,C01,Respondent did not consent
+328b500d-85d1-4beb-b09c-ac832d1dc02b,5383,enum_T_32,partner_t,C04,Interview took 15 minutes
+100122a6-e510-43ca-a90a-c822d763834b,5452,enum_T_05,partner_t,C01,Respondent did not consent
+5a2b5d24-d189-4923-89b2-2e721c5aa02c,5497,enum_T_21,partner_t,C04,Interview took 10 minutes
+8be65a26-3209-4c9a-927e-9e29de920eaa,5843,enum_T_08,partner_t,C01,Respondent did not consent
+b6382226-5dd3-43ef-9d48-0753fddfc8de,5849,enum_T_08,partner_t,C05,Cluster code not in the sample
+dfb6a9ec-3e10-4221-b31d-685f363ed5f6,5892,enum_T_32,partner_t,C04,Interview took 14 minutes
+d3b57eae-2218-4dc4-b28b-0233732a5b5d,6239,enum_T_15,partner_t,C01,Respondent did not consent
+0d8de73a-5708-4cb4-9a7a-07a90ff0dd01,6264,enum_T_31,partner_t,C04,Interview took 6 minutes
+4922bb80-9b17-41c6-8509-a8b01c6466f0,6302,enum_T_20,partner_t,C01,Respondent did not consent
+4df733de-85af-4285-9295-d07574a05a98,6551,enum_T_01,partner_t,C02,Same submission uploaded more than once
+697807d3-31d7-4a6b-a584-5fee56932add,6860,enum_T_15,partner_t,C04,Interview took 6 minutes
+c0ada893-61f2-4a57-a4bc-744642dd4928,6922,enum_T_14,partner_t,C01,Respondent did not consent
+afe3bf4e-f69a-452b-9b9d-e3b1192d81a5,7212,enum_T_19,partner_t,C04,Interview took 4 minutes
+9fca6304-585f-4a28-969d-29a2b619902a,7597,enum_T_23,partner_t,C05,Cluster code not in the sample
+030e70ab-2f7e-4c1b-9d32-fb6d2477dd38,7880,enum_T_32,partner_t,C04,Interview took 14 minutes
+5904d4af-7918-45f0-a94a-bde4d92efe7f,7970,enum_T_23,partner_t,C01,Respondent did not consent
+1fabca1c-a273-4e89-9245-4d70645e9a8a,8076,enum_T_32,partner_t,C04,Interview took 12 minutes
+e163aab3-6bd2-403e-8560-17714f65f2db,8417,enum_T_22,partner_t,C04,Interview took 6 minutes
+fd1bfb5d-653f-46b9-8822-411510c268b4,8487,enum_T_04,partner_t,C01,Respondent did not consent
+fff7f422-287a-41aa-8a58-9aaa3985fb40,8975,enum_T_18,partner_t,C05,Cluster code not in the sample
+85c84612-cbe6-4b14-bd5d-3d228e4a07de,9020,enum_T_05,partner_t,C01,Respondent did not consent
+dd4ce071-1bcb-42c5-a637-14ba4ddec118,9909,enum_T_19,partner_t,C01,Respondent did not consent
+8fc3f207-131e-4b39-85e2-bb60d50be183,9989,enum_T_02,partner_t,C01,Respondent did not consent
+63e2a522-d02e-4454-9571-62ebaf2bc543,10048,enum_T_30,partner_t,C05,Cluster code not in the sample
+139c6789-a589-4ac7-bd72-3dbd37bd6ce0,10216,enum_T_30,partner_t,C04,Interview took 7 minutes
+ced9e54f-c60e-4566-98bb-51eb56b8eb23,10395,enum_T_10,partner_t,C01,Respondent did not consent
+9b817460-faf1-402f-b162-3877336853d6,10473,enum_T_08,partner_t,C01,Respondent did not consent
+9d467851-4489-4f79-b495-ca84a3d503c3,10603,enum_T_29,partner_t,C04,Interview took 10 minutes
+91ddcea6-014e-4f1a-843d-9640f704523e,11090,enum_T_11,partner_t,C02,Same submission uploaded more than once
+3452c2a4-2b38-4ee9-a2f4-13edbc50fd4f,11134,enum_T_15,partner_t,C04,Interview took 8 minutes
+ae2067cb-4f66-4490-bd30-c011d3dcff07,11326,enum_T_27,partner_t,C04,Interview took 8 minutes
+5267cee2-5d7d-49a1-9ebf-99dcbbf7ef2f,11332,enum_T_32,partner_t,C04,Interview took 14 minutes
+3c0f7de4-2d5c-488c-8eb9-47fda316e814,11859,enum_T_29,partner_t,C04,Interview took 12 minutes
+7f767cfe-0e6d-44a3-afd6-3e0a10db6e71,12097,enum_T_11,partner_t,C04,Interview took 7 minutes
+dd794237-ac2f-4459-8f2a-31f106245d3f,12180,enum_T_28,partner_t,C04,Interview took 11 minutes
+1b3e314f-9d0d-40fa-9f8b-af3627c1ac62,12296,enum_T_27,partner_t,C04,Interview took 6 minutes
+a87e6a62-b124-4a5d-aa87-834db98bbf03,12369,enum_T_11,partner_t,C04,Interview took 7 minutes
+26d9631b-c624-4f17-84e8-27d2931c8227,12378,enum_T_16,partner_t,C04,Interview took 4 minutes
+27f6089a-117b-417c-8e7c-12f17af346d2,12545,enum_T_08,partner_t,C01,Respondent did not consent
+91971869-a102-4b08-858c-72bf33a777b3,12837,enum_T_03,partner_t,C04,Interview took 10 minutes
+51c8eab5-4058-45b3-b68d-faca7e3ac54f,12838,enum_T_14,partner_t,C04,Interview took 11 minutes
+7916d8f7-c631-4e5f-b9dd-bdc60e780e59,12883,enum_T_32,partner_t,C04,Interview took 14 minutes
+7209025f-e86b-4ba6-baf4-040aac213a10,12960,enum_T_09,partner_t,C04,Interview took 7 minutes
+ff91a668-48e6-40c2-bcaf-91423fd64b7c,13004,enum_T_32,partner_t,C04,Interview took 15 minutes
+51709bfd-ca67-4bab-a9ac-eb31a3d34f53,13268,enum_T_29,partner_t,C04,Interview took 8 minutes
+0fd915ec-39a7-44b3-ae67-16d01fc43ced,13930,enum_T_10,partner_t,C01,Respondent did not consent
+1efbb084-3775-4350-aa62-26918f2064c7,14119,enum_T_02,partner_t,C01,Respondent did not consent
+1b847cb0-3187-424e-bff8-22899ab5d252,14192,enum_T_31,partner_t,C02,Same submission uploaded more than once
+ce61a558-65e6-40b6-9ba5-0f4c0ab830db,14836,enum_T_11,partner_t,C04,Interview took 10 minutes
+8c4c8fca-e848-4c0c-9a01-d7e995e6fcb6,15327,enum_T_04,partner_t,C01,Respondent did not consent
+c90ebb65-fd7f-4a30-9712-116388f58dd5,15450,enum_T_15,partner_t,C01,Respondent did not consent
+7c99bde3-61bd-430d-9fd7-f1e2e7ca751f,15530,enum_T_27,partner_t,C01,Respondent did not consent
+835309a7-2d91-4e7e-9aa3-e9aa5044e312,15787,enum_T_24,partner_t,C01,Respondent did not consent
+9544b37d-5f73-4a56-91d8-0a59bb30746e,15853,enum_T_30,partner_t,C04,Interview took 6 minutes
+b909adce-934e-4689-827a-f4461743d7e0,15980,enum_T_12,partner_t,C04,Interview took 6 minutes
+17a03df9-cf64-4ba0-9093-694c7dc93da5,16072,enum_T_24,partner_t,C04,Interview took 9 minutes
+c0307398-cc16-4bed-a260-a56a958ef802,16784,enum_T_10,partner_t,C03,Household already interviewed in an earlier submission
+d09a2962-f372-4fa1-93e0-0095c7e653e9,16942,enum_T_16,partner_t,C01,Respondent did not consent
+69070dc5-b475-4d08-97df-9f1889434f44,16966,enum_T_03,partner_t,C01,Respondent did not consent
+57135688-8117-4f41-9879-8772f5101765,16971,enum_T_27,partner_t,C04,Interview took 9 minutes
+ee2fcc4f-7c41-4c15-b182-99f28849bedf,17063,enum_T_11,partner_t,C01,Respondent did not consent
+d2219909-e6ca-40a8-ac9a-dc44832ed509,17154,enum_T_32,partner_t,C04,Interview took 14 minutes
+bcebefb6-b09e-4ab1-bb80-291a88df9c89,17762,enum_T_15,partner_t,C04,Interview took 8 minutes
+5e8ae1b7-8447-4246-877a-c9e838899483,17983,enum_T_06,partner_t,C01,Respondent did not consent
+2e75e094-f7b9-4150-82d8-ac6d2f973cd8,18205,enum_T_24,partner_t,C04,Interview took 5 minutes
+76a55d8a-29f7-4d4f-a484-06c300ed0ea9,18211,enum_T_14,partner_t,C04,Interview took 8 minutes
+5325d310-ea1d-4d6c-835a-954fe74438b3,18482,enum_T_10,partner_t,C04,Interview took 5 minutes
+b922d1b7-a45f-46cf-8ec9-e5aea97122ae,18540,enum_T_18,partner_t,C03,Household already interviewed in an earlier submission
+ba2aef62-df6a-4d2f-8f49-a4f11dbac40c,18627,enum_T_10,partner_t,C04,Interview took 10 minutes
+c46fd606-7e7a-470e-93c6-3a26e0088774,18808,enum_T_29,partner_t,C04,Interview took 9 minutes
+d795cbec-dee7-45dd-b334-09d635db011d,19045,enum_T_18,partner_t,C01,Respondent did not consent
+a7c9a498-5204-4956-be93-053de2baf4f3,19316,enum_T_20,partner_t,C03,Household already interviewed in an earlier submission
+e8ac8f19-4602-45db-9f7e-2c45ec049bc9,19324,enum_T_29,partner_t,C04,Interview took 12 minutes
+e8177c34-00e4-4e9a-b091-3fb6ae76a281,19327,enum_T_13,partner_t,C03,Household already interviewed in an earlier submission
+2c416073-d4e5-485f-a0c8-8f01abf4aa9f,19833,enum_T_14,partner_t,C01,Respondent did not consent
+9137268a-381e-4907-9523-5978a53fd06a,20190,enum_T_01,partner_t,C03,Household already interviewed in an earlier submission
+8cc86e65-298f-4a7b-b701-c1dc78d128db,20280,enum_T_20,partner_t,C03,Household already interviewed in an earlier submission
+b473e0a9-2e9d-477f-9741-301983798589,20305,enum_T_20,partner_t,C04,Interview took 7 minutes
+4cca44ec-8bcf-4fb6-a148-f7c026577db4,20313,enum_T_01,partner_t,C01,Respondent did not consent
+1fb63f7a-1c0d-433d-93f1-01ed1b170959,20327,enum_T_06,partner_t,C01,Respondent did not consent
+50c806b4-ccb1-4694-87e6-de3ea4aee6af,20336,enum_T_15,partner_t,C04,Interview took 6 minutes
+a6cde682-b38d-4f73-b4d3-20d74ac57c5e,20456,enum_T_01,partner_t,C04,Interview took 7 minutes
+abbbcc1a-f922-4298-8ed2-87698a521175,20695,enum_T_32,partner_t,C04,Interview took 13 minutes
+402876cd-5785-4956-ab7f-6c9cff7e64fb,20847,enum_T_28,partner_t,C04,Interview took 10 minutes
+dc5d9b25-084b-4ad7-9e41-a167737f191a,20980,enum_T_28,partner_t,C01,Respondent did not consent
+cd12f881-fc24-4723-93b6-aba2b870f566,21157,enum_T_05,partner_t,C01,Respondent did not consent
+88066e08-d29c-4867-88ec-d795c577fc31,21234,enum_T_07,partner_t,C04,Interview took 8 minutes
+26bc634b-adf6-4ac5-99c9-88afa7422fe1,21326,enum_T_28,partner_t,C02,Same submission uploaded more than once
+4ed382d2-1be2-4ab7-94c7-2f30b7cf52f9,21352,enum_T_32,partner_t,C04,Interview took 12 minutes
+c06df099-3ccf-44c9-911f-df12eb49a983,21497,enum_T_06,partner_t,C04,Interview took 6 minutes
+2dfab2bf-d51d-4497-a217-35f9226f1699,21609,enum_T_03,partner_t,C01,Respondent did not consent
+654daf7f-2fbb-4d0e-9ff3-d4ea14f55da3,21732,enum_T_31,partner_t,C01,Respondent did not consent
+e0531efc-9b98-49e1-be72-55d82edc709a,22013,enum_T_32,partner_t,C04,Interview took 15 minutes
+7aa3c2f5-adea-48a4-8b53-5bf62055c5a4,22521,enum_T_14,partner_t,C01,Respondent did not consent
+2112e1c3-991f-4786-b7ce-d88280e7b3c2,22551,enum_T_07,partner_t,C01,Respondent did not consent
+a52c044b-892a-4b35-88f8-e9de801fdafe,22707,enum_T_22,partner_t,C04,Interview took 4 minutes
+dc6390a2-e06a-42d9-8b2e-c7c3bdc48845,23072,enum_T_29,partner_t,C04,Interview took 9 minutes
+a3d12e5d-63fb-4d95-90ba-c75682bb94ac,23082,enum_T_07,partner_t,C01,Respondent did not consent
+b4904c13-8b79-4e75-99a8-df8915dca264,23181,enum_T_21,partner_t,C04,Interview took 7 minutes
+6e563bf5-ff0e-4e74-a0c6-45d996eab85a,23346,enum_T_23,partner_t,C03,Household already interviewed in an earlier submission
+c9822116-d020-45ce-a658-9ef92d4f070a,23610,enum_T_23,partner_t,C04,Interview took 5 minutes
+46d6c07d-c43b-4dbd-adb2-fc001cc1329e,23707,enum_T_25,partner_t,C01,Respondent did not consent
+922a5ad6-55a5-42f0-87ff-189e2da2047f,25022,enum_T_21,partner_t,C01,Respondent did not consent
+c25a33ff-a11f-457c-9d2e-464ad29cd5eb,25350,enum_T_14,partner_t,C04,Interview took 7 minutes
+54b71831-f92b-48d6-a298-462d380faa0d,25506,enum_T_21,partner_t,C01,Respondent did not consent
+3994c7bb-7590-4754-80ea-2f10eef39d50,25655,enum_T_22,partner_t,C04,Interview took 4 minutes
+f36bf88d-eb92-4c65-a944-45b853af3dd3,26176,enum_T_17,partner_t,C04,Interview took 10 minutes
+71b33d9f-6c14-4c72-9923-bb1c15a17539,26218,enum_T_17,partner_t,C03,Household already interviewed in an earlier submission
+9c7dbbae-d06a-4768-8204-9048c0896d10,26313,enum_T_23,partner_t,C04,Interview took 6 minutes
+4cf49f94-d0c8-4905-b541-ccfe686539b2,26590,enum_T_07,partner_t,C04,Interview took 9 minutes
+2cb72c63-5899-4039-afde-e4d5f57e2f6f,26678,enum_T_23,partner_t,C02,Same submission uploaded more than once

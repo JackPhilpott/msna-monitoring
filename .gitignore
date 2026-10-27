@@ -1,0 +1,21 @@
+# Intermediate files (rebuilt by the scripts) and downloaded open data
+data/interim/
+data/raw/
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Shiny deployment metadata (machine and account specific)
+dashboard_app/rsconnect/
+
+# OS
+Thumbs.db
+Desktop.ini

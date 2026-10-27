@@ -1,0 +1,81 @@
+type,name,label::English,relevant,constraint,required
+start,start,,,,
+end,end,,,,
+today,today,,,,
+text,enumerator_id,Enumerator ID,,,yes
+select_one partner,partner,Partner organisation,,,yes
+text,cluster_id,Cluster ID (from the cluster list),,,yes
+text,household_id,Household ID (from the household list),,,yes
+select_one setting,setting,Type of location,,,yes
+geopoint,gps,GPS location of the household,,,yes
+select_one yes_no,consent,Does the respondent agree to be interviewed?,,,yes
+begin_group,household,Household,${consent} = 'yes',,
+select_one yes_no,resp_is_hoh,Is the respondent the head of household?,,,yes
+select_one gender,resp_gender,Gender of the respondent,,,yes
+integer,resp_age,Age of the respondent,,. >= 18 and . <= 110,yes
+integer,hh_size,How many people live in this household?,,. >= 1,yes
+select_one gender,hoh_gender,Gender of the head of household,,,yes
+integer,hoh_age,Age of the head of household,,. >= 12 and . <= 110,yes
+integer,n_children_u5,How many children under 5 live in the household?,,. >= 0,yes
+integer,n_children_school_age,How many children aged 6 to 17 live in the household?,,. >= 0,yes
+select_one displacement,displacement_status,Displacement status of the household,,,yes
+integer,months_displaced,How many months ago was the household displaced?,${displacement_status} = 'idp',. >= 0,yes
+end_group,,,,,
+begin_group,food,Food consumption: on how many of the past 7 days did the household eat...,${consent} = 'yes',,
+integer,fcs_cereals,"Cereals, grains, roots and tubers",,. >= 0 and . <= 7,yes
+integer,fcs_pulses,"Pulses, beans, nuts and seeds",,. >= 0 and . <= 7,yes
+integer,fcs_dairy,Milk and dairy products,,. >= 0 and . <= 7,yes
+integer,fcs_meat,"Meat, fish and eggs",,. >= 0 and . <= 7,yes
+integer,fcs_vegetables,Vegetables and leaves,,. >= 0 and . <= 7,yes
+integer,fcs_fruit,Fruit,,. >= 0 and . <= 7,yes
+integer,fcs_oil,"Oil, fat and butter",,. >= 0 and . <= 7,yes
+integer,fcs_sugar,Sugar and sweets,,. >= 0 and . <= 7,yes
+integer,fcs_condiments,Condiments and spices,,. >= 0 and . <= 7,yes
+end_group,,,,,
+begin_group,coping,"Coping: in the past 7 days, on how many days did the household...",${consent} = 'yes',,
+integer,rcsi_less_preferred,Rely on less preferred or less expensive food,,. >= 0 and . <= 7,yes
+integer,rcsi_borrow_food,Borrow food or rely on help from friends or relatives,,. >= 0 and . <= 7,yes
+integer,rcsi_limit_portions,Limit portion size at mealtimes,,. >= 0 and . <= 7,yes
+integer,rcsi_restrict_adults,Restrict consumption by adults so small children can eat,,. >= 0 and . <= 7,yes
+integer,rcsi_reduce_meals,Reduce the number of meals eaten in a day,,. >= 0 and . <= 7,yes
+end_group,,,,,
+begin_group,hunger,"Hunger: in the past 30 days...",${consent} = 'yes',,
+select_one yes_no,hhs_no_food,Was there ever no food to eat of any kind in the house because of lack of resources?,,,yes
+select_one frequency,hhs_no_food_freq,How often did this happen?,${hhs_no_food} = 'yes',,yes
+select_one yes_no,hhs_sleep_hungry,Did any household member go to sleep at night hungry because there was not enough food?,,,yes
+select_one frequency,hhs_sleep_hungry_freq,How often did this happen?,${hhs_sleep_hungry} = 'yes',,yes
+select_one yes_no,hhs_whole_day,Did any household member go a whole day and night without eating anything?,,,yes
+select_one frequency,hhs_whole_day_freq,How often did this happen?,${hhs_whole_day} = 'yes',,yes
+end_group,,,,,
+begin_group,livelihood_coping,"Livelihood coping: in the past 30 days, did the household...",${consent} = 'yes',,
+select_one lcsi,lcsi_spend_savings,Spend savings,,,yes
+select_one lcsi,lcsi_sell_assets,"Sell household assets (radio, furniture, jewellery)",,,yes
+select_one lcsi,lcsi_reduce_health_education,Reduce spending on health or education,,,yes
+select_one lcsi,lcsi_sell_productive_assets,"Sell productive assets or means of transport",,,yes
+select_one lcsi,lcsi_sell_house_land,Sell house or land,,,yes
+select_one lcsi,lcsi_beg,Beg,,,yes
+end_group,,,,,
+begin_group,wash,Water and sanitation,${consent} = 'yes',,
+select_one water_source,water_source,What is the household's main source of drinking water?,,,yes
+select_one yes_no,water_sufficient,Did the household have enough water for drinking in the past 30 days?,,,yes
+select_one sanitation,sanitation_facility,What kind of toilet facility do household members usually use?,,,yes
+select_one yes_no,handwashing_soap,Is there soap or detergent in the household?,,,yes
+end_group,,,,,
+begin_group,shelter,Shelter,${consent} = 'yes',,
+select_one shelter_type,shelter_type,What type of shelter does the household live in?,,,yes
+select_one yes_no,shelter_damage,Does the shelter have damage that needs repair?,,,yes
+end_group,,,,,
+begin_group,health,Health,${consent} = 'yes',,
+select_one yes_no,health_need,"In the past 3 months, did any household member need health care?",,,yes
+select_one yes_no,health_access,Were they able to get the health care they needed?,${health_need} = 'yes',,yes
+select_one health_barrier,health_barrier,What was the main reason they could not?,${health_access} = 'no',,yes
+end_group,,,,,
+begin_group,education,Education,${consent} = 'yes' and ${n_children_school_age} > 0,,
+integer,n_children_attending,How many children aged 6 to 17 attended school regularly this school year?,,. >= 0 and . <= ${n_children_school_age},yes
+end_group,,,,,
+begin_group,livelihoods,Livelihoods and assistance,${consent} = 'yes',,
+select_one income_source,income_source,What was the household's main source of income in the past 30 days?,,,yes
+text,income_source_other,Please specify the other source of income,${income_source} = 'other',,yes
+select_one yes_no,aid_received,"In the past 3 months, did the household receive humanitarian assistance?",,,yes
+select_multiple priority_needs,priority_needs,What are the household's three main priority needs?,,count-selected(.) <= 3,yes
+end_group,,,,,

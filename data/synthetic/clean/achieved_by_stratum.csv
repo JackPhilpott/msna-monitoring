@@ -1,0 +1,301 @@
+stratum_id,target,achieved,pop_type,adm1_name,adm2_name,partner,pct
+idp_NG032013,12,6,idp,Plateau,Pankshin,Partner P,50
+idp_NG036017,18,12,idp,Yobe,Yusufari,Partner R,66.7
+idp_NG034022,48,36,idp,Sokoto,Wurno,Partner Q,75
+non_idp_NG008002,102,79,non_idp,Borno,Askira/Uba,Partner F,77.5
+non_idp_NG036005,102,82,non_idp,Yobe,Fune,Partner S,80.4
+idp_NG008017,90,73,idp,Borno,Kukawa,Partner F,81.1
+idp_NG036003,48,39,idp,Yobe,Damaturu,Partner S,81.2
+non_idp_NG036009,102,83,non_idp,Yobe,Jakusko,Partner R,81.4
+non_idp_NG022005,102,84,non_idp,Kebbi,Bagudo,Partner M,82.4
+idp_NG008010,78,65,idp,Borno,Guzamala,Partner F,83.3
+idp_NG036007,42,35,idp,Yobe,Gujba,Partner S,83.3
+non_idp_NG008007,102,86,non_idp,Borno,Damboa,Partner E,84.3
+non_idp_NG008017,102,86,non_idp,Borno,Kukawa,Partner F,84.3
+non_idp_NG032016,102,86,non_idp,Plateau,Shendam,Partner P,84.3
+idp_NG008003,96,81,idp,Borno,Bama,Partner F,84.4
+idp_NG021031,84,71,idp,Katsina,Sabuwa,Partner J,84.5
+idp_NG021001,54,46,idp,Katsina,Bakori,Partner J,85.2
+non_idp_NG034001,102,87,non_idp,Sokoto,Binji,Partner Q,85.3
+idp_NG008027,78,67,idp,Borno,Shani,Partner E,85.9
+non_idp_NG002020,72,62,non_idp,Adamawa,Yola North,Partner B,86.1
+non_idp_NG021007,102,88,non_idp,Katsina,Dan Musa,Partner J,86.3
+non_idp_NG022018,102,88,non_idp,Kebbi,Suru,Partner M,86.3
+idp_NG002007,90,78,idp,Adamawa,Hong,Partner B,86.7
+idp_NG032006,78,68,idp,Plateau,Jos South,Partner P,87.2
+non_idp_NG022014,102,89,non_idp,Kebbi,Maiyama,Partner M,87.3
+idp_NG036009,48,42,idp,Yobe,Jakusko,Partner R,87.5
+non_idp_NG008010,102,90,non_idp,Borno,Guzamala,Partner F,88.2
+non_idp_NG037014,102,90,non_idp,Zamfara,Zurmi,Partner T,88.2
+non_idp_NG008004,96,85,non_idp,Borno,Bayo,Partner E,88.5
+idp_NG008008,90,80,idp,Borno,Dikwa,Partner F,88.9
+non_idp_NG008020,102,91,non_idp,Borno,Magumeri,Partner E,89.2
+non_idp_NG036002,102,91,non_idp,Yobe,Bursari,Partner S,89.2
+non_idp_NG036016,102,91,non_idp,Yobe,Yunusari,Partner S,89.2
+idp_NG002021,96,86,idp,Adamawa,Yola South,Partner B,89.6
+idp_NG036001,30,27,idp,Yobe,Bade,Partner R,90
+idp_NG036016,90,81,idp,Yobe,Yunusari,Partner S,90
+non_idp_NG002018,102,92,non_idp,Adamawa,Song,Partner B,90.2
+non_idp_NG008003,102,92,non_idp,Borno,Bama,Partner F,90.2
+non_idp_NG008023,102,92,non_idp,Borno,Mobbar,Partner E,90.2
+non_idp_NG021011,102,92,non_idp,Katsina,Dutsi,Partner L,90.2
+non_idp_NG021019,102,92,non_idp,Katsina,Kankara,Partner J,90.2
+non_idp_NG021020,102,92,non_idp,Katsina,Kankia,Partner L,90.2
+non_idp_NG021027,102,92,non_idp,Katsina,Mashi,Partner L,90.2
+non_idp_NG032007,102,92,non_idp,Plateau,Kanam,Partner P,90.2
+non_idp_NG034019,102,92,non_idp,Sokoto,Tangaza,Partner Q,90.2
+non_idp_NG036012,102,92,non_idp,Yobe,Nangere,Partner R,90.2
+idp_NG008019,42,38,idp,Borno,Mafa,Partner F,90.5
+idp_NG002020,66,60,idp,Adamawa,Yola North,Partner B,90.9
+idp_NG032017,66,60,idp,Plateau,Wase,Partner P,90.9
+idp_NG002014,90,82,idp,Adamawa,Mubi North,Partner B,91.1
+idp_NG036006,90,82,idp,Yobe,Geidam,Partner S,91.1
+non_idp_NG008027,102,93,non_idp,Borno,Shani,Partner E,91.2
+non_idp_NG021001,102,93,non_idp,Katsina,Bakori,Partner J,91.2
+non_idp_NG021015,102,93,non_idp,Katsina,Ingawa,Partner L,91.2
+non_idp_NG021032,102,93,non_idp,Katsina,Safana,Partner J,91.2
+non_idp_NG032014,102,93,non_idp,Plateau,Qua'an Pan,Partner P,91.2
+non_idp_NG034009,102,93,non_idp,Sokoto,Isa,Partner Q,91.2
+non_idp_NG036006,102,93,non_idp,Yobe,Geidam,Partner S,91.2
+idp_NG021022,72,66,idp,Katsina,Kurfi,Partner J,91.7
+idp_NG032008,84,77,idp,Plateau,Kanke,Partner P,91.7
+non_idp_NG008019,96,88,non_idp,Borno,Mafa,Partner F,91.7
+idp_NG007019,90,83,idp,Benue,Oturkpo,Partner C,92.2
+non_idp_NG002008,102,94,non_idp,Adamawa,Jada,Partner B,92.2
+non_idp_NG021023,102,94,non_idp,Katsina,Kusada,Partner L,92.2
+non_idp_NG032002,102,94,non_idp,Plateau,Bassa,Partner P,92.2
+non_idp_NG032005,102,94,non_idp,Plateau,Jos North,Partner P,92.2
+non_idp_NG032008,102,94,non_idp,Plateau,Kanke,Partner P,92.2
+non_idp_NG034006,102,94,non_idp,Sokoto,Goronyo,Partner Q,92.2
+non_idp_NG034022,102,94,non_idp,Sokoto,Wurno,Partner Q,92.2
+non_idp_NG036004,102,94,non_idp,Yobe,Fika,Partner R,92.2
+non_idp_NG036008,96,89,non_idp,Yobe,Gulani,Partner S,92.7
+idp_NG036014,84,78,idp,Yobe,Potiskum,Partner R,92.9
+non_idp_NG002014,102,95,non_idp,Adamawa,Mubi North,Partner B,93.1
+non_idp_NG002021,102,95,non_idp,Adamawa,Yola South,Partner B,93.1
+non_idp_NG008022,102,95,non_idp,Borno,Marte,Partner F,93.1
+non_idp_NG008024,102,95,non_idp,Borno,Monguno,Partner F,93.1
+non_idp_NG021003,102,95,non_idp,Katsina,Batsari,Partner J,93.1
+non_idp_NG032013,102,95,non_idp,Plateau,Pankshin,Partner P,93.1
+idp_NG008012,30,28,idp,Borno,Hawul,Partner E,93.3
+idp_NG021019,60,56,idp,Katsina,Kankara,Partner J,93.3
+idp_NG032007,78,73,idp,Plateau,Kanam,Partner P,93.6
+idp_NG022018,66,62,idp,Kebbi,Suru,Partner M,93.9
+non_idp_NG008009,102,96,non_idp,Borno,Gubio,Partner E,94.1
+non_idp_NG021008,102,96,non_idp,Katsina,Dandume,Partner J,94.1
+non_idp_NG021026,102,96,non_idp,Katsina,Mani,Partner L,94.1
+non_idp_NG021030,102,96,non_idp,Katsina,Rimi,Partner L,94.1
+non_idp_NG036015,102,96,non_idp,Yobe,Tarmua,Partner S,94.1
+idp_NG036004,90,85,idp,Yobe,Fika,Partner R,94.4
+non_idp_NG002004,102,97,non_idp,Adamawa,Gombi,Partner B,95.1
+non_idp_NG021005,102,97,non_idp,Katsina,Bindawa,Partner L,95.1
+non_idp_NG022011,102,97,non_idp,Kebbi,Jega,Partner M,95.1
+non_idp_NG022013,102,97,non_idp,Kebbi,Koko/Besse,Partner M,95.1
+non_idp_NG032010,102,97,non_idp,Plateau,Langtang South,Partner P,95.1
+non_idp_NG032017,102,97,non_idp,Plateau,Wase,Partner P,95.1
+non_idp_NG034020,102,97,non_idp,Sokoto,Tureta,Partner Q,95.1
+non_idp_NG036014,102,97,non_idp,Yobe,Potiskum,Partner R,95.1
+idp_NG002005,84,80,idp,Adamawa,Girei,Partner B,95.2
+idp_NG008007,42,40,idp,Borno,Damboa,Partner E,95.2
+idp_NG002004,90,86,idp,Adamawa,Gombi,Partner B,95.6
+idp_NG008002,96,92,idp,Borno,Askira/Uba,Partner F,95.8
+non_idp_NG002002,102,98,non_idp,Adamawa,Fufore,Partner B,96.1
+non_idp_NG007018,102,98,non_idp,Benue,Okpokwu,Partner C,96.1
+non_idp_NG021022,102,98,non_idp,Katsina,Kurfi,Partner J,96.1
+non_idp_NG022006,102,98,non_idp,Kebbi,Birnin Kebbi,Partner M,96.1
+non_idp_NG022007,102,98,non_idp,Kebbi,Bunza,Partner M,96.1
+non_idp_NG022012,102,98,non_idp,Kebbi,Kalgo,Partner M,96.1
+non_idp_NG032004,102,98,non_idp,Plateau,Jos East,Partner P,96.1
+non_idp_NG032011,102,98,non_idp,Plateau,Mangu,Partner P,96.1
+non_idp_NG036010,102,98,non_idp,Yobe,Karasuwa,Partner R,96.1
+idp_NG032016,78,75,idp,Plateau,Shendam,Partner P,96.2
+idp_NG008009,54,52,idp,Borno,Gubio,Partner E,96.3
+idp_NG022006,54,52,idp,Kebbi,Birnin Kebbi,Partner M,96.3
+idp_NG036012,54,52,idp,Yobe,Nangere,Partner R,96.3
+idp_NG034010,84,81,idp,Sokoto,Kebbe,Partner Q,96.4
+idp_NG008018,30,29,idp,Borno,Kwaya Kusar,Partner E,96.7
+idp_NG036005,60,58,idp,Yobe,Fune,Partner S,96.7
+idp_NG022005,96,93,idp,Kebbi,Bagudo,Partner M,96.9
+non_idp_NG034007,96,93,non_idp,Sokoto,Gudu,Partner Q,96.9
+non_idp_NG034010,96,93,non_idp,Sokoto,Kebbe,Partner Q,96.9
+non_idp_NG034015,96,93,non_idp,Sokoto,Silame,Partner Q,96.9
+idp_NG034001,66,64,idp,Sokoto,Binji,Partner Q,97
+non_idp_NG008006,102,99,non_idp,Borno,Chibok,Partner E,97.1
+non_idp_NG008008,102,99,non_idp,Borno,Dikwa,Partner F,97.1
+non_idp_NG008012,102,99,non_idp,Borno,Hawul,Partner E,97.1
+non_idp_NG008026,102,99,non_idp,Borno,Nganzai,Partner F,97.1
+non_idp_NG034011,102,99,non_idp,Sokoto,Kware,Partner Q,97.1
+non_idp_NG034012,102,99,non_idp,Sokoto,Rabah,Partner Q,97.1
+non_idp_NG036001,102,99,non_idp,Yobe,Bade,Partner R,97.1
+non_idp_NG036003,102,99,non_idp,Yobe,Damaturu,Partner S,97.1
+non_idp_NG036007,102,99,non_idp,Yobe,Gujba,Partner S,97.1
+idp_NG002008,72,70,idp,Adamawa,Jada,Partner B,97.2
+idp_NG008020,72,70,idp,Borno,Magumeri,Partner E,97.2
+idp_NG036010,36,35,idp,Yobe,Karasuwa,Partner R,97.2
+idp_NG021015,84,82,idp,Katsina,Ingawa,Partner L,97.6
+idp_NG021030,42,41,idp,Katsina,Rimi,Partner L,97.6
+idp_NG032011,42,41,idp,Plateau,Mangu,Partner P,97.6
+idp_NG036002,84,82,idp,Yobe,Bursari,Partner S,97.6
+idp_NG021026,48,47,idp,Katsina,Mani,Partner L,97.9
+idp_NG034011,96,94,idp,Sokoto,Kware,Partner Q,97.9
+non_idp_NG002005,102,100,non_idp,Adamawa,Girei,Partner B,98
+non_idp_NG008016,102,100,non_idp,Borno,Konduga,Partner F,98
+non_idp_NG008018,102,100,non_idp,Borno,Kwaya Kusar,Partner E,98
+non_idp_NG021014,102,100,non_idp,Katsina,Funtua,Partner J,98
+non_idp_NG021033,102,100,non_idp,Katsina,Sandamu,Partner L,98
+non_idp_NG034018,102,100,non_idp,Sokoto,Tambuwal,Partner Q,98
+non_idp_NG036017,102,100,non_idp,Yobe,Yusufari,Partner R,98
+idp_NG008024,54,53,idp,Borno,Monguno,Partner F,98.1
+idp_NG021032,54,53,idp,Katsina,Safana,Partner J,98.1
+idp_NG002018,60,59,idp,Adamawa,Song,Partner B,98.3
+non_idp_NG032006,78,77,non_idp,Plateau,Jos South,Partner P,98.7
+idp_NG002002,84,83,idp,Adamawa,Fufore,Partner B,98.8
+non_idp_NG036013,102,101,non_idp,Yobe,Nguru,Partner R,99
+idp_NG002003,66,66,idp,Adamawa,Ganye,Partner A,100
+idp_NG002006,96,96,idp,Adamawa,Guyuk,Partner A,100
+idp_NG002012,90,90,idp,Adamawa,Mayo-Belwa,Partner A,100
+idp_NG002017,90,90,idp,Adamawa,Shelleng,Partner A,100
+idp_NG007005,96,96,idp,Benue,Gboko,Partner D,100
+idp_NG007007,72,72,idp,Benue,Gwer East,Partner D,100
+idp_NG007009,84,84,idp,Benue,Katsina-Ala,Partner D,100
+idp_NG007011,36,36,idp,Benue,Kwande,Partner D,100
+idp_NG007015,72,72,idp,Benue,Ogbadibo,Partner C,100
+idp_NG007016,6,6,idp,Benue,Ohimini,Partner C,100
+idp_NG007017,6,6,idp,Benue,Oju,Partner C,100
+idp_NG007020,84,84,idp,Benue,Tarka,Partner D,100
+idp_NG007021,90,90,idp,Benue,Ukum,Partner D,100
+idp_NG007023,90,90,idp,Benue,Vandeikya,Partner D,100
+idp_NG008022,24,24,idp,Borno,Marte,Partner F,100
+idp_NG019001,78,78,idp,Kaduna,Birnin-Gwari,Partner G,100
+idp_NG019003,90,90,idp,Kaduna,Giwa,Partner G,100
+idp_NG019007,84,84,idp,Kaduna,Jema'a,Partner I,100
+idp_NG019011,78,78,idp,Kaduna,Kagarko,Partner G,100
+idp_NG019012,6,6,idp,Kaduna,Kajuru,Partner H,100
+idp_NG019015,60,60,idp,Kaduna,Kubau,Partner I,100
+idp_NG019017,36,36,idp,Kaduna,Lere,Partner I,100
+idp_NG019023,6,6,idp,Kaduna,Zaria,Partner H,100
+idp_NG021009,6,6,idp,Katsina,Danja,Partner K,100
+idp_NG021012,72,72,idp,Katsina,Dutsin-Ma,Partner K,100
+idp_NG021017,84,84,idp,Katsina,Kafur,Partner K,100
+idp_NG021020,90,90,idp,Katsina,Kankia,Partner L,100
+idp_NG021021,72,72,idp,Katsina,Katsina,Partner K,100
+idp_NG021028,90,90,idp,Katsina,Matazu,Partner K,100
+idp_NG022003,48,48,idp,Kebbi,Argungu,Partner N,100
+idp_NG022021,84,84,idp,Kebbi,Zuru,Partner N,100
+idp_NG026007,36,36,idp,Nasarawa,Kokona,Partner O,100
+idp_NG026009,78,78,idp,Nasarawa,Nasarawa,Partner O,100
+idp_NG032002,6,6,idp,Plateau,Bassa,Partner P,100
+idp_NG036013,6,6,idp,Yobe,Nguru,Partner R,100
+idp_NG037001,72,72,idp,Zamfara,Anka,Partner T,100
+idp_NG037002,72,72,idp,Zamfara,Bakura,Partner T,100
+idp_NG037003,42,42,idp,Zamfara,Birnin Magaji,Partner T,100
+idp_NG037004,66,66,idp,Zamfara,Bukkuyum,Partner T,100
+idp_NG037005,90,90,idp,Zamfara,Bungudu,Partner T,100
+idp_NG037008,84,84,idp,Zamfara,Kaura Namoda,Partner T,100
+idp_NG037010,84,84,idp,Zamfara,Maru,Partner T,100
+idp_NG037011,48,48,idp,Zamfara,Shinkafi,Partner T,100
+non_idp_NG002001,102,102,non_idp,Adamawa,Demsa,Partner A,100
+non_idp_NG002003,102,102,non_idp,Adamawa,Ganye,Partner A,100
+non_idp_NG002006,102,102,non_idp,Adamawa,Guyuk,Partner A,100
+non_idp_NG002007,102,102,non_idp,Adamawa,Hong,Partner B,100
+non_idp_NG002009,102,102,non_idp,Adamawa,Lamurde,Partner A,100
+non_idp_NG002012,102,102,non_idp,Adamawa,Mayo-Belwa,Partner A,100
+non_idp_NG002016,102,102,non_idp,Adamawa,Numan,Partner A,100
+non_idp_NG002017,102,102,non_idp,Adamawa,Shelleng,Partner A,100
+non_idp_NG002019,96,96,non_idp,Adamawa,Toungo,Partner A,100
+non_idp_NG007001,102,102,non_idp,Benue,Ado,Partner C,100
+non_idp_NG007002,96,96,non_idp,Benue,Agatu,Partner C,100
+non_idp_NG007003,96,96,non_idp,Benue,Apa,Partner C,100
+non_idp_NG007004,102,102,non_idp,Benue,Buruku,Partner D,100
+non_idp_NG007005,102,102,non_idp,Benue,Gboko,Partner D,100
+non_idp_NG007007,102,102,non_idp,Benue,Gwer East,Partner D,100
+non_idp_NG007008,102,102,non_idp,Benue,Gwer West,Partner C,100
+non_idp_NG007009,102,102,non_idp,Benue,Katsina-Ala,Partner D,100
+non_idp_NG007010,102,102,non_idp,Benue,Konshisha,Partner D,100
+non_idp_NG007011,102,102,non_idp,Benue,Kwande,Partner D,100
+non_idp_NG007012,102,102,non_idp,Benue,Logo,Partner D,100
+non_idp_NG007014,102,102,non_idp,Benue,Obi,Partner C,100
+non_idp_NG007015,102,102,non_idp,Benue,Ogbadibo,Partner C,100
+non_idp_NG007016,96,96,non_idp,Benue,Ohimini,Partner C,100
+non_idp_NG007017,102,102,non_idp,Benue,Oju,Partner C,100
+non_idp_NG007019,102,102,non_idp,Benue,Oturkpo,Partner C,100
+non_idp_NG007020,102,102,non_idp,Benue,Tarka,Partner D,100
+non_idp_NG007021,102,102,non_idp,Benue,Ukum,Partner D,100
+non_idp_NG007022,102,102,non_idp,Benue,Ushongo,Partner D,100
+non_idp_NG007023,102,102,non_idp,Benue,Vandeikya,Partner D,100
+non_idp_NG019001,102,102,non_idp,Kaduna,Birnin-Gwari,Partner G,100
+non_idp_NG019002,102,102,non_idp,Kaduna,Chikun,Partner G,100
+non_idp_NG019003,102,102,non_idp,Kaduna,Giwa,Partner G,100
+non_idp_NG019004,102,102,non_idp,Kaduna,Igabi,Partner G,100
+non_idp_NG019005,102,102,non_idp,Kaduna,Ikara,Partner I,100
+non_idp_NG019006,102,102,non_idp,Kaduna,Jaba,Partner H,100
+non_idp_NG019007,102,102,non_idp,Kaduna,Jema'a,Partner I,100
+non_idp_NG019008,102,102,non_idp,Kaduna,Kachia,Partner H,100
+non_idp_NG019009,102,102,non_idp,Kaduna,Kaduna North,Partner G,100
+non_idp_NG019011,102,102,non_idp,Kaduna,Kagarko,Partner G,100
+non_idp_NG019012,102,102,non_idp,Kaduna,Kajuru,Partner H,100
+non_idp_NG019013,102,102,non_idp,Kaduna,Kaura,Partner I,100
+non_idp_NG019014,102,102,non_idp,Kaduna,Kauru,Partner I,100
+non_idp_NG019015,102,102,non_idp,Kaduna,Kubau,Partner I,100
+non_idp_NG019016,102,102,non_idp,Kaduna,Kudan,Partner H,100
+non_idp_NG019017,102,102,non_idp,Kaduna,Lere,Partner I,100
+non_idp_NG019018,102,102,non_idp,Kaduna,Markafi,Partner H,100
+non_idp_NG019019,102,102,non_idp,Kaduna,Sabon-Gari,Partner H,100
+non_idp_NG019020,102,102,non_idp,Kaduna,Sanga,Partner I,100
+non_idp_NG019021,102,102,non_idp,Kaduna,Soba,Partner H,100
+non_idp_NG019022,102,102,non_idp,Kaduna,Zango-Kataf,Partner I,100
+non_idp_NG019023,102,102,non_idp,Kaduna,Zaria,Partner H,100
+non_idp_NG021002,102,102,non_idp,Katsina,Batagarawa,Partner K,100
+non_idp_NG021006,102,102,non_idp,Katsina,Charanchi,Partner K,100
+non_idp_NG021009,102,102,non_idp,Katsina,Danja,Partner K,100
+non_idp_NG021012,102,102,non_idp,Katsina,Dutsin-Ma,Partner K,100
+non_idp_NG021017,102,102,non_idp,Katsina,Kafur,Partner K,100
+non_idp_NG021021,102,102,non_idp,Katsina,Katsina,Partner K,100
+non_idp_NG021025,102,102,non_idp,Katsina,Malumfashi,Partner K,100
+non_idp_NG021028,102,102,non_idp,Katsina,Matazu,Partner K,100
+non_idp_NG021029,102,102,non_idp,Katsina,Musawa,Partner K,100
+non_idp_NG021031,102,102,non_idp,Katsina,Sabuwa,Partner J,100
+non_idp_NG022001,102,102,non_idp,Kebbi,Aleiro,Partner N,100
+non_idp_NG022003,102,102,non_idp,Kebbi,Argungu,Partner N,100
+non_idp_NG022004,102,102,non_idp,Kebbi,Augie,Partner N,100
+non_idp_NG022009,102,102,non_idp,Kebbi,Fakai,Partner N,100
+non_idp_NG022010,102,102,non_idp,Kebbi,Gwandu,Partner N,100
+non_idp_NG022015,102,102,non_idp,Kebbi,Ngaski,Partner N,100
+non_idp_NG022017,102,102,non_idp,Kebbi,Shanga,Partner N,100
+non_idp_NG022019,102,102,non_idp,Kebbi,Wasagu/Danko,Partner N,100
+non_idp_NG022021,102,102,non_idp,Kebbi,Zuru,Partner N,100
+non_idp_NG026001,102,102,non_idp,Nasarawa,Akwanga,Partner O,100
+non_idp_NG026002,102,102,non_idp,Nasarawa,Awe,Partner O,100
+non_idp_NG026003,102,102,non_idp,Nasarawa,Doma,Partner O,100
+non_idp_NG026006,102,102,non_idp,Nasarawa,Keffi,Partner O,100
+non_idp_NG026007,102,102,non_idp,Nasarawa,Kokona,Partner O,100
+non_idp_NG026009,102,102,non_idp,Nasarawa,Nasarawa,Partner O,100
+non_idp_NG026010,102,102,non_idp,Nasarawa,Nasarawa-Eggon,Partner O,100
+non_idp_NG026012,102,102,non_idp,Nasarawa,Toto,Partner O,100
+non_idp_NG026013,102,102,non_idp,Nasarawa,Wamba,Partner O,100
+non_idp_NG037001,102,102,non_idp,Zamfara,Anka,Partner T,100
+non_idp_NG037002,102,102,non_idp,Zamfara,Bakura,Partner T,100
+non_idp_NG037003,102,102,non_idp,Zamfara,Birnin Magaji,Partner T,100
+non_idp_NG037004,102,102,non_idp,Zamfara,Bukkuyum,Partner T,100
+non_idp_NG037005,102,102,non_idp,Zamfara,Bungudu,Partner T,100
+non_idp_NG037006,102,102,non_idp,Zamfara,Gummi,Partner T,100
+non_idp_NG037007,102,102,non_idp,Zamfara,Gusau,Partner T,100
+non_idp_NG037008,102,102,non_idp,Zamfara,Kaura Namoda,Partner T,100
+non_idp_NG037009,102,102,non_idp,Zamfara,Maradun,Partner T,100
+non_idp_NG037010,102,102,non_idp,Zamfara,Maru,Partner T,100
+non_idp_NG037011,102,102,non_idp,Zamfara,Shinkafi,Partner T,100
+non_idp_NG037012,102,102,non_idp,Zamfara,Talata Mafara,Partner T,100
+non_idp_NG019010,96,102,non_idp,Kaduna,Kaduna South,Partner G,106.2
+idp_NG007022,90,96,idp,Benue,Ushongo,Partner D,106.7
+idp_NG037007,78,84,idp,Zamfara,Gusau,Partner T,107.7
+idp_NG019004,72,78,idp,Kaduna,Igabi,Partner G,108.3
+idp_NG019021,72,78,idp,Kaduna,Soba,Partner H,108.3
+idp_NG021025,6,7,idp,Katsina,Malumfashi,Partner K,116.7
+idp_NG037012,78,96,idp,Zamfara,Talata Mafara,Partner T,123.1
+idp_NG007014,54,72,idp,Benue,Obi,Partner C,133.3
+idp_NG037014,36,48,idp,Zamfara,Zurmi,Partner T,133.3
+idp_NG007004,60,90,idp,Benue,Buruku,Partner D,150
+idp_NG019022,6,9,idp,Kaduna,Zango-Kataf,Partner I,150
+idp_NG026012,60,90,idp,Nasarawa,Toto,Partner O,150
+idp_NG026002,42,66,idp,Nasarawa,Awe,Partner O,157.1
+idp_NG019010,12,20,idp,Kaduna,Kaduna South,Partner G,166.7
