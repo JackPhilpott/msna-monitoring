@@ -1,5 +1,7 @@
 # MSNA monitoring
 
+[![CI](https://github.com/JackPhilpott/msna-monitoring/actions/workflows/ci.yml/badge.svg)](https://github.com/JackPhilpott/msna-monitoring/actions/workflows/ci.yml)
+
 Stages 2 and 3 of the [MSNA pipeline](https://github.com/JackPhilpott/msna-pipeline): watching data
 collection as it happens, cleaning the data, and checking it is fit for analysis.
 
@@ -151,12 +153,18 @@ COD-AB boundaries (a 10 MB download). The seed is fixed, so every run gives byte
 All settings are in `config.yml`, including the collection period, the team workload, the error
 rates and the cleaning thresholds.
 
-To run the tests:
+To run the linters and tests (lintr isn't in `renv.lock`, so install it once with
+`Rscript -e "renv::install('lintr')"`):
 
 ```bash
+Rscript -e "lintr::lint_dir()"
 Rscript -e "testthat::test_dir('tests/testthat')"
+.venv/bin/ruff check . && .venv/bin/ruff format --check .
 .venv/bin/python -m pytest tests/python
 ```
+
+GitHub Actions runs all four on every push and pull request. The dashboard code keeps its long UI
+text, so `.lintr` skips the line-length and naming rules for `dashboard_app/` only.
 
 ## Outputs
 

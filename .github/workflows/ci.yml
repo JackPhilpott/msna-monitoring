@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    name: Python (ruff, pytest)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Ruff
+        run: |
+          ruff check .
+          ruff format --check .
+      - name: Pytest
+        run: pytest tests/python -v
+
+  r:
+    name: R (lintr, testthat)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install system libraries for sf and terra
+        run: sudo apt-get update && sudo apt-get install -y libgdal-dev libgeos-dev libproj-dev libudunits2-dev
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: renv
+      - uses: r-lib/actions/setup-renv@v2
+      - name: Install lintr
+        run: Rscript -e 'renv::install("lintr")'
+      - name: Lintr
+        run: Rscript -e 'lintr::lint_dir()'
+        env:
+          LINTR_ERROR_ON_LINT: true
+      - name: Testthat
+        run: Rscript -e 'testthat::test_dir("tests/testthat", stop_on_failure = TRUE)'
