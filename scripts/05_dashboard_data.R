@@ -47,7 +47,8 @@ clusters <- read_csv(sampling("clusters_after_resampling.csv"), show_col_types =
 frame <- read_csv(sampling("frame_psus.csv"), show_col_types = FALSE)
 sites <- read_csv(sampling("idp_sites_synthetic.csv"), show_col_types = FALSE)
 households <- list.files(sampling("households"), full.names = TRUE) |>
-  lapply(read_csv, show_col_types = FALSE) |> bind_rows()
+  lapply(read_csv, show_col_types = FALSE) |>
+  bind_rows()
 
 
 # --- Boundaries -----------------------------------------------------------------
@@ -112,8 +113,10 @@ write_geo(read_cod("nga_admin1_em.shp") |>
             transmute(adm1_pcode, adm1_name = if_else(adm1_name %in% states, adm1_name, NA_character_)) |>
             simplify(300), "admin1.geojson")
 write_geo(simplify(lga_utm), "admin2.geojson")
-write_geo(wards_utm |> transmute(wardname, lganame = adm2_name, statename = adm1_name, adm2_pcode) |>
-            simplify(), "wards.geojson")
+wards_out <- wards_utm |>
+  transmute(wardname, lganame = adm2_name, statename = adm1_name, adm2_pcode) |>
+  simplify()
+write_geo(wards_out, "wards.geojson")
 
 
 # --- Sampling frame -------------------------------------------------------------
@@ -166,14 +169,14 @@ strata_frame <- strata |>
             exclusion_reason = if_else(coverage_status == "covered", "none", "all_clusters_inaccessible"),
             hh_remaining = pmax(N_hh - coalesce(hh_lost, 0), 0))
 write_csv(select(strata_frame, -hh_remaining), file.path(dest, "strata.csv"))
-write_csv(strata_frame |>
-            transmute(strata_id, pop_type,
-                      pct_pop_remaining = round(100 * hh_remaining / N_hh, 1),
-                      pop_accessible = round(hh_remaining * design$persons_per_household), pop_design = n_pop,
-                      target_revised = if_else(hh_remaining > 0,
-                                               pmin(target_sample, min_sample(hh_remaining, dash$revised_target_margin)),
-                                               NA_real_)),
-          file.path(dest, "accessibility_strata.csv"), na = "")
+accessibility_strata <- strata_frame |>
+  transmute(strata_id, pop_type,
+            pct_pop_remaining = round(100 * hh_remaining / N_hh, 1),
+            pop_accessible = round(hh_remaining * design$persons_per_household), pop_design = n_pop,
+            target_revised = if_else(hh_remaining > 0,
+                                     pmin(target_sample, min_sample(hh_remaining, dash$revised_target_margin)),
+                                     NA_real_))
+write_csv(accessibility_strata, file.path(dest, "accessibility_strata.csv"), na = "")
 write_csv(lgas |> transmute(adm1_pcode, adm1_name, adm2_pcode, adm2_name, org_id = org_id(partner)),
           file.path(dest, "partner_lga_assignment.csv"))
 

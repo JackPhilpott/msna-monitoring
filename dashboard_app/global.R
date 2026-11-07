@@ -93,7 +93,9 @@ THEME_SIDEBAR_FG <- "#F4F6F8"
 get_ward_choices <- function(lgas) {
   cluster_frame %>%
     filter(adm2_name %in% lgas, !is.na(adm3_name)) %>%
-    distinct(adm3_name) %>% arrange(adm3_name) %>% pull(adm3_name)
+    distinct(adm3_name) %>%
+    arrange(adm3_name) %>%
+    pull(adm3_name)
 }
 
 ward_to_lga <- cluster_frame %>%
@@ -144,7 +146,7 @@ accessibility_lga_ward_counts <- accessibility_ward_df %>%
   )
 
 accessibility_pop_remaining_label <- accessibility_strata %>%
-  left_join(strata_frame %>% distinct(strata_id, adm2_pcode), by = "strata_id") %>%
+  left_join(distinct(strata_frame, strata_id, adm2_pcode), by = "strata_id") %>%
   transmute(
     adm2_pcode,
     label = paste0(
@@ -265,7 +267,8 @@ compute_progress_by_stratum <- function(subs, target_basis = c("original", "revi
 
   collected <- subs %>% filter(is_collected(.)) %>% count(matched_strata_id, name = "collected_n")
 
-  confirmed_deletion <- subs %>% filter(is_confirmed_deletion(.)) %>%
+  confirmed_deletion <- subs %>%
+    filter(is_confirmed_deletion(.)) %>%
     count(matched_strata_id, name = "confirmed_deletion_n")
 
   pending_flagged <- subs %>%
@@ -671,8 +674,11 @@ info_title <- function(label, definition, icon_color = NULL) {
 }
 
 bin_integer_counts <- function(x, from, to) {
+  counts <- tibble(value = round(x)) %>%
+    filter(!is.na(value), value >= from, value <= to) %>%
+    count(value)
   tibble(value = from:to) %>%
-    left_join(tibble(value = round(x)) %>% filter(!is.na(value), value >= from, value <= to) %>% count(value), by = "value") %>%
+    left_join(counts, by = "value") %>%
     mutate(n = coalesce(n, 0L))
 }
 

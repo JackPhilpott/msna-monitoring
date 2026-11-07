@@ -151,10 +151,14 @@ mod_home_server <- function(id, target_basis) {
           )
         ),
         tags$tr(
-          tags$td("Achieved", info_icon(paste0(
-            "Every completed interview that counts: excludes confirmed deletions, and includes in full any collected past a stratum's own target. ",
-            "Of these, ", comma(total_credited), " count toward the target of ", comma(active_planned_interviews(target_basis())),
-            " and ", comma(total_achieved - total_credited), " are extra interviews in strata already at target, which is why target minus achieved is not what is still needed: see the next row."))),
+          tags$td(
+            "Achieved",
+            info_icon(paste0(
+              "Every completed interview that counts: excludes confirmed deletions, and includes in full any collected past a stratum's own target. ",
+              "Of these, ", comma(total_credited), " count toward the target of ", comma(active_planned_interviews(target_basis())),
+              " and ", comma(total_achieved - total_credited), " are extra interviews in strata already at target, which is why target minus achieved is not what is still needed: see the next row."
+            ))
+          ),
           tags$td(strong(comma(total_achieved)))
         ),
         tags$tr(
@@ -166,12 +170,16 @@ mod_home_server <- function(id, target_basis) {
           tags$td(strong(comma(cb$collected)))
         ),
         tags$tr(
-          tags$td("Confirmed Deleted", info_icon(paste0(
-            "Interviews removed in cleaning (too short, duplicates, cluster codes not in the sample, clusters reported inaccessible). ",
-            "Within the active strata, Collected = Achieved + Confirmed Deleted + Oversampling Surplus (currently ",
-            comma(total_oversampling_surplus), "). ",
-            "The rest of Collected sits outside those strata: ", comma(cb$dropped_collected),
-            " in strata dropped from the design and ", comma(cb$unmatched), " not matched to a sampled cluster."))),
+          tags$td(
+            "Confirmed Deleted",
+            info_icon(paste0(
+              "Interviews removed in cleaning (too short, duplicates, cluster codes not in the sample, clusters reported inaccessible). ",
+              "Within the active strata, Collected = Achieved + Confirmed Deleted + Oversampling Surplus (currently ",
+              comma(total_oversampling_surplus), "). ",
+              "The rest of Collected sits outside those strata: ", comma(cb$dropped_collected),
+              " in strata dropped from the design and ", comma(cb$unmatched), " not matched to a sampled cluster."
+            ))
+          ),
           tags$td(strong(comma(total_confirmed_deletion)))
         ),
         tags$tr(

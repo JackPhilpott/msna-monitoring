@@ -1,4 +1,5 @@
 """Shared tools for the Python steps of the monitoring pipeline."""
+
 from __future__ import annotations
 
 import re
@@ -32,8 +33,7 @@ def write_csv(df: pd.DataFrame, path: Path) -> None:
     """
     path.parent.mkdir(parents=True, exist_ok=True)
     if path.suffix == ".gz":
-        df.to_csv(path, index=False, lineterminator="\n",
-                  compression={"method": "gzip", "mtime": 0})
+        df.to_csv(path, index=False, lineterminator="\n", compression={"method": "gzip", "mtime": 0})
     else:
         df.to_csv(path, index=False, lineterminator="\n")
 
@@ -45,7 +45,9 @@ def make_xlsx_reproducible(path: Path) -> None:
     with zipfile.ZipFile(path, "w") as z:
         for info, data in parts:
             if info.filename == "docProps/core.xml":
-                data = re.sub(rb"(<dcterms:(?:created|modified)[^>]*>)[^<]*", rb"\g<1>2026-01-01T00:00:00Z", data)
+                data = re.sub(
+                    rb"(<dcterms:(?:created|modified)[^>]*>)[^<]*", rb"\g<1>2026-01-01T00:00:00Z", data
+                )
             fixed = zipfile.ZipInfo(info.filename, date_time=(2026, 1, 1, 0, 0, 0))
             fixed.compress_type = zipfile.ZIP_DEFLATED
             fixed.external_attr = info.external_attr

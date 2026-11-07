@@ -47,9 +47,9 @@ mod_quality_server <- function(id, filtered_subs) {
       df <- filtered_subs()
       paste0(comma(sum(df$any_quality_flag)), " (", fmt_pct(mean(df$any_quality_flag)), ")")
     })
-    output$kpi_gps <- renderText({ comma(sum(filtered_subs()$flag_gps_outlier)) })
-    output$kpi_duration <- renderText({ comma(sum(filtered_subs()$flag_duration_outlier)) })
-    output$kpi_dup <- renderText({ comma(sum(filtered_subs()$is_duplicate)) })
+    output$kpi_gps <- renderText(comma(sum(filtered_subs()$flag_gps_outlier)))
+    output$kpi_duration <- renderText(comma(sum(filtered_subs()$flag_duration_outlier)))
+    output$kpi_dup <- renderText(comma(sum(filtered_subs()$is_duplicate)))
 
     output$flag_plot <- renderPlotly({
       df <- filtered_subs()

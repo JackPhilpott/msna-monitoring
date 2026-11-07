@@ -56,7 +56,8 @@ dup_hh <- r |> filter(consented) |> arrange(start) |> filter(duplicated(househol
 checks$C03 <- log_rows(dup_hh, "C03", "duplicate_household", "household_id",
                        "Household already interviewed in an earlier submission", "remove", dup_hh$household_id)
 short <- filter(r, consented, duration_min < ck$min_duration_min)
-checks$C04 <- log_rows(short, "C04", "too_short", "duration", sprintf("Interview took %.0f minutes", short$duration_min),
+checks$C04 <- log_rows(short, "C04", "too_short", "duration",
+                       sprintf("Interview took %.0f minutes", short$duration_min),
                        "remove", round(short$duration_min, 1))
 checks$C05 <- log_rows(filter(r, is.na(cluster_status)), "C05", "cluster_not_in_sample", "cluster_id",
                        "Cluster code not in the sample", "remove", filter(r, is.na(cluster_status))$cluster_id)
@@ -64,14 +65,16 @@ checks$C06 <- log_rows(filter(r, cluster_status %in% "inaccessible"), "C06", "cl
                        "Cluster had been reported inaccessible", "remove",
                        filter(r, cluster_status %in% "inaccessible")$cluster_id)
 far <- filter(r, consented, gps_distance_m > ck$max_gps_distance_m)
-checks$C07 <- log_rows(far, "C07", "gps_far", "gps", sprintf("GPS point %.1f km from the household", far$gps_distance_m / 1000),
+checks$C07 <- log_rows(far, "C07", "gps_far", "gps",
+                       sprintf("GPS point %.1f km from the household", far$gps_distance_m / 1000),
                        "flag", round(far$gps_distance_m))
 fcs_cols <- paste0("fcs_", names(FCS_WEIGHTS))
 fcs_mat <- sapply(fcs_cols, function(c) num(r[[c]]))
 flat <- consented & apply(fcs_mat, 1, function(x) all(!is.na(x)) && length(unique(x)) == 1)
 checks$C08 <- log_rows(r[flat, ], "C08", "fcs_flat", "fcs_*", "Every food group given the same number of days",
                        "flag", fcs_mat[flat, 1])
-r_fcs <- fcs_score(r); r_hhs <- hhs_score(r)
+r_fcs <- fcs_score(r)
+r_hhs <- hhs_score(r)
 contra <- consented & !is.na(r_fcs) & r_fcs > 35 & !is.na(r_hhs) & r_hhs >= 4
 checks$C09 <- log_rows(r[contra, ], "C09", "fcs_hhs_contradiction", "fcs_score / hhs_score",
                        "Acceptable food consumption with severe hunger", "flag",
@@ -82,7 +85,8 @@ checks$C10 <- log_rows(big, "C10", "hh_size_outlier", "hh_size", "Household size
 kids <- filter(r, consented, num(n_children_u5) + num(n_children_school_age) > num(hh_size))
 checks$C11 <- log_rows(kids, "C11", "children_exceed_hh", "n_children_u5 / n_children_school_age",
                        "More children than household members", "flag",
-                       sprintf("%s + %s children, household of %s", kids$n_children_u5, kids$n_children_school_age, kids$hh_size))
+                       sprintf("%s + %s children, household of %s",
+                               kids$n_children_u5, kids$n_children_school_age, kids$hh_size))
 att <- filter(r, consented, num(n_children_attending) > num(n_children_school_age))
 checks$C12 <- log_rows(att, "C12", "attending_exceed_school_age", "n_children_attending",
                        "More children attending school than of school age", "flag", att$n_children_attending)
@@ -95,7 +99,8 @@ recode_to <- function(text) {
   hit <- matrix(hit, nrow = length(text))
   ifelse(rowSums(hit) > 0, unname(recode_rules)[max.col(hit, ties.method = "first")], NA_character_)
 }
-oth <- filter(r, consented, income_source == "other") |> mutate(to = recode_to(income_source_other)) |>
+oth <- filter(r, consented, income_source == "other") |>
+  mutate(to = recode_to(income_source_other)) |>
   filter(!is.na(to))
 checks$C13 <- log_rows(oth, "C13", "other_recoded", "income_source",
                        sprintf("'Other' answer '%s' matches an existing option", oth$income_source_other),
@@ -166,7 +171,8 @@ per_check <- cleaning_log |>
   summarise(flagged = n_distinct(.row), planted_hits = sum(`_uuid` %in% key$`_uuid`),
             routine = sum(check_id == "C01" & `_uuid` %in% routine), .groups = "drop") |>
   mutate(false_flags = flagged - planted_hits - routine)
-performance <- caught |> left_join(select(per_check, check_id, check, flagged, false_flags), by = "check_id") |>
+performance <- caught |>
+  left_join(select(per_check, check_id, check, flagged, false_flags), by = "check_id") |>
   arrange(check_id)
 
 write_synthetic(select(cleaning_log, -.row), "clean/cleaning_log.csv", cfg)
@@ -181,7 +187,8 @@ message(sprintf("Raw: %s submissions | removed %s | kept %s | values changed %s 
                 format(nrow(raw), big.mark = ","), format(nrow(deletion_log), big.mark = ","),
                 format(nrow(clean), big.mark = ","), format(nrow(changes), big.mark = ","),
                 format(n_distinct(cleaning_log$.row[cleaning_log$action == "flag"]), big.mark = ",")))
-message(sprintf("Planted errors caught: %s of %s (%.1f%%), right action on %s; false flags: %s; enumerators flagged: %d",
+message(sprintf(paste("Planted errors caught: %s of %s (%.1f%%), right action on %s;",
+                      "false flags: %s; enumerators flagged: %d"),
                 format(sum(caught$caught), big.mark = ","), format(sum(caught$planted), big.mark = ","),
                 100 * sum(caught$caught) / sum(caught$planted), format(sum(caught$right_action), big.mark = ","),
                 sum(per_check$false_flags), nrow(bad_enum)))

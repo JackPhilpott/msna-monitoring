@@ -27,11 +27,13 @@ FINAL_BANNER <- div(
   " This is the final overview of the collected data. Every figure comes from the synthetic pipeline in this repo."
 )
 
-picker_opts <- function(...) pickerOptions(
-  actionsBox = TRUE, liveSearch = TRUE, selectedTextFormat = "count > 3",
-  countSelectedText = "{0} of {1} selected", noneSelectedText = "Nothing selected",
-  size = 10, container = "body", ...
-)
+picker_opts <- function(...) {
+  pickerOptions(
+    actionsBox = TRUE, liveSearch = TRUE, selectedTextFormat = "count > 3",
+    countSelectedText = "{0} of {1} selected", noneSelectedText = "Nothing selected",
+    size = 10, container = "body", ...
+  )
+}
 
 filter_sidebar <- sidebar(
   title = "Filters",

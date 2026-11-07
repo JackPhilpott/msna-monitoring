@@ -34,6 +34,7 @@ households <- read_dir("from_sampling/households", "\\.csv$")
 results <- list()
 check <- function(id, description, ok, detail, warn_only = FALSE) {
   status <- if (ok) "PASS" else if (warn_only) "WARN" else "FAIL"
+  # nolint next: assignment_linter. Each check adds its row to the script-level results list.
   results[[id]] <<- tibble(check_id = id, description = description, status = status, detail = detail)
 }
 fmt <- function(x) format(x, big.mark = ",")
@@ -51,7 +52,8 @@ check("V03", "Every clean interview is in an active cluster, with a household fr
         all(paste(clean$cluster_id, clean$household_id) %in% paste(households$cluster_id, households$household_id)),
       sprintf("%d interviews outside active clusters, %d households not on their cluster's list",
               sum(!clean$cluster_id %in% active$cluster_id),
-              sum(!paste(clean$cluster_id, clean$household_id) %in% paste(households$cluster_id, households$household_id))))
+              sum(!paste(clean$cluster_id, clean$household_id) %in%
+                    paste(households$cluster_id, households$household_id))))
 inacc <- clusters$cluster_id[clusters$status == "inaccessible"]
 check("V04", "No clean interview is in a cluster reported inaccessible",
       !any(clean$cluster_id %in% inacc), sprintf("%d interviews", sum(clean$cluster_id %in% inacc)))
@@ -64,12 +66,14 @@ check("V05", "No cluster has more interviews than households on its list",
               max(per_cluster$n), sum(per_cluster$n > CLUSTER_SIZE), CLUSTER_SIZE))
 assigned <- lgas |> filter(surveyed) |> mutate(partner_code = tolower(gsub(" ", "_", partner)))
 lga_of <- clusters |> select(cluster_id, adm2_pcode)
-mismatch <- clean |> left_join(lga_of, by = "cluster_id") |>
+mismatch <- clean |>
+  left_join(lga_of, by = "cluster_id") |>
   left_join(select(assigned, adm2_pcode, partner_code), by = "adm2_pcode") |>
   filter(partner != partner_code)
 check("V06", "Every interview was done by the partner assigned to its LGA", nrow(mismatch) == 0,
       sprintf("%d interviews by another partner", nrow(mismatch)))
-num_cols <- c(grep("^fcs_(cereals|pulses|dairy|meat|vegetables|fruit|oil|sugar|condiments)$", names(clean), value = TRUE),
+fcs_items <- "^fcs_(cereals|pulses|dairy|meat|vegetables|fruit|oil|sugar|condiments)$"
+num_cols <- c(grep(fcs_items, names(clean), value = TRUE),
               grep("^rcsi_(?!score)", names(clean), value = TRUE, perl = TRUE))
 out_of_range <- sum(sapply(num_cols, function(c) sum(!is.na(clean[[c]]) & !as.numeric(clean[[c]]) %in% 0:7)))
 too_big <- sum(as.numeric(clean$hh_size) > cfg$checks$max_hh_size, na.rm = TRUE)
@@ -93,10 +97,16 @@ check("V09", "Every change in the cleaning log is applied in the clean data", al
 
 local_sampling <- here::here(cfg$sampling$local_repo, "data", "synthetic")
 if (dir.exists(local_sampling)) {
-  files <- c(cfg$sampling$files, file.path(cfg$sampling$households_dir, list.files(file.path(local_sampling, cfg$sampling$households_dir))))
-  stale <- files[tools::md5sum(file.path(local_sampling, files)) != tools::md5sum(out_path(cfg, "from_sampling", files))]
-  check("V10", "The copy of the sample matches msna-sampling's current outputs", length(stale) == 0,
-        if (length(stale)) paste("out of date:", paste(stale, collapse = ", ")) else sprintf("%d files identical", length(files)))
+  hh_dir <- cfg$sampling$households_dir
+  files <- c(cfg$sampling$files, file.path(hh_dir, list.files(file.path(local_sampling, hh_dir))))
+  local_md5 <- tools::md5sum(file.path(local_sampling, files))
+  stale <- files[local_md5 != tools::md5sum(out_path(cfg, "from_sampling", files))]
+  detail <- if (length(stale)) {
+    paste("out of date:", paste(stale, collapse = ", "))
+  } else {
+    sprintf("%d files identical", length(files))
+  }
+  check("V10", "The copy of the sample matches msna-sampling's current outputs", length(stale) == 0, detail)
 } else {
   check("V10", "The copy of the sample matches msna-sampling's current outputs", TRUE,
         "skipped: no local msna-sampling checkout to compare with")
