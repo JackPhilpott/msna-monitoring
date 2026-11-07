@@ -1,0 +1,15 @@
+linters: linters_with_defaults(
+    line_length_linter = line_length_linter(120),
+    object_name_linter = object_name_linter(
+      styles = c("snake_case", "symbols"),
+      regexes = c(constant = "^[A-Z][A-Z0-9_]*$")
+    ),
+    object_usage_linter = NULL,
+    pipe_consistency_linter = NULL
+  )
+encoding: "UTF-8"
+exclusions: local({
+    relaxed <- list(line_length_linter = Inf, object_name_linter = Inf, object_length_linter = Inf)
+    files <- list.files("dashboard_app", pattern = "[.]R$", recursive = TRUE, full.names = TRUE)
+    setNames(rep(list(relaxed), length(files)), files)
+  })

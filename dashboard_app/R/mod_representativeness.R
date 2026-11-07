@@ -88,8 +88,8 @@ mod_representativeness_server <- function(id, filtered_subs, filtered_stratum) {
         mutate(n_signed = ifelse(resp_gender == "male", -n, n))
 
       plot_ly() %>%
-        add_bars(data = df %>% filter(resp_gender == "male"), x = ~n_signed, y = ~age_band, name = "Male", orientation = "h", marker = list(color = "#4C7FD9")) %>%
-        add_bars(data = df %>% filter(resp_gender == "female"), x = ~n_signed, y = ~age_band, name = "Female", orientation = "h", marker = list(color = "#D99A2B")) %>%
+        add_bars(data = filter(df, resp_gender == "male"), x = ~n_signed, y = ~age_band, name = "Male", orientation = "h", marker = list(color = "#4C7FD9")) %>%
+        add_bars(data = filter(df, resp_gender == "female"), x = ~n_signed, y = ~age_band, name = "Female", orientation = "h", marker = list(color = "#D99A2B")) %>%
         layout(
           barmode = "overlay",
           xaxis = list(title = "Respondents", tickvals = pretty(c(-max(df$n, 1), max(df$n, 1))), ticktext = abs(pretty(c(-max(df$n, 1), max(df$n, 1))))),

@@ -223,7 +223,7 @@ build_partner_excel <- function(org_id_val, file, target_basis = "original") {
       addStyle(wb, sheet2, createStyle(fgFill = STRATUM_STATUS_COLORS[[s]]), rows = rows, cols = status_col, gridExpand = TRUE, stack = TRUE)
     }
   }
-  setColWidths(wb, sheet2, cols = 1:ncol(export_df), widths = "auto")
+  setColWidths(wb, sheet2, cols = seq_len(ncol(export_df)), widths = "auto")
   freezePane(wb, sheet2, firstRow = TRUE)
 
   saveWorkbook(wb, file, overwrite = TRUE)

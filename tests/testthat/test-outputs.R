@@ -40,7 +40,8 @@ test_that("the dashboard's submissions match the cleaning outputs", {
   subs <- readRDS(dash("submissions.rds"))
   deleted <- read_csv(out_path(cfg, "clean", "deletion_log.csv"), show_col_types = FALSE)
   clean <- list.files(out_path(cfg, "clean"), "^clean_data_.*\\.csv\\.gz$", full.names = TRUE) |>
-    lapply(read_csv, col_types = cols(.default = "c")) |> bind_rows()
+    lapply(read_csv, col_types = cols(.default = "c")) |>
+    bind_rows()
   expect_equal(nrow(subs), nrow(read_submissions(cfg)))
   expect_equal(sum(subs$deletion_status %in% "confirmed"), nrow(deleted))
   # every kept interview counts as achieved: completed, and not a confirmed deletion

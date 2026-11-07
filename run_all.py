@@ -6,6 +6,7 @@ Usage:  python run_all.py            # every step
 Rscript is found on PATH, or set the RSCRIPT environment variable to its full path.
 Step 3 is a gate: if a validity check fails, the pipeline stops there.
 """
+
 import glob
 import os
 import shutil
@@ -29,8 +30,9 @@ def find_rscript() -> str:
     found = os.environ.get("RSCRIPT") or shutil.which("Rscript")
     if not found and os.name == "nt":
         # standard per-user and machine-wide R installs on Windows
-        candidates = glob.glob(os.path.expandvars(r"%LOCALAPPDATA%\Programs\R\R-*\bin\Rscript.exe")) + \
-            glob.glob(r"C:\Program Files\R\R-*\bin\Rscript.exe")
+        candidates = glob.glob(
+            os.path.expandvars(r"%LOCALAPPDATA%\Programs\R\R-*\bin\Rscript.exe")
+        ) + glob.glob(r"C:\Program Files\R\R-*\bin\Rscript.exe")
         found = sorted(candidates)[-1] if candidates else None
     if not found:
         sys.exit("Rscript not found: put R on PATH or set RSCRIPT to its full path")

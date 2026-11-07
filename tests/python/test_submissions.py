@@ -1,4 +1,5 @@
 """Checks on the synthetic submissions and the answer key. Skipped until step 1 has run."""
+
 import sys
 from pathlib import Path
 
@@ -13,9 +14,22 @@ from monitoring_tools import load_config, output_dir  # noqa: E402
 RAW = output_dir(load_config()) / "raw"
 pytestmark = pytest.mark.skipif(not (RAW / "answer_key.csv").exists(), reason="run step 1 first")
 
-ERROR_TYPES = {"too_short", "duplicate_exact", "duplicate_near", "gps_far", "consent_no_continued", "fcs_flat",
-               "fcs_hhs_contradiction", "hh_size_outlier", "children_exceed_hh", "attending_exceed_school_age",
-               "wrong_cluster", "dropped_cluster", "other_to_recode", "problem_enumerator"}
+ERROR_TYPES = {
+    "too_short",
+    "duplicate_exact",
+    "duplicate_near",
+    "gps_far",
+    "consent_no_continued",
+    "fcs_flat",
+    "fcs_hhs_contradiction",
+    "hh_size_outlier",
+    "children_exceed_hh",
+    "attending_exceed_school_age",
+    "wrong_cluster",
+    "dropped_cluster",
+    "other_to_recode",
+    "problem_enumerator",
+}
 
 
 @pytest.fixture(scope="module")
@@ -56,4 +70,5 @@ def test_select_multiple_columns_match_the_answer(raw):
     answered = raw[raw["priority_needs"].notna()].head(500)
     for need in ["food", "water", "shelter", "health"]:
         flag = answered[f"priority_needs/{need}"].astype(float).astype(int)
-        assert (flag == answered["priority_needs"].str.split().apply(lambda s: int(need in s))).all()
+        has_need = answered["priority_needs"].str.split().apply(lambda s, need=need: int(need in s))
+        assert (flag == has_need).all()

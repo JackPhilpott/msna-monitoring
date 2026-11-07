@@ -22,6 +22,7 @@ Outputs: questionnaire/msna_reduced_xlsform.xlsx
          data/synthetic/raw/enumerators.csv
          data/synthetic/raw/answer_key.csv  (never available in real data collection)
 """
+
 import math
 import sys
 import uuid
@@ -32,18 +33,34 @@ import numpy as np
 import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "python"))
-from monitoring_tools import (ROOT, from_sampling, load_config, make_xlsx_reproducible,  # noqa: E402
-                              output_dir, write_csv)
+from monitoring_tools import (
+    ROOT,
+    from_sampling,
+    load_config,
+    make_xlsx_reproducible,  # noqa: E402
+    output_dir,
+    write_csv,
+)
 
 FCS_GROUPS = ["cereals", "pulses", "dairy", "meat", "vegetables", "fruit", "oil", "sugar"]
 RCSI_ITEMS = ["less_preferred", "borrow_food", "limit_portions", "restrict_adults", "reduce_meals"]
 HHS_ITEMS = ["no_food", "sleep_hungry", "whole_day"]
-LCSI_ITEMS = {"spend_savings": -0.6, "sell_assets": -0.9, "reduce_health_education": -1.4,
-              "sell_productive_assets": -1.7, "sell_house_land": -2.6, "beg": -2.4}
+LCSI_ITEMS = {
+    "spend_savings": -0.6,
+    "sell_assets": -0.9,
+    "reduce_health_education": -1.4,
+    "sell_productive_assets": -1.7,
+    "sell_house_land": -2.6,
+    "beg": -2.4,
+}
 NEEDS = ["food", "water", "shelter", "health", "education", "livelihoods", "protection", "nfis"]
 OTHER_INCOME_TEXT = ["tailoring", "motorcycle taxi", "firewood collection", "hairdressing", "blacksmith"]
-RECODABLE_OTHER = {"farming my own land": "crops", "selling goods in the market": "petty_trade",
-                   "rearing goats and sheep": "livestock", "casual work on other farms": "daily_labour"}
+RECODABLE_OTHER = {
+    "farming my own land": "crops",
+    "selling goods in the market": "petty_trade",
+    "rearing goats and sheep": "livestock",
+    "casual work on other farms": "daily_labour",
+}
 WAT = timedelta(hours=1)  # West Africa Time, UTC+1
 
 
@@ -60,8 +77,13 @@ def pick(rng, n, options: dict):
 def build_xlsform() -> Path:
     q = ROOT / "questionnaire"
     path = q / "msna_reduced_xlsform.xlsx"
-    settings = pd.DataFrame({"form_title": ["MSNA, reduced questionnaire (synthetic demo)"],
-                             "form_id": ["msna_reduced_demo"], "version": ["2026.1"]})
+    settings = pd.DataFrame(
+        {
+            "form_title": ["MSNA, reduced questionnaire (synthetic demo)"],
+            "form_id": ["msna_reduced_demo"],
+            "version": ["2026.1"],
+        }
+    )
     with pd.ExcelWriter(path, engine="openpyxl") as w:
         pd.read_csv(q / "survey.csv", dtype=str).fillna("").to_excel(w, sheet_name="survey", index=False)
         pd.read_csv(q / "choices.csv", dtype=str).to_excel(w, sheet_name="choices", index=False)
@@ -91,8 +113,13 @@ def assign_teams(cfg, clusters):
         block = np.arange(len(idx)) * n_teams // len(idx) + 1
         clusters.loc[idx, "team"] = [f"team_{letter}_{t:02d}" for t in block]
         for k in range(1, n_teams * c["team_size"] + 1):
-            rows.append({"enumerator_id": f"enum_{letter}_{k:02d}", "partner": partner,
-                         "team": f"team_{letter}_{(k - 1) // c['team_size'] + 1:02d}"})
+            rows.append(
+                {
+                    "enumerator_id": f"enum_{letter}_{k:02d}",
+                    "partner": partner,
+                    "team": f"team_{letter}_{(k - 1) // c['team_size'] + 1:02d}",
+                }
+            )
     return clusters.sort_values("cluster_id"), pd.DataFrame(rows)
 
 
@@ -124,11 +151,13 @@ def plan_interviews(cfg, rng, clusters, households, roster):
     """One row per household approached: who, where, when, and whether they consented."""
     c = cfg["collection"]
     teams = roster.groupby(["partner", "team"])["enumerator_id"].apply(list)
-    hh_by_cluster = {k: g.sort_values(["role", "rank"], ascending=[True, True]) for k, g in
-                     households.groupby("cluster_id")}
+    hh_by_cluster = {
+        k: g.sort_values(["role", "rank"], ascending=[True, True])
+        for k, g in households.groupby("cluster_id")
+    }
     start = date.fromisoformat(str(c["start_date"]))
     rows = []
-    for cl, day in zip(clusters.itertuples(), clusters["visit_day"]):
+    for cl, day in zip(clusters.itertuples(), clusters["visit_day"], strict=False):
         members = teams[(cl.partner, cl.team)]
         hh = hh_by_cluster.get(cl.cluster_id)
         if hh is None:
@@ -141,12 +170,23 @@ def plan_interviews(cfg, rng, clusters, households, roster):
             if h.role == "primary" and rng.random() < c["primary_unavailable"]:
                 continue
             consent = "no" if rng.random() < c["non_consent"] else "yes"
-            rows.append({"cluster_id": cl.cluster_id, "household_id": h.household_id, "partner": cl.partner,
-                         "stratum_id": cl.stratum_id, "pop_type": cl.pop_type, "psu_id": cl.psu_id,
-                         "adm1_name": cl.adm1_name, "adm2_pcode": cl.adm2_pcode,
-                         "enumerator_id": members[rng.integers(len(members))],
-                         "date": start + timedelta(days=int(day)), "hh_lon": h.lon, "hh_lat": h.lat,
-                         "consent": consent})
+            rows.append(
+                {
+                    "cluster_id": cl.cluster_id,
+                    "household_id": h.household_id,
+                    "partner": cl.partner,
+                    "stratum_id": cl.stratum_id,
+                    "pop_type": cl.pop_type,
+                    "psu_id": cl.psu_id,
+                    "adm1_name": cl.adm1_name,
+                    "adm2_pcode": cl.adm2_pcode,
+                    "enumerator_id": members[rng.integers(len(members))],
+                    "date": start + timedelta(days=int(day)),
+                    "hh_lon": h.lon,
+                    "hh_lat": h.lat,
+                    "consent": consent,
+                }
+            )
             done += consent == "yes"
     return pd.DataFrame(rows)
 
@@ -166,7 +206,7 @@ def add_times_and_gps(cfg, rng, df):
     walk = rng.uniform(15, 60, n)
     trip = rng.uniform(45, 120, n)
     clock, last_cluster, start_local = {}, {}, []
-    for i, key in enumerate(zip(df["enumerator_id"], df["date"])):
+    for i, key in enumerate(zip(df["enumerator_id"], df["date"], strict=False)):
         t = clock.get(key, first[i])
         if key in last_cluster and last_cluster[key] != df["cluster_id"].iat[i]:
             t += trip[i]
@@ -174,7 +214,7 @@ def add_times_and_gps(cfg, rng, df):
         clock[key], last_cluster[key] = t + minutes[i] + walk[i], df["cluster_id"].iat[i]
     df["duration_min"] = minutes
     df["start_dt"] = start_local
-    df["end_dt"] = [s + timedelta(minutes=float(m)) for s, m in zip(start_local, minutes)]
+    df["end_dt"] = [s + timedelta(minutes=float(m)) for s, m in zip(start_local, minutes, strict=False)]
     dx, dy = rng.normal(0, c["gps_noise_m"], n), rng.normal(0, c["gps_noise_m"], n)
     df["gps_lat"] = df["hh_lat"] + dy / 111_320
     df["gps_lon"] = df["hh_lon"] + dx / (111_320 * np.cos(np.radians(df["hh_lat"])))
@@ -189,9 +229,13 @@ def generate_answers(rng, df, sites):
     idp = df["pop_type"].eq("idp").to_numpy()
     in_camp = df["psu_id"].map(sites.set_index("site_id")["category"]).eq("in_camp").to_numpy()
     state_eff = {s: rng.normal(0, 0.3) for s in sorted(df["adm1_name"].unique())}
-    lga_eff = {l: rng.normal(0, 0.25) for l in sorted(df["adm2_pcode"].unique())}
-    v = df["adm1_name"].map(state_eff).to_numpy() + df["adm2_pcode"].map(lga_eff).to_numpy() + \
-        0.7 * idp + rng.normal(0, 1, n)
+    lga_eff = {lga: rng.normal(0, 0.25) for lga in sorted(df["adm2_pcode"].unique())}
+    v = (
+        df["adm1_name"].map(state_eff).to_numpy()
+        + df["adm2_pcode"].map(lga_eff).to_numpy()
+        + 0.7 * idp
+        + rng.normal(0, 1, n)
+    )
     a = {}
 
     a["hh_size"] = np.clip(1 + rng.poisson(5.2 + 0.4 * idp), 1, 20)
@@ -200,19 +244,30 @@ def generate_answers(rng, df, sites):
     a["n_children_u5"] = rng.binomial(a["hh_size"] - 1, 0.18)
     a["n_children_school_age"] = rng.binomial(a["hh_size"] - 1 - a["n_children_u5"], 0.33)
     a["displacement_status"] = np.where(
-        idp, np.where(rng.random(n) < 0.92, "idp", "returnee"),
-        pick(rng, n, {"non_displaced": 0.93, "returnee": 0.05, "idp": 0.02}))
-    a["months_displaced"] = np.where(a["displacement_status"] == "idp",
-                                     np.clip(np.round(rng.lognormal(3.0, 0.8, n)), 1, 180), np.nan)
+        idp,
+        np.where(rng.random(n) < 0.92, "idp", "returnee"),
+        pick(rng, n, {"non_displaced": 0.93, "returnee": 0.05, "idp": 0.02}),
+    )
+    a["months_displaced"] = np.where(
+        a["displacement_status"] == "idp", np.clip(np.round(rng.lognormal(3.0, 0.8, n)), 1, 180), np.nan
+    )
 
-    fcs = {"cereals": (3.0, 0.4), "pulses": (0.0, 0.6), "dairy": (-0.6, 0.6), "meat": (-0.7, 0.6),
-           "vegetables": (0.6, 0.5), "fruit": (-1.2, 0.4), "oil": (1.4, 0.5), "sugar": (0.3, 0.5),
-           "condiments": (2.5, 0.3)}
+    fcs = {
+        "cereals": (3.0, 0.4),
+        "pulses": (0.0, 0.6),
+        "dairy": (-0.6, 0.6),
+        "meat": (-0.7, 0.6),
+        "vegetables": (0.6, 0.5),
+        "fruit": (-1.2, 0.4),
+        "oil": (1.4, 0.5),
+        "sugar": (0.3, 0.5),
+        "condiments": (2.5, 0.3),
+    }
     for g, (base, slope) in fcs.items():
         a[f"fcs_{g}"] = rng.binomial(7, logistic(base - slope * v))
-    for item, base in zip(RCSI_ITEMS, [-0.4, -1.2, -0.8, -1.6, -0.9]):
+    for item, base in zip(RCSI_ITEMS, [-0.4, -1.2, -0.8, -1.6, -0.9], strict=False):
         a[f"rcsi_{item}"] = rng.binomial(7, logistic(base + 0.9 * v))
-    for item, base in zip(HHS_ITEMS, [-1.6, -2.0, -2.8]):
+    for item, base in zip(HHS_ITEMS, [-1.6, -2.0, -2.8], strict=False):
         happened = rng.random(n) < logistic(base + 1.1 * v)
         often = rng.random(n) < logistic(-1.2 + 0.6 * v)
         freq = np.where(often, "often", np.where(rng.random(n) < 0.5, "sometimes", "rarely"))
@@ -221,46 +276,142 @@ def generate_answers(rng, df, sites):
     for item, base in LCSI_ITEMS.items():
         p_yes = logistic(base + 0.7 * v)
         r = rng.random(n)
-        a[f"lcsi_{item}"] = np.where(r < p_yes, "yes", np.where(r < p_yes * 1.15, "no_exhausted",
-                                     np.where(r > 0.93, "not_applicable", "no_not_needed")))
+        a[f"lcsi_{item}"] = np.where(
+            r < p_yes,
+            "yes",
+            np.where(r < p_yes * 1.15, "no_exhausted", np.where(r > 0.93, "not_applicable", "no_not_needed")),
+        )
 
-    water_resident = {"borehole": 0.35, "protected_well": 0.15, "unprotected_well": 0.17, "public_tap": 0.08,
-                      "piped": 0.05, "surface_water": 0.10, "water_vendor": 0.08, "other": 0.02}
-    water_camp = {"public_tap": 0.30, "borehole": 0.30, "water_vendor": 0.15, "unprotected_well": 0.10,
-                  "surface_water": 0.10, "other": 0.05}
+    water_resident = {
+        "borehole": 0.35,
+        "protected_well": 0.15,
+        "unprotected_well": 0.17,
+        "public_tap": 0.08,
+        "piped": 0.05,
+        "surface_water": 0.10,
+        "water_vendor": 0.08,
+        "other": 0.02,
+    }
+    water_camp = {
+        "public_tap": 0.30,
+        "borehole": 0.30,
+        "water_vendor": 0.15,
+        "unprotected_well": 0.10,
+        "surface_water": 0.10,
+        "other": 0.05,
+    }
     a["water_source"] = np.where(in_camp, pick(rng, n, water_camp), pick(rng, n, water_resident))
     a["water_sufficient"] = np.where(rng.random(n) < logistic(1.0 - 0.5 * v), "yes", "no")
     a["sanitation_facility"] = np.where(
-        in_camp, pick(rng, n, {"pit_latrine_slab": 0.45, "pit_latrine_no_slab": 0.30, "open_defecation": 0.20,
-                               "other": 0.05}),
-        pick(rng, n, {"flush_toilet": 0.08, "pit_latrine_slab": 0.30, "pit_latrine_no_slab": 0.37,
-                      "open_defecation": 0.23, "other": 0.02}))
+        in_camp,
+        pick(
+            rng,
+            n,
+            {"pit_latrine_slab": 0.45, "pit_latrine_no_slab": 0.30, "open_defecation": 0.20, "other": 0.05},
+        ),
+        pick(
+            rng,
+            n,
+            {
+                "flush_toilet": 0.08,
+                "pit_latrine_slab": 0.30,
+                "pit_latrine_no_slab": 0.37,
+                "open_defecation": 0.23,
+                "other": 0.02,
+            },
+        ),
+    )
     a["handwashing_soap"] = np.where(rng.random(n) < logistic(0.8 - 0.5 * v), "yes", "no")
     a["shelter_type"] = np.where(
-        in_camp, pick(rng, n, {"tent": 0.35, "makeshift": 0.45, "collective_centre": 0.15, "unfinished_house": 0.05}),
-        np.where(idp, pick(rng, n, {"makeshift": 0.30, "unfinished_house": 0.30, "solid_house": 0.25,
-                                    "collective_centre": 0.15}),
-                 pick(rng, n, {"solid_house": 0.65, "unfinished_house": 0.25, "makeshift": 0.08, "tent": 0.01,
-                               "collective_centre": 0.01})))
+        in_camp,
+        pick(rng, n, {"tent": 0.35, "makeshift": 0.45, "collective_centre": 0.15, "unfinished_house": 0.05}),
+        np.where(
+            idp,
+            pick(
+                rng,
+                n,
+                {"makeshift": 0.30, "unfinished_house": 0.30, "solid_house": 0.25, "collective_centre": 0.15},
+            ),
+            pick(
+                rng,
+                n,
+                {
+                    "solid_house": 0.65,
+                    "unfinished_house": 0.25,
+                    "makeshift": 0.08,
+                    "tent": 0.01,
+                    "collective_centre": 0.01,
+                },
+            ),
+        ),
+    )
     a["shelter_damage"] = np.where(rng.random(n) < logistic(-0.3 + 0.5 * v), "yes", "no")
     need = rng.random(n) < 0.45
     access = rng.random(n) < logistic(0.8 - 0.6 * v)
     a["health_need"] = np.where(need, "yes", "no")
     a["health_access"] = np.where(need, np.where(access, "yes", "no"), None)
-    a["health_barrier"] = np.where(need & ~access, pick(rng, n, {"cost": 0.45, "distance": 0.25, "insecurity": 0.12,
-                                                                 "no_staff_medicine": 0.13, "other": 0.05}), None)
+    a["health_barrier"] = np.where(
+        need & ~access,
+        pick(
+            rng,
+            n,
+            {"cost": 0.45, "distance": 0.25, "insecurity": 0.12, "no_staff_medicine": 0.13, "other": 0.05},
+        ),
+        None,
+    )
     school = a["n_children_school_age"]
     a["n_children_attending"] = np.where(school > 0, rng.binomial(school, logistic(0.6 - 0.5 * v)), np.nan)
     a["income_source"] = np.where(
-        idp, pick(rng, n, {"crops": 0.10, "livestock": 0.03, "daily_labour": 0.35, "petty_trade": 0.20,
-                           "salaried": 0.02, "remittances": 0.05, "assistance": 0.15, "none": 0.08, "other": 0.02}),
-        pick(rng, n, {"crops": 0.38, "livestock": 0.10, "daily_labour": 0.20, "petty_trade": 0.15, "salaried": 0.06,
-                      "remittances": 0.03, "assistance": 0.02, "none": 0.04, "other": 0.02}))
-    a["income_source_other"] = np.where(a["income_source"] == "other",
-                                        np.array(OTHER_INCOME_TEXT, dtype=object)[rng.integers(5, size=n)], None)
+        idp,
+        pick(
+            rng,
+            n,
+            {
+                "crops": 0.10,
+                "livestock": 0.03,
+                "daily_labour": 0.35,
+                "petty_trade": 0.20,
+                "salaried": 0.02,
+                "remittances": 0.05,
+                "assistance": 0.15,
+                "none": 0.08,
+                "other": 0.02,
+            },
+        ),
+        pick(
+            rng,
+            n,
+            {
+                "crops": 0.38,
+                "livestock": 0.10,
+                "daily_labour": 0.20,
+                "petty_trade": 0.15,
+                "salaried": 0.06,
+                "remittances": 0.03,
+                "assistance": 0.02,
+                "none": 0.04,
+                "other": 0.02,
+            },
+        ),
+    )
+    a["income_source_other"] = np.where(
+        a["income_source"] == "other",
+        np.array(OTHER_INCOME_TEXT, dtype=object)[rng.integers(5, size=n)],
+        None,
+    )
     a["aid_received"] = np.where(rng.random(n) < logistic(-1.2 + 1.5 * idp + 0.2 * v), "yes", "no")
-    weights = np.column_stack([1.5 + 0.5 * v, np.full(n, 0.9), 0.6 + 0.6 * idp, np.full(n, 0.9),
-                               np.full(n, 0.5), np.full(n, 0.8), np.full(n, 0.3), 0.4 + 0.3 * idp])
+    weights = np.column_stack(
+        [
+            1.5 + 0.5 * v,
+            np.full(n, 0.9),
+            0.6 + 0.6 * idp,
+            np.full(n, 0.9),
+            np.full(n, 0.5),
+            np.full(n, 0.8),
+            np.full(n, 0.3),
+            0.4 + 0.3 * idp,
+        ]
+    )
     keys = np.log(np.clip(weights, 0.05, None)) + rng.gumbel(size=weights.shape)
     top3 = np.argsort(-keys, axis=1)[:, :3]
     a["priority_needs"] = [" ".join(NEEDS[j] for j in sorted(row)) for row in top3]
@@ -279,7 +430,9 @@ def add_respondent(cfg, data):
     n = len(data)
     is_hoh = rng.random(n) < 0.7
     data["resp_is_hoh"] = np.where(is_hoh, "yes", "no")
-    data["resp_gender"] = np.where(is_hoh, data["hoh_gender"], np.where(rng.random(n) < 0.6, "female", "male"))
+    data["resp_gender"] = np.where(
+        is_hoh, data["hoh_gender"], np.where(rng.random(n) < 0.6, "female", "male")
+    )
     data["resp_age"] = np.where(is_hoh, data["hoh_age"], np.clip(np.round(rng.normal(35, 12, n)), 18, 85))
     enums = np.sort(data["enumerator_id"].unique())
     heapers = rng.choice(enums, size=round(0.08 * len(enums)), replace=False)
@@ -296,8 +449,10 @@ def add_setting(cfg, data, clusters, sites):
     psus = clusters.drop_duplicates("psu_id").sort_values("psu_id")
     camp = psus["psu_id"].map(sites.set_index("site_id")["category"]).eq("in_camp").to_numpy()
     u = rng.random(len(psus))
-    setting = np.where(camp, np.where(u < 0.6, "camp_formal", "camp_informal"), np.where(u < 0.25, "urban", "rural"))
-    data["setting"] = data["psu_id"].map(dict(zip(psus["psu_id"], setting)))
+    setting = np.where(
+        camp, np.where(u < 0.6, "camp_formal", "camp_informal"), np.where(u < 0.25, "urban", "rural")
+    )
+    data["setting"] = data["psu_id"].map(dict(zip(psus["psu_id"], setting, strict=False)))
     return data
 
 
@@ -312,10 +467,20 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
     counts = data.loc[pool, "enumerator_id"].value_counts()
     bad_enums = rng.choice(counts[counts >= 60].index.to_numpy(), e["problem_enumerators"], replace=False)
     bad_rows = data.index[data["enumerator_id"].isin(bad_enums) & data["consent"].eq("yes")]
-    template_cols = [col for col in data.columns if col.startswith(("fcs_", "rcsi_", "hhs_", "lcsi_"))] + \
-        ["water_source", "water_sufficient", "sanitation_facility", "handwashing_soap", "shelter_type",
-         "shelter_damage", "health_need", "health_access", "health_barrier", "income_source", "aid_received",
-         "priority_needs"]
+    template_cols = [col for col in data.columns if col.startswith(("fcs_", "rcsi_", "hhs_", "lcsi_"))] + [
+        "water_source",
+        "water_sufficient",
+        "sanitation_facility",
+        "handwashing_soap",
+        "shelter_type",
+        "shelter_damage",
+        "health_need",
+        "health_access",
+        "health_barrier",
+        "income_source",
+        "aid_received",
+        "priority_needs",
+    ]
     for enum in bad_enums:
         rows = data.index[(data["enumerator_id"] == enum) & data["consent"].eq("yes")]
         template = data.loc[rows[0], template_cols]
@@ -358,19 +523,22 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
         data.loc[r, "hh_size"] = int(rng.integers(35, 81))
         key.append((r, "hh_size_outlier", "change", f"household size {data.loc[r, 'hh_size']}"))
     for r in take(e["children_exceed_hh"]):
-        data.loc[r, "n_children_school_age"] = data.loc[r, "hh_size"] - data.loc[r, "n_children_u5"] + \
-            int(rng.integers(1, 4))
+        data.loc[r, "n_children_school_age"] = (
+            data.loc[r, "hh_size"] - data.loc[r, "n_children_u5"] + int(rng.integers(1, 4))
+        )
         data.loc[r, "n_children_attending"] = min(data.loc[r, "n_children_school_age"], 2)
         key.append((r, "children_exceed_hh", "flag", "more children than household members"))
     school = np.array([r for r in pool if data.loc[r, "n_children_school_age"] > 0])
     rate = e["attending_exceed_school_age"]
-    for r in school[:int(round(rate * len(df)))]:
+    for r in school[: int(round(rate * len(df)))]:
         data.loc[r, "n_children_attending"] = data.loc[r, "n_children_school_age"] + int(rng.integers(1, 4))
         key.append((r, "attending_exceed_school_age", "flag", "more children attending than of school age"))
-    pool = np.setdiff1d(pool, school[:int(round(rate * len(df)))])
+    pool = np.setdiff1d(pool, school[: int(round(rate * len(df)))])
     rng.shuffle(pool)
     for r in take(e["wrong_cluster"]):
-        data.loc[r, "cluster_id"] = data.loc[r, "cluster_id"].rsplit("_", 1)[0] + "_C9" + str(rng.integers(10))
+        data.loc[r, "cluster_id"] = (
+            data.loc[r, "cluster_id"].rsplit("_", 1)[0] + "_C9" + str(rng.integers(10))
+        )
         key.append((r, "wrong_cluster", "delete", "cluster code not in the sample"))
     for r in take(e["other_to_recode"]):
         text = list(RECODABLE_OTHER)[rng.integers(len(RECODABLE_OTHER))]
@@ -381,7 +549,9 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
     extra, extra_key = [], []
     for r in take(e["duplicate_exact"]):
         extra.append(data.loc[r].copy())
-        extra_key.append(("duplicate_exact", "delete", "same submission uploaded twice", data.loc[r, "_uuid"]))
+        extra_key.append(
+            ("duplicate_exact", "delete", "same submission uploaded twice", data.loc[r, "_uuid"])
+        )
     for r in take(e["duplicate_near"]):
         row = data.loc[r].copy()
         row["_uuid"] = str(uuid.UUID(bytes=rng.bytes(16), version=4))
@@ -390,12 +560,14 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
         row["hh_size"] = max(1, row["hh_size"] + int(rng.choice([-1, 1])))
         row["fcs_meat"] = int(np.clip(row["fcs_meat"] + rng.choice([-1, 1]), 0, 7))
         extra.append(row)
-        extra_key.append(("duplicate_near", "delete", f"household {row['household_id']} interviewed twice",
-                          row["_uuid"]))
+        extra_key.append(
+            ("duplicate_near", "delete", f"household {row['household_id']} interviewed twice", row["_uuid"])
+        )
 
     # interviews in clusters that partners had reported inaccessible
     dropped = clusters[clusters["status"] == "inaccessible"].sample(
-        n=max(1, int(round(e["dropped_cluster"] * len(df) / 6))), random_state=int(rng.integers(1 << 31)))
+        n=max(1, int(round(e["dropped_cluster"] * len(df) / 6))), random_state=int(rng.integers(1 << 31))
+    )
     for cl in dropped.itertuples():
         # msna-sampling drew no households for inaccessible clusters, so place 6 around the cluster point
         team = roster[(roster["partner"] == cl.partner)]["enumerator_id"].to_numpy()
@@ -404,14 +576,24 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
             continue
         for k in range(1, 7):
             row = donors.iloc[int(rng.integers(len(donors)))].copy()
-            row["cluster_id"], row["household_id"], row["psu_id"] = cl.cluster_id, f"{cl.cluster_id}_H{k:02d}", cl.psu_id
+            row["cluster_id"], row["household_id"], row["psu_id"] = (
+                cl.cluster_id,
+                f"{cl.cluster_id}_H{k:02d}",
+                cl.psu_id,
+            )
             row["enumerator_id"] = team[rng.integers(len(team))]
             row["gps_lat"] = cl.lat + rng.normal(0, 300) / 111_320
             row["gps_lon"] = cl.lon + rng.normal(0, 300) / (111_320 * np.cos(np.radians(cl.lat)))
             row["_uuid"] = str(uuid.UUID(bytes=rng.bytes(16), version=4))
             extra.append(row)
-            extra_key.append(("dropped_cluster", "delete", f"cluster {cl.cluster_id} was reported inaccessible",
-                              row["_uuid"]))
+            extra_key.append(
+                (
+                    "dropped_cluster",
+                    "delete",
+                    f"cluster {cl.cluster_id} was reported inaccessible",
+                    row["_uuid"],
+                )
+            )
 
     # Follow-up partners return to interview unused reserve households: in place of each
     # interview cleaning will delete, and, where clusters were lost to access without a
@@ -430,8 +612,11 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
     donors_used = set()
 
     def revisit(visit, h):
-        donors = clean[clean["stratum_id"].eq(visit["stratum_id"]) & clean["enumerator_id"].ne(visit["enumerator_id"])
-                       & ~clean.index.isin(donors_used)]
+        donors = clean[
+            clean["stratum_id"].eq(visit["stratum_id"])
+            & clean["enumerator_id"].ne(visit["enumerator_id"])
+            & ~clean.index.isin(donors_used)
+        ]
         if donors.empty:
             return False
         pick = donors.index[int(rng.integers(len(donors)))]
@@ -439,10 +624,14 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
         row = donors.loc[pick].copy()
         row["cluster_id"], row["household_id"], row["psu_id"] = h.cluster_id, h.household_id, visit["psu_id"]
         row["enumerator_id"] = visit["enumerator_id"]
-        row["date"] = min(visit["date"] + timedelta(days=int(rng.integers(c["follow_up_days"][0],
-                                                                            c["follow_up_days"][1] + 1))), last_day)
-        row["start_dt"] = datetime.combine(row["date"], datetime.min.time()) + \
-            timedelta(minutes=float(rng.uniform(9.5 * 60, 14 * 60)))
+        row["date"] = min(
+            visit["date"]
+            + timedelta(days=int(rng.integers(c["follow_up_days"][0], c["follow_up_days"][1] + 1))),
+            last_day,
+        )
+        row["start_dt"] = datetime.combine(row["date"], datetime.min.time()) + timedelta(
+            minutes=float(rng.uniform(9.5 * 60, 14 * 60))
+        )
         row["duration_min"] = float(np.exp(rng.normal(c["duration_meanlog"], c["duration_sdlog"])))
         row["hh_lat"], row["hh_lon"] = h.lat, h.lon
         row["gps_lat"] = h.lat + rng.normal(0, c["gps_noise_m"]) / 111_320
@@ -461,7 +650,7 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
     visits = data[data["cluster_id"].isin(clusters["cluster_id"])].drop_duplicates("cluster_id")
     target = clusters[clusters["draw"].eq("stage1")].groupby("stratum_id").size() * cfg_target(cfg)
     active_n = clusters[clusters["status"].eq("active")].groupby("stratum_id").size()
-    shortfall = (target - active_n.reindex(target.index, fill_value=0) * cfg_target(cfg))
+    shortfall = target - active_n.reindex(target.index, fill_value=0) * cfg_target(cfg)
     for stratum, need in shortfall[shortfall > 0].items():
         stratum_visits = visits[visits["stratum_id"].eq(stratum)].sort_values("cluster_id")
         if stratum_visits.empty or stratum_visits["partner"].iat[0] not in follow_up:
@@ -477,41 +666,74 @@ def plant_errors(cfg, rng, df, clusters, households, roster, sites, follow_up):
                 spare[v["cluster_id"]].pop(0)
                 added += 1
 
-    key_df = pd.DataFrame([{"_uuid": data.loc[r, "_uuid"], "error_type": t, "expected_action": a, "detail": d}
-                           for r, t, a, d in key])
+    key_df = pd.DataFrame(
+        [
+            {"_uuid": data.loc[r, "_uuid"], "error_type": t, "expected_action": a, "detail": d}
+            for r, t, a, d in key
+        ]
+    )
     if extra:
         data = pd.concat([data, pd.DataFrame(extra)], ignore_index=True)
-        key_df = pd.concat([key_df, pd.DataFrame([{"_uuid": u, "error_type": t, "expected_action": a, "detail": d}
-                                                  for t, a, d, u in extra_key])], ignore_index=True)
+        key_df = pd.concat(
+            [
+                key_df,
+                pd.DataFrame(
+                    [
+                        {"_uuid": u, "error_type": t, "expected_action": a, "detail": d}
+                        for t, a, d, u in extra_key
+                    ]
+                ),
+            ],
+            ignore_index=True,
+        )
     return data, key_df
 
 
 def to_export(data):
     """Shape the data like a Kobo export: form fields, then _gps and _ system columns."""
     out = data.copy()
-    out["end_dt"] = [s + timedelta(minutes=float(m)) for s, m in zip(out["start_dt"], out["duration_min"])]
+    out["end_dt"] = [
+        s + timedelta(minutes=float(m)) for s, m in zip(out["start_dt"], out["duration_min"], strict=False)
+    ]
     fmt = "%Y-%m-%dT%H:%M:%S.000+01:00"
     out["start"] = [d.strftime(fmt) for d in out["start_dt"]]
     out["end"] = [d.strftime(fmt) for d in out["end_dt"]]
     out["today"] = [d.strftime("%Y-%m-%d") for d in out["start_dt"]]
-    out["_submission_time"] = [(d - WAT + timedelta(hours=6)).strftime("%Y-%m-%dT%H:%M:%S") for d in out["end_dt"]]
+    out["_submission_time"] = [
+        (d - WAT + timedelta(hours=6)).strftime("%Y-%m-%dT%H:%M:%S") for d in out["end_dt"]
+    ]
     out["partner"] = out["partner"].str.lower().str.replace(" ", "_")
     out["_gps_latitude"] = out["gps_lat"].round(6)
     out["_gps_longitude"] = out["gps_lon"].round(6)
     out["_gps_precision"] = out["gps_precision"]
     for need in NEEDS:
         out[f"priority_needs/{need}"] = np.where(
-            out["priority_needs"].isna(), None,
-            out["priority_needs"].fillna("").str.split().apply(lambda s, k=need: int(k in s)))
+            out["priority_needs"].isna(),
+            None,
+            out["priority_needs"].fillna("").str.split().apply(lambda s, k=need: int(k in s)),
+        )
     survey = pd.read_csv(ROOT / "questionnaire" / "survey.csv", dtype=str)
-    fields = [n for t, n in zip(survey["type"], survey["name"]) if isinstance(n, str)
-              and not t.startswith(("begin_group", "end_group")) and n != "gps"]
-    cols = fields + [f"priority_needs/{need}" for need in NEEDS] + \
-        ["_gps_latitude", "_gps_longitude", "_gps_precision", "_uuid", "_submission_time"]
+    fields = [
+        n
+        for t, n in zip(survey["type"], survey["name"], strict=False)
+        if isinstance(n, str) and not t.startswith(("begin_group", "end_group")) and n != "gps"
+    ]
+    cols = (
+        fields
+        + [f"priority_needs/{need}" for need in NEEDS]
+        + ["_gps_latitude", "_gps_longitude", "_gps_precision", "_uuid", "_submission_time"]
+    )
     out = out.sort_values(["_submission_time", "_uuid"]).reset_index(drop=True)
     out["_index"] = np.arange(1, len(out) + 1)
-    for col in ["resp_age", "hh_size", "hoh_age", "n_children_u5", "n_children_school_age", "months_displaced",
-                "n_children_attending"] + [c for c in cols if c.startswith(("fcs_", "rcsi_"))]:
+    for col in [
+        "resp_age",
+        "hh_size",
+        "hoh_age",
+        "n_children_u5",
+        "n_children_school_age",
+        "months_displaced",
+        "n_children_attending",
+    ] + [c for c in cols if c.startswith(("fcs_", "rcsi_"))]:
         out[col] = out[col].astype("Int64")
     return out[cols + ["_index"]], out
 
@@ -523,8 +745,9 @@ def main() -> int:
     form = build_xlsform()
 
     clusters = pd.read_csv(src / "clusters_after_resampling.csv").sort_values("cluster_id")
-    households = pd.concat([pd.read_csv(f) for f in sorted((src / "households").glob("*.csv"))],
-                           ignore_index=True)
+    households = pd.concat(
+        [pd.read_csv(f) for f in sorted((src / "households").glob("*.csv"))], ignore_index=True
+    )
     sites = pd.read_csv(src / "idp_sites_synthetic.csv")
 
     active = clusters[clusters["status"] == "active"].copy()
@@ -551,11 +774,15 @@ def main() -> int:
 
     per_day = full.groupby("today").size()
     print(f"XLSForm: {form.relative_to(ROOT)}")
-    print(f"Fieldwork: {active['cluster_id'].nunique():,} clusters visited over {per_day.size} days by "
-          f"{len(roster)} enumerators; peak {per_day.max():,} submissions on {per_day.idxmax()}")
+    print(
+        f"Fieldwork: {active['cluster_id'].nunique():,} clusters visited over {per_day.size} days by "
+        f"{len(roster)} enumerators; peak {per_day.max():,} submissions on {per_day.idxmax()}"
+    )
     print(f"Submissions: {len(export):,} ({(export['consent'] == 'yes').sum():,} with consent)")
-    print(f"Planted errors: {len(key):,} rows in the answer key, "
-          + ", ".join(f"{k} {v}" for k, v in key["error_type"].value_counts().sort_index().items()))
+    print(
+        f"Planted errors: {len(key):,} rows in the answer key, "
+        + ", ".join(f"{k} {v}" for k, v in key["error_type"].value_counts().sort_index().items())
+    )
     return 0
 
 
