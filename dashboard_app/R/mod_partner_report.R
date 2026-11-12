@@ -279,5 +279,6 @@ build_partner_pdf <- function(org_id_val, file, target_basis = "original") {
     annotate("text", x = 0, y = 1, label = focus_text, hjust = 0, vjust = 1, size = 3.6, family = "mono")
 
   combined <- cowplot::plot_grid(header_plot, bar_plot, focus_plot, ncol = 1, rel_heights = c(0.22, 0.50, 0.28))
-  ggsave(file, combined, width = 8.27, height = 11.69, units = "in", device = "pdf")
+  # WinAnsi has the en and em dashes; Linux's default PDF encoding (Latin-1) would print hyphens
+  ggsave(file, combined, width = 8.27, height = 11.69, units = "in", device = "pdf", encoding = "WinAnsi.enc")
 }
