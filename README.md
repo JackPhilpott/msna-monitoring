@@ -6,12 +6,13 @@ Stages 2 and 3 of the [MSNA pipeline](https://github.com/JackPhilpott/msna-pipel
 collection as it happens, cleaning the data, and checking it is fit for analysis.
 
 This is a public, runnable version of the monitoring I built for the 2026 northern Nigeria
-Multi-Sector Needs Assessment (MSNA). The real survey covers 32,000 households across 11 states and
-176 local government areas (LGAs). It runs with 20+ partner organisations, at up to 1,000
-submissions a day. At that pace, problems have to be caught within days, not after collection
-ends: interviews that are too short, GPS points far from the household, duplicates, implausible
-answers, and enumerators whose interviews all look the same. Each partner needs to know what to
-follow up, and the team needs to see progress against target in every LGA. This repo runs the same
+Multi-Sector Needs Assessment (MSNA). The 2026 northern Nigeria MSNA collected 30,544 household
+interviews across 11 states and 170 local government areas (LGAs), with 22 partner organisations
+and more than 1,000 submissions a day at peak. 27,333 were kept after cleaning. At that pace,
+problems had to be caught within days, not after collection ended: interviews that were too short,
+GPS points far from the household, duplicates, implausible answers, and enumerators whose
+interviews all looked the same. Each partner needed to know what to follow up, and the team needed
+to see progress against target in every LGA. This repo runs the same
 workflow on six weeks of synthetic submissions, from the sample drawn in
 [`msna-sampling`](https://github.com/JackPhilpott/msna-sampling) to a clean dataset ready for
 analysis. Its dashboard is the one used on the real survey, ported onto the synthetic data.

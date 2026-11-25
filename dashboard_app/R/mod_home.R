@@ -15,8 +15,8 @@ mod_home_ui <- function(id) {
           p(
             "This dashboard tracks the daily progress of household data collection for the 2026 ",
             "Multi-Sector Needs Assessment (MSNA) in north-east, north-west and north-central Nigeria. ",
-            "The real survey covers about 32,000 households across 11 states and 176 local government ",
-            "areas (LGAs), collected by more than 20 partner organisations at up to 1,000 interviews a day. ",
+            "The real survey collected 30,544 household interviews across 11 states and 170 local government ",
+            "areas (LGAs), from 22 partner organisations, with more than 1,000 a day at peak. ",
             "At that pace, problems have to be caught within days, not after collection ends. The ",
             "dashboard compares what has been collected with the sampling frame's targets, shows where ",
             "collection is falling behind, and surfaces the data-quality issues that need follow-up while ",
